@@ -64,7 +64,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f17866776867a735406aaa78afc4' height=32>|Alan Walker|[open](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN)|
 |<img src='https://i.scdn.co/image/ab6761610000f1781760921e7e7d6c31d1949a92' height=32>|Alison Wonderland|[open](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW)|
 |<img src='https://i.scdn.co/image/ab6761610000f178589da95c2c9de7b23571ae9c' height=32>|Andrew Perkins|[open](https://open.spotify.com/artist/6n6nuTjsajI8tooRU3SYDA)|
-|<img src='https://i.scdn.co/image/ab67616d00004851ee1b207a83b860a980a9aa20' height=32>|Anjunabeats|[open](https://open.spotify.com/artist/7aqysYAN8bVjQuJSo9PyqR)|
+|<img src='https://i.scdn.co/image/ab67616d00004851e89ff6004622cff514f820f0' height=32>|Anjunabeats|[open](https://open.spotify.com/artist/7aqysYAN8bVjQuJSo9PyqR)|
 |<img src='https://i.scdn.co/image/ab6761610000f178d681a74e4f148b698baf6edb' height=32>|Apashe|[open](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN)|
 |<img src='https://i.scdn.co/image/ab67616d0000485194008f6625cab88b318e3c49' height=32>|Aperture Science Psychoacoustic Laboratories|[open](https://open.spotify.com/artist/7d58WZ8qQHy2Sm5p52V2NP)|
 |<img src='https://i.scdn.co/image/ab6761610000f178f207f2c7e1897ea962e35bcb' height=32>|Au5|[open](https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF)|
@@ -104,7 +104,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f178b63ff25a61b49e90c902242e' height=32>|HIGHSOCIETY|[open](https://open.spotify.com/artist/32MQN2sITkJGNQN40QLPEa)|
 |<img src='https://i.scdn.co/image/ab6761610000f17883a7b7e2086b6464e65dec1f' height=32>|HVDES|[open](https://open.spotify.com/artist/3koHmmPvpgZWHcVmK8AKDq)|
 |<img src='https://i.scdn.co/image/ab67616d000048514e661a9742c68dbac38bc96f' height=32>|Harry Callaghan|[open](https://open.spotify.com/artist/0CZEqMfdBYoVnBmoUxwnS5)|
-|<img src='https://i.scdn.co/image/ab6761610000f17855d90a0c146f3d60c1c9b342' height=32>|Heyz|[open](https://open.spotify.com/artist/5X1EM1jg35YB5jmw7qVIlh)|
+|<img src='https://i.scdn.co/image/ab6761610000f178df1461245bb0050c0a5063f5' height=32>|Heyz|[open](https://open.spotify.com/artist/5X1EM1jg35YB5jmw7qVIlh)|
 |<img src='https://i.scdn.co/image/ab6761610000f17827d8de4982a4464d1d3457e4' height=32>|I am Sid|[open](https://open.spotify.com/artist/2ppBQNrWJWS2DsJzrF2Kst)|
 |<img src='https://i.scdn.co/image/ab6761610000f1786b5fbf615ada187ce5e425c8' height=32>|ILLENIUM|[open](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg)|
 |<img src='https://i.scdn.co/image/ab67616d000048519c8176d123ff5ec9a540f47b' height=32>|INTERCOM|[open](https://open.spotify.com/artist/6cHi0QWaBxWN71YpvTR4Jr)|
