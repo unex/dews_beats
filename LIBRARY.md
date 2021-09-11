@@ -19,7 +19,7 @@
 |Proximity|Proximity|EDM/Electronic Dance Music from Proximity updated every TWO WEEKS! Other playlists here: <a href="https://open.spotify.com/playlist/4sIYMafu8OhwxjV4kDdGzJ?si=wsWP_3JpSoKAcfeeLPgy4Q">Drive</a> / <a href="https://open.spotify.com/playlist/49pxpTd9cWmFXqLEkwzyN2?si=mdQS17_OQuq">Proximity Chill</a>|[open](https://open.spotify.com/playlist/3VEFRGe3APwGRl4eTpMS4x)|
 |R|dunce||[open](https://open.spotify.com/playlist/0Yg4Y8u5RffkQfLl5PBQE0)|
 |Release Radar|Spotify|Catch all the latest music from artists you follow, plus new singles picked for you. Updates every Friday.|[open](https://open.spotify.com/playlist/37i9dQZEVXbnh1QaRGLArX)|
-|Walker Radio|Alan Walker|Don't You Hold Me Down - out now! |[open](https://open.spotify.com/playlist/4CMmmIRrtAcDc8LuCUlmg6)|
+|Walker Racing League|Alan Walker|Walker Racing League EP - out now! |[open](https://open.spotify.com/playlist/4CMmmIRrtAcDc8LuCUlmg6)|
 |Your Top Songs 2020|Spotify|The songs you loved most this year, all wrapped up.|[open](https://open.spotify.com/playlist/37i9dQZF1EM5ISebhB9z7B)|
 |ambiance?|dunce||[open](https://open.spotify.com/playlist/3eJklJcecHjhORbjfBfwo4)|
 |b|dunce||[open](https://open.spotify.com/playlist/3NYywkmr0sCXCdQdyPv1EY)|
@@ -193,7 +193,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f1787462d94efa2db53abba8c003' height=32>|Various Artists|[open](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of)|
 |<img src='https://i.scdn.co/image/662a56bd962533eaaf1a686dd067bfe737a0b21d' height=32>|Veorra|[open](https://open.spotify.com/artist/2WMIMX93pQyfyAF2J2r1ID)|
 |<img src='https://i.scdn.co/image/ab6761610000f17816c3d0508b78984977eef4cf' height=32>|Vini Vici|[open](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy)|
-|<img src='https://i.scdn.co/image/ab6761610000f178d5648b833961474761327611' height=32>|Virtual Riot|[open](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1)|
+|<img src='https://i.scdn.co/image/ab67616d00004851353536c77504a45cd26a90c5' height=32>|Virtual Riot|[open](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1)|
 |<img src='https://i.scdn.co/image/ab6761610000f178f4f156ad059348f5f02b1fae' height=32>|Vogel|[open](https://open.spotify.com/artist/0IPgmXKtAVL8x0Gwqc2SuM)|
 |<img src='https://i.scdn.co/image/ab6761610000f1780345792f7e33293cbfa91eaf' height=32>|WHIPPED CREAM|[open](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi)|
 |<img src='https://i.scdn.co/image/ab6761610000f178b72801394d45c260142de432' height=32>|Will Sparks|[open](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U)|
