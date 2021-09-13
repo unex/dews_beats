@@ -113,7 +113,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f1782ea36e7e9e49762e4a5c7d9b' height=32>|Infected Mushroom|[open](https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI)|
 |<img src='https://i.scdn.co/image/ab6761610000f178f14cf3e823e826e73f877667' height=32>|JOYRYDE|[open](https://open.spotify.com/artist/24neLwyYRyj4ItaGnFeIT0)|
 |<img src='https://i.scdn.co/image/ab6761610000f17867f14a96b22ef8e0fd8f1bd1' height=32>|JVNA|[open](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A)|
-|<img src='https://i.scdn.co/image/ab67616d0000485168913fdedfd7297da1c7098d' height=32>|James Egbert|[open](https://open.spotify.com/artist/0MHUXo8PYYFpnXY73siC8T)|
+|<img src='https://i.scdn.co/image/ab6761610000f178d283305b0dd93c5472bb3f22' height=32>|James Egbert|[open](https://open.spotify.com/artist/0MHUXo8PYYFpnXY73siC8T)|
 |<img src='https://i.scdn.co/image/ab6761610000f178b7c7b10bb07bcc5e18f2c920' height=32>|Jason Ross|[open](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150)|
 |<img src='https://i.scdn.co/image/ab6761610000f1781f9d81c89a9678ef97b39ffc' height=32>|Juno Reactor|[open](https://open.spotify.com/artist/1Pe3z1UqRzKsQtHsl25dm6)|
 |<img src='https://i.scdn.co/image/38fd4c4912bd5f103b744f077c8b8a72aab7ca06' height=32>|Justin OH|[open](https://open.spotify.com/artist/5x2u5vpKBhviWQlni8VM8L)|
