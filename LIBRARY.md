@@ -87,7 +87,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f178998c93aa5c43a9f57c4f2258' height=32>|Delta Heavy|[open](https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T)|
 |<img src='https://i.scdn.co/image/ab6761610000f17840abe2711c71c9927b5513be' height=32>|Dillon Francis|[open](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf)|
 |<img src='https://i.scdn.co/image/ab6761610000f178ae2ffce136c839d899ca8e30' height=32>|Dimension|[open](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S)|
-|<img src='https://i.scdn.co/image/ab6761610000f1785e1a660c642d57a821bcdeec' height=32>|Dom Dolla|[open](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m)|
+|<img src='https://i.scdn.co/image/ab6761610000f17800e244c4015b200c74e84669' height=32>|Dom Dolla|[open](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m)|
 |<img src='https://i.scdn.co/image/ab6761610000f17809e5210f7618a0baad59a06c' height=32>|Dominus|[open](https://open.spotify.com/artist/0uDJS3oEIxgZeqAPi7REq6)|
 |<img src='https://i.scdn.co/image/ab6761610000f17816ac357520587465699a0490' height=32>|DotEXE|[open](https://open.spotify.com/artist/2S2RMiHABGxAQqdqwUN5qF)|
 |<img src='https://i.scdn.co/image/ab6761610000f178328dded918ee5ec1515fa32f' height=32>|EDDIE|[open](https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd)|
@@ -188,7 +188,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f1785dbbcfade58b627bb77b1a69' height=32>|Trivecta|[open](https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye)|
 |<img src='https://i.scdn.co/image/ab6761610000f178a0bc106fb6da08602c3e9359' height=32>|Tut Tut Child|[open](https://open.spotify.com/artist/6EmSzH0r12lNsYQCFzCFS3)|
 |<img src='https://i.scdn.co/image/ab67616d00004851149cf6977defe909fd7d34fd' height=32>|Two Steps from Hell|[open](https://open.spotify.com/artist/2qvP9yerCZCS0U1gZU8wYp)|
-|<img src='https://i.scdn.co/image/ab6761610000f178386eb13079949607bb1ca9be' height=32>|VVN|[open](https://open.spotify.com/artist/7215FhQXuF7Ffdvt3Wkeea)|
+|<img src='https://i.scdn.co/image/ab6761610000f17869531a1dc44cbc28ba2fc3a4' height=32>|VVN|[open](https://open.spotify.com/artist/7215FhQXuF7Ffdvt3Wkeea)|
 |<img src='https://i.scdn.co/image/ab6761610000f178bbaabf6f1baa55b8b866e295' height=32>|Varien|[open](https://open.spotify.com/artist/2g1JSu9UfRcQQYb3b03Km7)|
 |<img src='https://i.scdn.co/image/ab6761610000f1787462d94efa2db53abba8c003' height=32>|Various Artists|[open](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of)|
 |<img src='https://i.scdn.co/image/662a56bd962533eaaf1a686dd067bfe737a0b21d' height=32>|Veorra|[open](https://open.spotify.com/artist/2WMIMX93pQyfyAF2J2r1ID)|
