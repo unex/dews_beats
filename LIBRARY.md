@@ -98,7 +98,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f17845e307f86497cf38a78b7c4f' height=32>|Fatum|[open](https://open.spotify.com/artist/3pt2vTpH1eI776oDZT1G2C)|
 |<img src='https://i.scdn.co/image/ab6761610000f178f83872b58f25029452b96961' height=32>|Feed Me|[open](https://open.spotify.com/artist/5FWi1mowu6uiU2ZHwr1rby)|
 |<img src='https://i.scdn.co/image/ab6761610000f17874fc5ed84d53231a33b369d7' height=32>|Foxhunt|[open](https://open.spotify.com/artist/5lpSSVeq7jy5576AswyLNr)|
-|<img src='https://i.scdn.co/image/ab6761610000f178c9dd979c4c6a89325f674841' height=32>|Gareth Emery|[open](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi)|
+|<img src='https://i.scdn.co/image/ab6761610000f1789a132b1fa8c7ad1bc7597dab' height=32>|Gareth Emery|[open](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi)|
 |<img src='https://i.scdn.co/image/ab6761610000f17876b1e75663929865ef5cbb35' height=32>|Gemini|[open](https://open.spotify.com/artist/3QqJ1L8cWsPFZ1YDPpUmvG)|
 |<img src='https://i.scdn.co/image/ab6761610000f1787fa99a739980cf77a38f995b' height=32>|Gesaffelstein|[open](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP)|
 |<img src='https://i.scdn.co/image/ab6761610000f178b63ff25a61b49e90c902242e' height=32>|HIGHSOCIETY|[open](https://open.spotify.com/artist/32MQN2sITkJGNQN40QLPEa)|
@@ -131,7 +131,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f178fa9c2470cb7efdff9c96ed90' height=32>|Lookas|[open](https://open.spotify.com/artist/27fy6rHPC58Eo2VUu0iJSG)|
 |<img src='https://i.scdn.co/image/ab6761610000f1783f59861bb18baeb629476c6a' height=32>|LŪN|[open](https://open.spotify.com/artist/44RV4NtG7667JQNtX6iDZc)|
 |<img src='https://i.scdn.co/image/ab6761610000f178907487ab7f2f54efb99d57f8' height=32>|MUZZ|[open](https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg)|
-|<img src='https://i.scdn.co/image/ab6761610000f17885b816ba815094eac36c3a63' height=32>|Maison Ware|[open](https://open.spotify.com/artist/0A85Mz9YHumTq1HgNtt6aA)|
+|<img src='https://i.scdn.co/image/ab6761610000f178025217e543d7fe18af2f6a46' height=32>|Maison Ware|[open](https://open.spotify.com/artist/0A85Mz9YHumTq1HgNtt6aA)|
 |<img src='https://i.scdn.co/image/ab6761610000f178bcc0f9459c1b1f64f1fffcae' height=32>|Malaa|[open](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS)|
 |<img src='https://i.scdn.co/image/ab6761610000f1789e2dae585750a8d6055f4e35' height=32>|Marilyn Manson|[open](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj)|
 |<img src='https://i.scdn.co/image/ab6761610000f17866d17ee8690d2e8d94ee7387' height=32>|Martin Garrix|[open](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ)|
@@ -163,7 +163,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f178b71b3553fa73cbccb43eced0' height=32>|Rezz|[open](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw)|
 |<img src='https://i.scdn.co/image/ab6761610000f1788bea9b2bda506dfd3d69039c' height=32>|Rickyxsan|[open](https://open.spotify.com/artist/0lqxqV3IhQXO5czq1d0ZfJ)|
 |<img src='https://i.scdn.co/image/ab6761610000f178172451810a37f3caf0136525' height=32>|Roniit|[open](https://open.spotify.com/artist/09KYpkm7IEPR3nc8omKpSY)|
-|<img src='https://i.scdn.co/image/ab6761610000f178219731cedc7c1dafaf5f7526' height=32>|SWARM|[open](https://open.spotify.com/artist/07OF36h5y4S6s9ckQliaj3)|
+|<img src='https://i.scdn.co/image/ab6761610000f1783337ae08ac40ef744d43fde9' height=32>|SWARM|[open](https://open.spotify.com/artist/07OF36h5y4S6s9ckQliaj3)|
 |<img src='https://i.scdn.co/image/ab6761610000f178cd9e2b8f901285164a7fde6c' height=32>|Said The Sky|[open](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu)|
 |<img src='https://i.scdn.co/image/ab6761610000f178ec9e43b2944e4afe4e29bc90' height=32>|Savoy|[open](https://open.spotify.com/artist/25vU5DYwHIHhg1ViWV3SJq)|
 |<img src='https://i.scdn.co/image/ab6761610000f1783a120b5c7fefeed869234a71' height=32>|Seven Lions|[open](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp)|
