@@ -140,7 +140,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f17892e127fb17994d9a3883abe0' height=32>|Mega Drive|[open](https://open.spotify.com/artist/1WxMvNsfdsGftDZ4oO21L8)|
 |<img src='https://i.scdn.co/image/ab6761610000f178c16477abb9aa926a7b2b00d9' height=32>|Michael McCann|[open](https://open.spotify.com/artist/2WqOMwQLdZ5txM8U9lvZGR)|
 |<img src='https://i.scdn.co/image/ab6761610000f1784783a51dd63610bafeba1f09' height=32>|Monstercat|[open](https://open.spotify.com/artist/4YwB41gFHCxY5bcNR3CcIH)|
-|<img src='https://i.scdn.co/image/ab6761610000f178b657068def1e3682477b3dbf' height=32>|Moon Rush|[open](https://open.spotify.com/artist/1ihe93yknourIdEiCZBmpk)|
+|<img src='https://i.scdn.co/image/ab6761610000f178f64b9de7eb883cb4eaec212e' height=32>|Moon Rush|[open](https://open.spotify.com/artist/1ihe93yknourIdEiCZBmpk)|
 |<img src='https://i.scdn.co/image/ab6761610000f1784e1b58b56d739ed2d00b77c9' height=32>|Mountkid|[open](https://open.spotify.com/artist/5HIaWUt7K7zHFsUZDy5fvX)|
 |<img src='https://i.scdn.co/image/ab6761610000f1782ab90dd305592df399ac066a' height=32>|NERO|[open](https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD)|
 |<img src='https://i.scdn.co/image/ab6761610000f1780d672afd26632c2545d95a43' height=32>|NERVO|[open](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK)|
