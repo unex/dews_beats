@@ -98,7 +98,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f17845e307f86497cf38a78b7c4f' height=32>|Fatum|[open](https://open.spotify.com/artist/3pt2vTpH1eI776oDZT1G2C)|
 |<img src='https://i.scdn.co/image/ab6761610000f178f83872b58f25029452b96961' height=32>|Feed Me|[open](https://open.spotify.com/artist/5FWi1mowu6uiU2ZHwr1rby)|
 |<img src='https://i.scdn.co/image/ab6761610000f17874fc5ed84d53231a33b369d7' height=32>|Foxhunt|[open](https://open.spotify.com/artist/5lpSSVeq7jy5576AswyLNr)|
-|<img src='https://i.scdn.co/image/ab6761610000f1789a132b1fa8c7ad1bc7597dab' height=32>|Gareth Emery|[open](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi)|
+|<img src='https://i.scdn.co/image/ab6761610000f178c61da4699f88b08d085ca593' height=32>|Gareth Emery|[open](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi)|
 |<img src='https://i.scdn.co/image/ab6761610000f17876b1e75663929865ef5cbb35' height=32>|Gemini|[open](https://open.spotify.com/artist/3QqJ1L8cWsPFZ1YDPpUmvG)|
 |<img src='https://i.scdn.co/image/ab6761610000f1787fa99a739980cf77a38f995b' height=32>|Gesaffelstein|[open](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP)|
 |<img src='https://i.scdn.co/image/ab6761610000f178b63ff25a61b49e90c902242e' height=32>|HIGHSOCIETY|[open](https://open.spotify.com/artist/32MQN2sITkJGNQN40QLPEa)|
