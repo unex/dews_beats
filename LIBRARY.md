@@ -16,10 +16,10 @@
 |My Shazam Tracks|dunce||[open](https://open.spotify.com/playlist/7doUnZFW5DsWCVINncMhEF)|
 |New Music Weekly \| Monstercat|Monstercat|Brand new music from Monstercat, all in one place.|[open](https://open.spotify.com/playlist/4kw9kdjzx1UmyWvpysl0y2)|
 |Operator|Spotify|Tech house technicians. Featuring new music by J. Worra|[open](https://open.spotify.com/playlist/37i9dQZF1DWVY4eLfA3XFQ)|
+|Paradise|Alan Walker|Paradise - out now! |[open](https://open.spotify.com/playlist/4CMmmIRrtAcDc8LuCUlmg6)|
 |Proximity|Proximity|EDM/Electronic Dance Music from Proximity updated every TWO WEEKS! Other playlists here: <a href="https://open.spotify.com/playlist/4sIYMafu8OhwxjV4kDdGzJ?si=wsWP_3JpSoKAcfeeLPgy4Q">Drive</a> / <a href="https://open.spotify.com/playlist/49pxpTd9cWmFXqLEkwzyN2?si=mdQS17_OQuq">Proximity Chill</a>|[open](https://open.spotify.com/playlist/3VEFRGe3APwGRl4eTpMS4x)|
 |R|dunce||[open](https://open.spotify.com/playlist/0Yg4Y8u5RffkQfLl5PBQE0)|
 |Release Radar|Spotify|Catch all the latest music from artists you follow, plus new singles picked for you. Updates every Friday.|[open](https://open.spotify.com/playlist/37i9dQZEVXbnh1QaRGLArX)|
-|Walker Racing League|Alan Walker|Walker Racing League EP - out now! |[open](https://open.spotify.com/playlist/4CMmmIRrtAcDc8LuCUlmg6)|
 |Your Top Songs 2020|Spotify|The songs you loved most this year, all wrapped up.|[open](https://open.spotify.com/playlist/37i9dQZF1EM5ISebhB9z7B)|
 |ambiance?|dunce||[open](https://open.spotify.com/playlist/3eJklJcecHjhORbjfBfwo4)|
 |b|dunce||[open](https://open.spotify.com/playlist/3NYywkmr0sCXCdQdyPv1EY)|
@@ -61,7 +61,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f1782a538d1a36a271885510d98a' height=32>|Above & Beyond|[open](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe)|
 |<img src='https://i.scdn.co/image/ab6761610000f17840baef401cb7f5c6511771bc' height=32>|Adventure Club|[open](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa)|
 |<img src='https://i.scdn.co/image/ab6761610000f178549aa0ce64b4b9797b24e3be' height=32>|Afrojack|[open](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz)|
-|<img src='https://i.scdn.co/image/ab6761610000f17866776867a735406aaa78afc4' height=32>|Alan Walker|[open](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN)|
+|<img src='https://i.scdn.co/image/ab6761610000f17815f4908d20afa85afb7746b4' height=32>|Alan Walker|[open](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN)|
 |<img src='https://i.scdn.co/image/ab6761610000f1781760921e7e7d6c31d1949a92' height=32>|Alison Wonderland|[open](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW)|
 |<img src='https://i.scdn.co/image/ab6761610000f178589da95c2c9de7b23571ae9c' height=32>|Andrew Perkins|[open](https://open.spotify.com/artist/6n6nuTjsajI8tooRU3SYDA)|
 |<img src='https://i.scdn.co/image/ab67616d000048517f37a3af2aaa66564e0d432d' height=32>|Anjunabeats|[open](https://open.spotify.com/artist/7aqysYAN8bVjQuJSo9PyqR)|
@@ -98,7 +98,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f17845e307f86497cf38a78b7c4f' height=32>|Fatum|[open](https://open.spotify.com/artist/3pt2vTpH1eI776oDZT1G2C)|
 |<img src='https://i.scdn.co/image/ab6761610000f178f83872b58f25029452b96961' height=32>|Feed Me|[open](https://open.spotify.com/artist/5FWi1mowu6uiU2ZHwr1rby)|
 |<img src='https://i.scdn.co/image/ab6761610000f17874fc5ed84d53231a33b369d7' height=32>|Foxhunt|[open](https://open.spotify.com/artist/5lpSSVeq7jy5576AswyLNr)|
-|<img src='https://i.scdn.co/image/ab6761610000f178c61da4699f88b08d085ca593' height=32>|Gareth Emery|[open](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi)|
+|<img src='https://i.scdn.co/image/ab6761610000f178ab8b3e2e7218ed4714d64d2f' height=32>|Gareth Emery|[open](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi)|
 |<img src='https://i.scdn.co/image/ab6761610000f17876b1e75663929865ef5cbb35' height=32>|Gemini|[open](https://open.spotify.com/artist/3QqJ1L8cWsPFZ1YDPpUmvG)|
 |<img src='https://i.scdn.co/image/ab6761610000f1787fa99a739980cf77a38f995b' height=32>|Gesaffelstein|[open](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP)|
 |<img src='https://i.scdn.co/image/ab6761610000f178b63ff25a61b49e90c902242e' height=32>|HIGHSOCIETY|[open](https://open.spotify.com/artist/32MQN2sITkJGNQN40QLPEa)|
