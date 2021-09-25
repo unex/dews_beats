@@ -163,7 +163,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f178b71b3553fa73cbccb43eced0' height=32>|Rezz|[open](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw)|
 |<img src='https://i.scdn.co/image/ab6761610000f1788bea9b2bda506dfd3d69039c' height=32>|Rickyxsan|[open](https://open.spotify.com/artist/0lqxqV3IhQXO5czq1d0ZfJ)|
 |<img src='https://i.scdn.co/image/ab6761610000f178172451810a37f3caf0136525' height=32>|Roniit|[open](https://open.spotify.com/artist/09KYpkm7IEPR3nc8omKpSY)|
-|<img src='https://i.scdn.co/image/ab6761610000f1783337ae08ac40ef744d43fde9' height=32>|SWARM|[open](https://open.spotify.com/artist/07OF36h5y4S6s9ckQliaj3)|
+|<img src='https://i.scdn.co/image/ab6761610000f178619f071ce7918d055f1d835b' height=32>|SWARM|[open](https://open.spotify.com/artist/07OF36h5y4S6s9ckQliaj3)|
 |<img src='https://i.scdn.co/image/ab6761610000f178cd9e2b8f901285164a7fde6c' height=32>|Said The Sky|[open](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu)|
 |<img src='https://i.scdn.co/image/ab6761610000f178ec9e43b2944e4afe4e29bc90' height=32>|Savoy|[open](https://open.spotify.com/artist/25vU5DYwHIHhg1ViWV3SJq)|
 |<img src='https://i.scdn.co/image/ab6761610000f1783a120b5c7fefeed869234a71' height=32>|Seven Lions|[open](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp)|
