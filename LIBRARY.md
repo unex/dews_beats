@@ -87,7 +87,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f178998c93aa5c43a9f57c4f2258' height=32>|Delta Heavy|[open](https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T)|
 |<img src='https://i.scdn.co/image/ab6761610000f17840abe2711c71c9927b5513be' height=32>|Dillon Francis|[open](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf)|
 |<img src='https://i.scdn.co/image/ab6761610000f178ae2ffce136c839d899ca8e30' height=32>|Dimension|[open](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S)|
-|<img src='https://i.scdn.co/image/ab6761610000f17800e244c4015b200c74e84669' height=32>|Dom Dolla|[open](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m)|
+|<img src='https://i.scdn.co/image/ab6761610000f178db4459c88f428070d8b492c9' height=32>|Dom Dolla|[open](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m)|
 |<img src='https://i.scdn.co/image/ab6761610000f17809e5210f7618a0baad59a06c' height=32>|Dominus|[open](https://open.spotify.com/artist/0uDJS3oEIxgZeqAPi7REq6)|
 |<img src='https://i.scdn.co/image/ab6761610000f17816ac357520587465699a0490' height=32>|DotEXE|[open](https://open.spotify.com/artist/2S2RMiHABGxAQqdqwUN5qF)|
 |<img src='https://i.scdn.co/image/ab6761610000f178328dded918ee5ec1515fa32f' height=32>|EDDIE|[open](https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd)|
