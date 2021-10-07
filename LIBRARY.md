@@ -112,7 +112,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f17894b93f675b68f90c276a6a95' height=32>|In This Moment|[open](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT)|
 |<img src='https://i.scdn.co/image/ab6761610000f1782ea36e7e9e49762e4a5c7d9b' height=32>|Infected Mushroom|[open](https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI)|
 |<img src='https://i.scdn.co/image/ab6761610000f178f14cf3e823e826e73f877667' height=32>|JOYRYDE|[open](https://open.spotify.com/artist/24neLwyYRyj4ItaGnFeIT0)|
-|<img src='https://i.scdn.co/image/ab6761610000f17867f14a96b22ef8e0fd8f1bd1' height=32>|JVNA|[open](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A)|
+|<img src='https://i.scdn.co/image/ab6761610000f178ba137218d8763b87b673333c' height=32>|JVNA|[open](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A)|
 |<img src='https://i.scdn.co/image/ab6761610000f178d283305b0dd93c5472bb3f22' height=32>|James Egbert|[open](https://open.spotify.com/artist/0MHUXo8PYYFpnXY73siC8T)|
 |<img src='https://i.scdn.co/image/ab6761610000f178b7c7b10bb07bcc5e18f2c920' height=32>|Jason Ross|[open](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150)|
 |<img src='https://i.scdn.co/image/ab6761610000f1781f9d81c89a9678ef97b39ffc' height=32>|Juno Reactor|[open](https://open.spotify.com/artist/1Pe3z1UqRzKsQtHsl25dm6)|
@@ -195,7 +195,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f17816c3d0508b78984977eef4cf' height=32>|Vini Vici|[open](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy)|
 |<img src='https://i.scdn.co/image/ab6761610000f1786c406665423f5eac0024e689' height=32>|Virtual Riot|[open](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1)|
 |<img src='https://i.scdn.co/image/ab6761610000f178f4f156ad059348f5f02b1fae' height=32>|Vogel|[open](https://open.spotify.com/artist/0IPgmXKtAVL8x0Gwqc2SuM)|
-|<img src='https://i.scdn.co/image/ab6761610000f17865fd7acbf9ed7c79046030a4' height=32>|WHIPPED CREAM|[open](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi)|
+|<img src='https://i.scdn.co/image/ab6761610000f178e81e4976d9141f62df410a5d' height=32>|WHIPPED CREAM|[open](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi)|
 |<img src='https://i.scdn.co/image/ab6761610000f178b72801394d45c260142de432' height=32>|Will Sparks|[open](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U)|
 |<img src='https://i.scdn.co/image/ab6761610000f1787cbf40b589fbf9fbb45b2b1f' height=32>|Wolfgang Gartner|[open](https://open.spotify.com/artist/3534yWWzmxx8NbKVoNolsK)|
 |<img src='https://i.scdn.co/image/ab6761610000f17856817b9fe50005bf553d3b85' height=32>|Xilent|[open](https://open.spotify.com/artist/1k78cRCnTM3T7EhvhVeaKX)|
