@@ -126,7 +126,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f178627a5c560b93b68384685fd7' height=32>|Krale|[open](https://open.spotify.com/artist/35dP7ddpwy7mkanF1WnM2g)|
 |<img src='https://i.scdn.co/image/ab6761610000f17887b0e3c885f5948e583ea628' height=32>|LICK|[open](https://open.spotify.com/artist/62R6OE0R9RB43aSCyzVOxs)|
 |<img src='https://i.scdn.co/image/ab6761610000f178eebaeb67ee7d249506bad931' height=32>|Laura Brehm|[open](https://open.spotify.com/artist/7ddnIV2r4SLjuwyGlgLIWt)|
-|<img src='https://i.scdn.co/image/ab6761610000f178b32413ea28048caae0b52efb' height=32>|Le Castle Vania|[open](https://open.spotify.com/artist/2KrXlzpSX4wWvJ2555FWLv)|
+|<img src='https://i.scdn.co/image/ab6761610000f178759c02cfa7c4bbca0421ed90' height=32>|Le Castle Vania|[open](https://open.spotify.com/artist/2KrXlzpSX4wWvJ2555FWLv)|
 |<img src='https://i.scdn.co/image/ab67616d00004851082ebf9fd902d2642d4eb6f8' height=32>|Lets Be Friends|[open](https://open.spotify.com/artist/0E2SH86glIiPi5IQ0fx8kd)|
 |<img src='https://i.scdn.co/image/ab6761610000f178fa9c2470cb7efdff9c96ed90' height=32>|Lookas|[open](https://open.spotify.com/artist/27fy6rHPC58Eo2VUu0iJSG)|
 |<img src='https://i.scdn.co/image/ab6761610000f1783f59861bb18baeb629476c6a' height=32>|LŪN|[open](https://open.spotify.com/artist/44RV4NtG7667JQNtX6iDZc)|
