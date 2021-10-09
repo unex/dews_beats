@@ -15,7 +15,7 @@
 |Miss Monique|dunce|Songs played by Miss Monique|[open](https://open.spotify.com/playlist/62Wdnd2oq36OIRAQdf77OR)|
 |My Shazam Tracks|dunce||[open](https://open.spotify.com/playlist/7doUnZFW5DsWCVINncMhEF)|
 |New Music Weekly \| Monstercat|Monstercat|Brand new music from Monstercat, all in one place.|[open](https://open.spotify.com/playlist/4kw9kdjzx1UmyWvpysl0y2)|
-|Operator|Spotify|Tech house technicians. Featuring new music by J. Worra|[open](https://open.spotify.com/playlist/37i9dQZF1DWVY4eLfA3XFQ)|
+|Operator|Spotify|Tech house technicians. Featuring new music by Chris Lorenzo|[open](https://open.spotify.com/playlist/37i9dQZF1DWVY4eLfA3XFQ)|
 |Paradise|Alan Walker|Paradise - out now! |[open](https://open.spotify.com/playlist/4CMmmIRrtAcDc8LuCUlmg6)|
 |Proximity|Proximity|EDM/Electronic Dance Music from Proximity updated every TWO WEEKS! Other playlists here: <a href="https://open.spotify.com/playlist/4sIYMafu8OhwxjV4kDdGzJ?si=wsWP_3JpSoKAcfeeLPgy4Q">Drive</a> / <a href="https://open.spotify.com/playlist/49pxpTd9cWmFXqLEkwzyN2?si=mdQS17_OQuq">Proximity Chill</a>|[open](https://open.spotify.com/playlist/3VEFRGe3APwGRl4eTpMS4x)|
 |R|dunce||[open](https://open.spotify.com/playlist/0Yg4Y8u5RffkQfLl5PBQE0)|
@@ -172,7 +172,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f1789a164ef943c413c171cb0afe' height=32>|Simon Patterson|[open](https://open.spotify.com/artist/3QxbGzjZc3kgHNJOBOZM2M)|
 |<img src='https://i.scdn.co/image/ab6761610000f178a832e736e92814c03257dc28' height=32>|Skeler|[open](https://open.spotify.com/artist/7ks4LdnBvp6HUsmVJiKgsB)|
 |<img src='https://i.scdn.co/image/ab6761610000f17808c6f3de88a7cd00b65796cb' height=32>|Slooze|[open](https://open.spotify.com/artist/6md8Ho8wqUrhoF8cbsTLnT)|
-|<img src='https://i.scdn.co/image/ab6761610000f17853f6c0db04e25022851cb835' height=32>|Snavs|[open](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM)|
+|<img src='https://i.scdn.co/image/ab6761610000f178d75876a09e4844724ed9c9c5' height=32>|Snavs|[open](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM)|
 |<img src='https://i.scdn.co/image/ab6761610000f1785a12aa446f300cac393755a9' height=32>|Social Kid|[open](https://open.spotify.com/artist/5MTN31B0DYG43RQJ9zT5fq)|
 |<img src='https://i.scdn.co/image/ab6761610000f178a13341c2b7324dc35deed67c' height=32>|Stilz|[open](https://open.spotify.com/artist/0he5qSKLuYoGL223KSWjXJ)|
 |<img src='https://i.scdn.co/image/ab6761610000f17807626ae4a3d34ce3e8521c14' height=32>|Stonebank|[open](https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377)|
