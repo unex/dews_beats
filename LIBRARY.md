@@ -95,7 +95,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f178aa972cb3308ccbeeff38666a' height=32>|Ellie Goulding|[open](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ)|
 |<img src='https://i.scdn.co/image/ab6761610000f17801eb74a0f50fe8cbb546bcf6' height=32>|Essenger|[open](https://open.spotify.com/artist/3vc0JWD1Nj1VLrgJ1x3cjE)|
 |<img src='https://i.scdn.co/image/ab6761610000f178d21f3bc82e5d8f5f02df7a22' height=32>|Fabrication|[open](https://open.spotify.com/artist/73MDrv3SUYLE1yNOBQMlsy)|
-|<img src='https://i.scdn.co/image/ab6761610000f17845e307f86497cf38a78b7c4f' height=32>|Fatum|[open](https://open.spotify.com/artist/3pt2vTpH1eI776oDZT1G2C)|
+|<img src='https://i.scdn.co/image/ab6761610000f17842d4f2c722eb3c5aaac4b769' height=32>|Fatum|[open](https://open.spotify.com/artist/3pt2vTpH1eI776oDZT1G2C)|
 |<img src='https://i.scdn.co/image/ab6761610000f178f83872b58f25029452b96961' height=32>|Feed Me|[open](https://open.spotify.com/artist/5FWi1mowu6uiU2ZHwr1rby)|
 |<img src='https://i.scdn.co/image/ab6761610000f17874fc5ed84d53231a33b369d7' height=32>|Foxhunt|[open](https://open.spotify.com/artist/5lpSSVeq7jy5576AswyLNr)|
 |<img src='https://i.scdn.co/image/ab6761610000f178ab8b3e2e7218ed4714d64d2f' height=32>|Gareth Emery|[open](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi)|
@@ -122,7 +122,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f178bc9641ab25bb0ed95a360b7e' height=32>|Karma Fields|[open](https://open.spotify.com/artist/1tRsdSvjwp34PDvcmix6SJ)|
 |<img src='https://i.scdn.co/image/46af99524f0595493ce43577008a5fbf2e808057' height=32>|Klaypex|[open](https://open.spotify.com/artist/4HBMToZ4yMR07eiK9IxtjK)|
 |<img src='https://i.scdn.co/image/ab6761610000f178134cf89df8136ae2ec50d1a1' height=32>|Knife Party|[open](https://open.spotify.com/artist/2DuJi13MWHjRHrqRUwk8vH)|
-|<img src='https://i.scdn.co/image/ab6761610000f178e09233e9ee1ed8caa1c3e235' height=32>|Koven|[open](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa)|
+|<img src='https://i.scdn.co/image/ab6761610000f178719cdfb8c51ccf2b5e5de4eb' height=32>|Koven|[open](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa)|
 |<img src='https://i.scdn.co/image/ab6761610000f178627a5c560b93b68384685fd7' height=32>|Krale|[open](https://open.spotify.com/artist/35dP7ddpwy7mkanF1WnM2g)|
 |<img src='https://i.scdn.co/image/ab6761610000f17887b0e3c885f5948e583ea628' height=32>|LICK|[open](https://open.spotify.com/artist/62R6OE0R9RB43aSCyzVOxs)|
 |<img src='https://i.scdn.co/image/ab6761610000f178eebaeb67ee7d249506bad931' height=32>|Laura Brehm|[open](https://open.spotify.com/artist/7ddnIV2r4SLjuwyGlgLIWt)|
