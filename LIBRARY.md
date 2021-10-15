@@ -4,12 +4,12 @@
 
 |Name|Author|Description||
 --- | --- | --- | ---
+||nebulace||[open](https://open.spotify.com/playlist/3UX1qcBxupCb3oQDUt8CsR)|
 |Chill Tracks|Spotify|Softer kinda <a href="spotify:genre:edm_dance">dance</a>.|[open](https://open.spotify.com/playlist/37i9dQZF1DX6VdMW310YC7)|
 |Dance Classics|Spotify|<a href="spotify:genre:edm_dance">Dance radio</a> hits from the 90s and 00s!|[open](https://open.spotify.com/playlist/37i9dQZF1DX8a1tdzq5tbM)|
 |Discover Weekly|Spotify|Your weekly mixtape of fresh music. Enjoy new music and deep cuts picked for you. Updates every Monday.|[open](https://open.spotify.com/playlist/37i9dQZEVXcTEtihmAKpq2)|
 |Discover Weekly 11/18/18|dunce||[open](https://open.spotify.com/playlist/2DJOtMJ4yM4zcnAx5Hm4lt)|
 |DnB|dunce||[open](https://open.spotify.com/playlist/7HGbePhICxJNrzdtGqbxo6)|
-|Epic Music Battle/Intense|nebulace||[open](https://open.spotify.com/playlist/3UX1qcBxupCb3oQDUt8CsR)|
 |Female Vocal Dubstep|Flame||[open](https://open.spotify.com/playlist/3IA3ITmQpz3ljORSuLKI9g)|
 |Liked from Radio|dunce||[open](https://open.spotify.com/playlist/6KZXfzkvCR5vi7tp7BLsUh)|
 |Miss Monique|dunce|Songs played by Miss Monique|[open](https://open.spotify.com/playlist/62Wdnd2oq36OIRAQdf77OR)|
