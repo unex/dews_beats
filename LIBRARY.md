@@ -75,6 +75,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f17859065e2cf1cac1a72553f9c9' height=32>|Black Tiger Sex Machine|[open](https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC)|
 |<img src='https://i.scdn.co/image/ab6761610000f17847b81f796ba6399a4d65562e' height=32>|BlackGummy|[open](https://open.spotify.com/artist/3ExR7ks7OAdqrm99r1PJby)|
 |<img src='https://i.scdn.co/image/ab6761610000f178f66b3888e96d69a769a32b9d' height=32>|Blanke|[open](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT)|
+|<img src='https://i.scdn.co/image/ab6761610000f1786c7fc91a210f69d7fded95ed' height=32>|Bob Moses|[open](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5)|
 |<img src='https://i.scdn.co/image/ab6761610000f1785a8b3b648ada4d02a609f2f0' height=32>|C.H.A.Y.|[open](https://open.spotify.com/artist/5tMMTJbvSM8jApcukwqO9V)|
 |<img src='https://i.scdn.co/image/ab6761610000f17893a3ec5e8addcbfe818ab825' height=32>|CamelPhat|[open](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W)|
 |<img src='https://i.scdn.co/image/ab6761610000f178738237d09749208b03264066' height=32>|Chaos Chaos|[open](https://open.spotify.com/artist/6D6rjLdxyE5vwhMlkuQq0E)|
@@ -218,6 +219,7 @@
 |Blood Hunter|[Varien](https://open.spotify.com/artist/2g1JSu9UfRcQQYb3b03Km7)|[open](https://open.spotify.com/album/0BR7CcANAjtdfMNThMk2Ip)|
 |Drink the Sea|[The Glitch Mob](https://open.spotify.com/artist/3a9qv6NLHnsVxJUtKOMHvD)|[open](https://open.spotify.com/album/4c5fhgLoAaFzwjNTxC57jK)|
 |F Minor Factory - EP|[MUZZ](https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg)|[open](https://open.spotify.com/album/7zAFs2GGFrVOj1YsBDrGLN)|
+|Falling into Focus (Live 2020)|[Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5)|[open](https://open.spotify.com/album/0N1KUVKv32c0QdvcVfGExE)|
 |Ghosts 'n' Stuff (feat. Rob Swire) (feat. Rob Swire)|[deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx)|[open](https://open.spotify.com/album/1BEiMHtZHylizLQfN2fz7p)|
 |Hold Your Colour|[Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B)|[open](https://open.spotify.com/album/4FAfNNU21dqtKKhHWB2eOa)|
 |Immersion|[Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B)|[open](https://open.spotify.com/album/3XtEGVx9uh7J46nBzEc1VS)|
