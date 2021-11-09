@@ -168,7 +168,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f178cd9e2b8f901285164a7fde6c' height=32>|Said The Sky|[open](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu)|
 |<img src='https://i.scdn.co/image/ab6761610000f178ec9e43b2944e4afe4e29bc90' height=32>|Savoy|[open](https://open.spotify.com/artist/25vU5DYwHIHhg1ViWV3SJq)|
 |<img src='https://i.scdn.co/image/ab6761610000f1783a120b5c7fefeed869234a71' height=32>|Seven Lions|[open](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp)|
-|<img src='https://i.scdn.co/image/ab6761610000f178f82736d3acc1ee041e56fee8' height=32>|Shadient|[open](https://open.spotify.com/artist/6ADRET3UXTOmGBjjO67fNd)|
+|<img src='https://i.scdn.co/image/ab6761610000f1787837733650907ad7080662d4' height=32>|Shadient|[open](https://open.spotify.com/artist/6ADRET3UXTOmGBjjO67fNd)|
 |<img src='https://i.scdn.co/image/ab6761610000f1787669a4e8b026ccd644a9eb02' height=32>|ShockOne|[open](https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH)|
 |<img src='https://i.scdn.co/image/ab6761610000f1789a164ef943c413c171cb0afe' height=32>|Simon Patterson|[open](https://open.spotify.com/artist/3QxbGzjZc3kgHNJOBOZM2M)|
 |<img src='https://i.scdn.co/image/ab6761610000f178a832e736e92814c03257dc28' height=32>|Skeler|[open](https://open.spotify.com/artist/7ks4LdnBvp6HUsmVJiKgsB)|
