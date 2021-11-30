@@ -150,7 +150,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f1789dff3aa765fcafbe344074a4' height=32>|Nigel Stanford|[open](https://open.spotify.com/artist/4Jyb0l1PTSn1VxNmiFxSf4)|
 |<img src='https://i.scdn.co/image/ab6761610000f178da22836cfc0cf4108d141d96' height=32>|No Mana|[open](https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg)|
 |<img src='https://i.scdn.co/image/ab6761610000f1783e8c66c01dca19afec96ae55' height=32>|Noisestorm|[open](https://open.spotify.com/artist/2BuSNpxpMGJGiAAWJYJT2t)|
-|<img src='https://i.scdn.co/image/ab6761610000f178842772b18bee4b335256e8a8' height=32>|Notaker|[open](https://open.spotify.com/artist/0I7HgbIetYEIweWq7nD6En)|
+|<img src='https://i.scdn.co/image/ab6761610000f178b2c5bbcfe595cd6a64dc0314' height=32>|Notaker|[open](https://open.spotify.com/artist/0I7HgbIetYEIweWq7nD6En)|
 |<img src='https://i.scdn.co/image/ab6761610000f17870cc86dd8a11e2d4383d6852' height=32>|ODESZA|[open](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw)|
 |<img src='https://i.scdn.co/image/ab6761610000f178435768f66758242ba2e18a9b' height=32>|Parker|[open](https://open.spotify.com/artist/7HvystfBAIH8khkGVO4vne)|
 |<img src='https://i.scdn.co/image/ab6761610000f178ecce90d46f2011e8fcd2289e' height=32>|Pax Impera|[open](https://open.spotify.com/artist/6Tabml9HYiynouDND7RFLz)|
@@ -229,6 +229,7 @@
 |Interplanetary|[West Klintwood](https://open.spotify.com/artist/1gwSCgnBPyckV6rpnfyDAO)|[open](https://open.spotify.com/album/5UyI5VgYTFScNP07iRjrRH)|
 |JADE|[Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL)|[open](https://open.spotify.com/album/1MIgd23QGGcqzysbQJquUu)|
 |Love Death Immortality|[The Glitch Mob](https://open.spotify.com/artist/3a9qv6NLHnsVxJUtKOMHvD)|[open](https://open.spotify.com/album/1g03ut9FlCdvFbOcSvUxjs)|
+|No Time To Die|[Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH)|[open](https://open.spotify.com/album/5sXSHscDjBez8VF20cSyad)|
 |Nothing For Free|[Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B)|[open](https://open.spotify.com/album/2C5pOup7ksQ7YFutOlP6nA)|
 |Rage Valley|[Knife Party](https://open.spotify.com/artist/2DuJi13MWHjRHrqRUwk8vH)|[open](https://open.spotify.com/album/2KZKR8bLDZPUxOE6JhTh4X)|
 |Ruby EP|[Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL)|[open](https://open.spotify.com/album/6yEEISXxFOhyolnOLu8j5k)|
