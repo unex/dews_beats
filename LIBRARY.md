@@ -175,7 +175,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f178a832e736e92814c03257dc28' height=32>|Skeler|[open](https://open.spotify.com/artist/7ks4LdnBvp6HUsmVJiKgsB)|
 |<img src='https://i.scdn.co/image/ab6761610000f17808c6f3de88a7cd00b65796cb' height=32>|Slooze|[open](https://open.spotify.com/artist/6md8Ho8wqUrhoF8cbsTLnT)|
 |<img src='https://i.scdn.co/image/ab6761610000f178d75876a09e4844724ed9c9c5' height=32>|Snavs|[open](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM)|
-|<img src='https://i.scdn.co/image/ab6761610000f1785a12aa446f300cac393755a9' height=32>|Social Kid|[open](https://open.spotify.com/artist/5MTN31B0DYG43RQJ9zT5fq)|
+|<img src='https://i.scdn.co/image/ab6761610000f17828c37efd388ef41c0d6318de' height=32>|Social Kid|[open](https://open.spotify.com/artist/5MTN31B0DYG43RQJ9zT5fq)|
 |<img src='https://i.scdn.co/image/ab6761610000f178a13341c2b7324dc35deed67c' height=32>|Stilz|[open](https://open.spotify.com/artist/0he5qSKLuYoGL223KSWjXJ)|
 |<img src='https://i.scdn.co/image/ab6761610000f17807626ae4a3d34ce3e8521c14' height=32>|Stonebank|[open](https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377)|
 |<img src='https://i.scdn.co/image/ab6761610000f1780c05adcae61ac479afe35c8e' height=32>|Swedish House Mafia|[open](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs)|
@@ -202,7 +202,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f178b72801394d45c260142de432' height=32>|Will Sparks|[open](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U)|
 |<img src='https://i.scdn.co/image/ab6761610000f1787cbf40b589fbf9fbb45b2b1f' height=32>|Wolfgang Gartner|[open](https://open.spotify.com/artist/3534yWWzmxx8NbKVoNolsK)|
 |<img src='https://i.scdn.co/image/ab6761610000f17856817b9fe50005bf553d3b85' height=32>|Xilent|[open](https://open.spotify.com/artist/1k78cRCnTM3T7EhvhVeaKX)|
-|<img src='https://i.scdn.co/image/ab67616d00004851d4e757999f093e1e9b596c76' height=32>|Yurie|[open](https://open.spotify.com/artist/61lAbhmTP9kmSCUDGRnUdt)|
+|<img src='https://i.scdn.co/image/ab67616d000048513a0dee7da2249c743e665cf0' height=32>|Yurie|[open](https://open.spotify.com/artist/61lAbhmTP9kmSCUDGRnUdt)|
 |<img src='https://i.scdn.co/image/ab6761610000f1780dda32ea5428208691f28e67' height=32>|ZABO|[open](https://open.spotify.com/artist/19zQevA415Jm6ThEtIwVIb)|
 |<img src='https://i.scdn.co/image/ab6761610000f1785cc7aca0b30b4214a4dc154e' height=32>|ZHU|[open](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2)|
 |<img src='https://i.scdn.co/image/ab6761610000f1789a4225e6542fa298e7206a4d' height=32>|Zac Waters|[open](https://open.spotify.com/artist/3KF7anPKoBvMZSJEFvZDN9)|
