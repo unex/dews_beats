@@ -174,7 +174,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f1789a164ef943c413c171cb0afe' height=32>|Simon Patterson|[open](https://open.spotify.com/artist/3QxbGzjZc3kgHNJOBOZM2M)|
 |<img src='https://i.scdn.co/image/ab6761610000f178a832e736e92814c03257dc28' height=32>|Skeler|[open](https://open.spotify.com/artist/7ks4LdnBvp6HUsmVJiKgsB)|
 |<img src='https://i.scdn.co/image/ab6761610000f17808c6f3de88a7cd00b65796cb' height=32>|Slooze|[open](https://open.spotify.com/artist/6md8Ho8wqUrhoF8cbsTLnT)|
-|<img src='https://i.scdn.co/image/ab6761610000f178d75876a09e4844724ed9c9c5' height=32>|Snavs|[open](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM)|
+|<img src='https://i.scdn.co/image/ab6761610000f178b750141e7ce9f9d715edc093' height=32>|Snavs|[open](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM)|
 |<img src='https://i.scdn.co/image/ab6761610000f17828c37efd388ef41c0d6318de' height=32>|Social Kid|[open](https://open.spotify.com/artist/5MTN31B0DYG43RQJ9zT5fq)|
 |<img src='https://i.scdn.co/image/ab6761610000f178140e8968d470b393d8c5025a' height=32>|Speaker Honey|[open](https://open.spotify.com/artist/7dzM8rBjimBLgsQ9pfZIXO)|
 |<img src='https://i.scdn.co/image/ab6761610000f178a13341c2b7324dc35deed67c' height=32>|Stilz|[open](https://open.spotify.com/artist/0he5qSKLuYoGL223KSWjXJ)|
