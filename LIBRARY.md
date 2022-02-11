@@ -5,7 +5,7 @@
 |Name|Author|Description||
 --- | --- | --- | ---
 ||nebulace||[open](https://open.spotify.com/playlist/3UX1qcBxupCb3oQDUt8CsR)|
-|Chill Tracks|Spotify|Softer kinda <a href="spotify:genre:edm_dance">dance</a>, with hand-curated picks from Lane 8. |[open](https://open.spotify.com/playlist/37i9dQZF1DX6VdMW310YC7)|
+|Chill Tracks|Spotify|Softer kinda <a href="spotify:genre:edm_dance">dance</a>.|[open](https://open.spotify.com/playlist/37i9dQZF1DX6VdMW310YC7)|
 |Dance Classics|Spotify|<a href="spotify:genre:edm_dance">Dance radio</a> hits from the 90s and 00s!|[open](https://open.spotify.com/playlist/37i9dQZF1DX8a1tdzq5tbM)|
 |Discover Weekly|Spotify|Your weekly mixtape of fresh music. Enjoy new music and deep cuts picked for you. Updates every Monday.|[open](https://open.spotify.com/playlist/37i9dQZEVXcTEtihmAKpq2)|
 |Discover Weekly 11/18/18|dunce||[open](https://open.spotify.com/playlist/2DJOtMJ4yM4zcnAx5Hm4lt)|
@@ -152,7 +152,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f178da22836cfc0cf4108d141d96' height=32>|No Mana|[open](https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg)|
 |<img src='https://i.scdn.co/image/ab6761610000f1783e8c66c01dca19afec96ae55' height=32>|Noisestorm|[open](https://open.spotify.com/artist/2BuSNpxpMGJGiAAWJYJT2t)|
 |<img src='https://i.scdn.co/image/ab6761610000f1786dae885eedf8451da3ea7b29' height=32>|Notaker|[open](https://open.spotify.com/artist/0I7HgbIetYEIweWq7nD6En)|
-|<img src='https://i.scdn.co/image/ab6761610000f17870cc86dd8a11e2d4383d6852' height=32>|ODESZA|[open](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw)|
+|<img src='https://i.scdn.co/image/ab6761610000f1782a31762232f4ed346e2084c6' height=32>|ODESZA|[open](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw)|
 |<img src='https://i.scdn.co/image/ab6761610000f178435768f66758242ba2e18a9b' height=32>|Parker|[open](https://open.spotify.com/artist/7HvystfBAIH8khkGVO4vne)|
 |<img src='https://i.scdn.co/image/ab6761610000f178ecce90d46f2011e8fcd2289e' height=32>|Pax Impera|[open](https://open.spotify.com/artist/6Tabml9HYiynouDND7RFLz)|
 |<img src='https://i.scdn.co/image/ab6761610000f1780fb1220e7e3ace47ebad023e' height=32>|Pegboard Nerds|[open](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y)|
