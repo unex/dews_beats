@@ -181,7 +181,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f178a13341c2b7324dc35deed67c' height=32>|Stilz|[open](https://open.spotify.com/artist/0he5qSKLuYoGL223KSWjXJ)|
 |<img src='https://i.scdn.co/image/ab6761610000f17807626ae4a3d34ce3e8521c14' height=32>|Stonebank|[open](https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377)|
 |<img src='https://i.scdn.co/image/ab6761610000f1780c05adcae61ac479afe35c8e' height=32>|Swedish House Mafia|[open](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs)|
-|<img src='https://i.scdn.co/image/ab6761610000f178ce4631da2def0c249f4bdffc' height=32>|TOKYO ROSE|[open](https://open.spotify.com/artist/3kwoPkICT4iPkNjr6mL13N)|
+|<img src='https://i.scdn.co/image/ab6761610000f178d8b9f5547121fff08b125d64' height=32>|TOKYO ROSE|[open](https://open.spotify.com/artist/3kwoPkICT4iPkNjr6mL13N)|
 |<img src='https://i.scdn.co/image/ab6761610000f17823a08dc78da9d9a6869d85fb' height=32>|Tantrum Desire|[open](https://open.spotify.com/artist/7HBMCyflAmijk08T1si9wS)|
 |<img src='https://i.scdn.co/image/ab6761610000f178c4a1d6a48e96ee8f3ede16e3' height=32>|The Bloody Beetroots|[open](https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5)|
 |<img src='https://i.scdn.co/image/ab6761610000f178d12e8c61240cbd023dee7743' height=32>|The Crystal Method|[open](https://open.spotify.com/artist/5eKLa1xyHLq8ERWmT1CRHj)|
