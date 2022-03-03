@@ -211,7 +211,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f178187ae34b4a0a55270f3f2bcc' height=32>|Zweihänder|[open](https://open.spotify.com/artist/5TAKKdC7OQSTfKkKlcs6Q4)|
 |<img src='https://i.scdn.co/image/ab6761610000f178c5ceb05f152103b2b70d3b07' height=32>|deadmau5|[open](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx)|
 |<img src='https://i.scdn.co/image/ab6761610000f178c7ccd9db1885211ebc3a0239' height=32>|i_o|[open](https://open.spotify.com/artist/0y42IQBDFigO5mmEd1bGQG)|
-|<img src='https://i.scdn.co/image/ab6761610000f1782aa7c4f8f8d78cee9924c64a' height=32>|k?d|[open](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf)|
+|<img src='https://i.scdn.co/image/ab6761610000f1781bc18e94da95a701a247d278' height=32>|k?d|[open](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf)|
 |<img src='https://i.scdn.co/image/ab6761610000f1780e283d396336aca0978792d4' height=32>|not.uniq|[open](https://open.spotify.com/artist/52AhVmgpPZMKN9yC22d3gT)|
 |<img src='https://i.scdn.co/image/ab6761610000f178c9687ae5f57542ea15b93686' height=32>|zircon|[open](https://open.spotify.com/artist/0CGpNBihXlpMsjwHjVKNIO)|
 
