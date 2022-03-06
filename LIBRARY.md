@@ -37,6 +37,7 @@
 |rage|dunce|headbangerz|[open](https://open.spotify.com/playlist/6ZOxu7pNv4Xm3rRGZ6TKrL)|
 |soundtrack|dunce||[open](https://open.spotify.com/playlist/0rZUf5e54yLKAqx4jqF3UC)|
 |untitled1|dunce||[open](https://open.spotify.com/playlist/2SuxDqwz3jEm7IPVUPBgWf)|
+|untitled10|dunce||[open](https://open.spotify.com/playlist/2lZoA4wBx6lbj1OYc5BflE)|
 |untitled2|dunce||[open](https://open.spotify.com/playlist/1qnArhQj0bs7B2LDux0LKR)|
 |untitled3|dunce||[open](https://open.spotify.com/playlist/1wm80kAfc5TXUkLVjmSuHF)|
 |untitled4|dunce|uhhh some typea house or somethin|[open](https://open.spotify.com/playlist/0lbCZqZfNINlgGuShJA7H8)|
@@ -64,7 +65,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f178c02d416c309a68b04dc94576' height=32>|Alan Walker|[open](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN)|
 |<img src='https://i.scdn.co/image/ab6761610000f178037be959ee9ed56eb75a1895' height=32>|Alison Wonderland|[open](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW)|
 |<img src='https://i.scdn.co/image/ab6761610000f178589da95c2c9de7b23571ae9c' height=32>|Andrew Perkins|[open](https://open.spotify.com/artist/6n6nuTjsajI8tooRU3SYDA)|
-|<img src='https://i.scdn.co/image/ab67616d00004851f687d4576bae4b29826b1e10' height=32>|Anjunabeats|[open](https://open.spotify.com/artist/7aqysYAN8bVjQuJSo9PyqR)|
+|<img src='https://i.scdn.co/image/ab67616d000048515f33130340fcdf62fbe2d6ec' height=32>|Anjunabeats|[open](https://open.spotify.com/artist/7aqysYAN8bVjQuJSo9PyqR)|
 |<img src='https://i.scdn.co/image/ab6761610000f178d681a74e4f148b698baf6edb' height=32>|Apashe|[open](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN)|
 |<img src='https://i.scdn.co/image/ab67616d0000485194008f6625cab88b318e3c49' height=32>|Aperture Science Psychoacoustic Laboratories|[open](https://open.spotify.com/artist/7d58WZ8qQHy2Sm5p52V2NP)|
 |<img src='https://i.scdn.co/image/ab6761610000f178f207f2c7e1897ea962e35bcb' height=32>|Au5|[open](https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF)|
