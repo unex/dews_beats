@@ -165,7 +165,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f178b2ee3aa183d584cd4bc68726' height=32>|Quackson|[open](https://open.spotify.com/artist/1srU7GzSGHwG1ewjSv6ztq)|
 |<img src='https://i.scdn.co/image/ab6761610000f178d9b107c777dc274451043935' height=32>|RIOT|[open](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY)|
 |<img src='https://i.scdn.co/image/ab6761610000f178d32795654cee9204e8bdcfde' height=32>|Rezz|[open](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw)|
-|<img src='https://i.scdn.co/image/ab6761610000f1788bea9b2bda506dfd3d69039c' height=32>|Rickyxsan|[open](https://open.spotify.com/artist/0lqxqV3IhQXO5czq1d0ZfJ)|
+|<img src='https://i.scdn.co/image/ab6761610000f1780406b064d95e3cbbd90e09d1' height=32>|Rickyxsan|[open](https://open.spotify.com/artist/0lqxqV3IhQXO5czq1d0ZfJ)|
 |<img src='https://i.scdn.co/image/ab6761610000f178172451810a37f3caf0136525' height=32>|Roniit|[open](https://open.spotify.com/artist/09KYpkm7IEPR3nc8omKpSY)|
 |<img src='https://i.scdn.co/image/ab6761610000f178f57ed678aa83b96407c72110' height=32>|SWARM|[open](https://open.spotify.com/artist/07OF36h5y4S6s9ckQliaj3)|
 |<img src='https://i.scdn.co/image/ab6761610000f178cd9e2b8f901285164a7fde6c' height=32>|Said The Sky|[open](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu)|
