@@ -15,7 +15,7 @@
 |Miss Monique|dunce|Songs played by Miss Monique|[open](https://open.spotify.com/playlist/62Wdnd2oq36OIRAQdf77OR)|
 |My Shazam Tracks|dunce||[open](https://open.spotify.com/playlist/7doUnZFW5DsWCVINncMhEF)|
 |New Music Weekly \| Monstercat|Monstercat|Brand new music from Monstercat, all in one place.|[open](https://open.spotify.com/playlist/4kw9kdjzx1UmyWvpysl0y2)|
-|Operator|Spotify|Tech house technicians. Cover: Chris Lake|[open](https://open.spotify.com/playlist/37i9dQZF1DWVY4eLfA3XFQ)|
+|Operator|Spotify|Tech house technicians. Cover: CID|[open](https://open.spotify.com/playlist/37i9dQZF1DWVY4eLfA3XFQ)|
 |Proximity|Proximity|EDM/Electronic Dance Music from Proximity updated every TWO WEEKS! Other playlists here: <a href="https://open.spotify.com/playlist/4sIYMafu8OhwxjV4kDdGzJ?si=wsWP_3JpSoKAcfeeLPgy4Q">Drive</a> / <a href="https://open.spotify.com/playlist/49pxpTd9cWmFXqLEkwzyN2?si=mdQS17_OQuq">Proximity Chill</a>|[open](https://open.spotify.com/playlist/3VEFRGe3APwGRl4eTpMS4x)|
 |R|dunce||[open](https://open.spotify.com/playlist/0Yg4Y8u5RffkQfLl5PBQE0)|
 |Release Radar|Spotify|Catch all the latest music from artists you follow, plus new singles picked for you. Updates every Friday.|[open](https://open.spotify.com/playlist/37i9dQZEVXbnh1QaRGLArX)|
@@ -65,7 +65,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f178c02d416c309a68b04dc94576' height=32>|Alan Walker|[open](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN)|
 |<img src='https://i.scdn.co/image/ab6761610000f178037be959ee9ed56eb75a1895' height=32>|Alison Wonderland|[open](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW)|
 |<img src='https://i.scdn.co/image/ab6761610000f178589da95c2c9de7b23571ae9c' height=32>|Andrew Perkins|[open](https://open.spotify.com/artist/6n6nuTjsajI8tooRU3SYDA)|
-|<img src='https://i.scdn.co/image/ab67616d0000485134ff76fc36c05ee5e1d38aac' height=32>|Anjunabeats|[open](https://open.spotify.com/artist/7aqysYAN8bVjQuJSo9PyqR)|
+|<img src='https://i.scdn.co/image/ab67616d000048512a02817ddffd3cd8e41c6445' height=32>|Anjunabeats|[open](https://open.spotify.com/artist/7aqysYAN8bVjQuJSo9PyqR)|
 |<img src='https://i.scdn.co/image/ab6761610000f178d681a74e4f148b698baf6edb' height=32>|Apashe|[open](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN)|
 |<img src='https://i.scdn.co/image/ab67616d0000485194008f6625cab88b318e3c49' height=32>|Aperture Science Psychoacoustic Laboratories|[open](https://open.spotify.com/artist/7d58WZ8qQHy2Sm5p52V2NP)|
 |<img src='https://i.scdn.co/image/ab6761610000f178f207f2c7e1897ea962e35bcb' height=32>|Au5|[open](https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF)|
@@ -182,7 +182,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f178a13341c2b7324dc35deed67c' height=32>|Stilz|[open](https://open.spotify.com/artist/0he5qSKLuYoGL223KSWjXJ)|
 |<img src='https://i.scdn.co/image/ab6761610000f17807626ae4a3d34ce3e8521c14' height=32>|Stonebank|[open](https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377)|
 |<img src='https://i.scdn.co/image/ab6761610000f1780c05adcae61ac479afe35c8e' height=32>|Swedish House Mafia|[open](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs)|
-|<img src='https://i.scdn.co/image/ab6761610000f178d8b9f5547121fff08b125d64' height=32>|TOKYO ROSE|[open](https://open.spotify.com/artist/3kwoPkICT4iPkNjr6mL13N)|
+|<img src='https://i.scdn.co/image/ab6761610000f178d8de3ba0911f1e4bfba33da4' height=32>|TOKYO ROSE|[open](https://open.spotify.com/artist/3kwoPkICT4iPkNjr6mL13N)|
 |<img src='https://i.scdn.co/image/ab6761610000f17823a08dc78da9d9a6869d85fb' height=32>|Tantrum Desire|[open](https://open.spotify.com/artist/7HBMCyflAmijk08T1si9wS)|
 |<img src='https://i.scdn.co/image/ab6761610000f178c4a1d6a48e96ee8f3ede16e3' height=32>|The Bloody Beetroots|[open](https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5)|
 |<img src='https://i.scdn.co/image/ab6761610000f178d12e8c61240cbd023dee7743' height=32>|The Crystal Method|[open](https://open.spotify.com/artist/5eKLa1xyHLq8ERWmT1CRHj)|
