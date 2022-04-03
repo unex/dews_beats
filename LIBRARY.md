@@ -142,6 +142,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f1780ac924c59aa6cec24890ffcc' height=32>|Matt Lange|[open](https://open.spotify.com/artist/2AmHV6vxRxvHdlxSHxnHE9)|
 |<img src='https://i.scdn.co/image/ab6761610000f17832073dfd0867109eb8a87530' height=32>|Max Brhon|[open](https://open.spotify.com/artist/5DxE39K4wk15NUk2c5zpeI)|
 |<img src='https://i.scdn.co/image/ab6761610000f17892e127fb17994d9a3883abe0' height=32>|Mega Drive|[open](https://open.spotify.com/artist/1WxMvNsfdsGftDZ4oO21L8)|
+|<img src='https://i.scdn.co/image/ab6761610000f178cb5487c8b91070edc2d570fb' height=32>|Metrik|[open](https://open.spotify.com/artist/2NCEtX40i9lLNpTg2X5583)|
 |<img src='https://i.scdn.co/image/ab6761610000f178c16477abb9aa926a7b2b00d9' height=32>|Michael McCann|[open](https://open.spotify.com/artist/2WqOMwQLdZ5txM8U9lvZGR)|
 |<img src='https://i.scdn.co/image/ab6761610000f1784783a51dd63610bafeba1f09' height=32>|Monstercat|[open](https://open.spotify.com/artist/4YwB41gFHCxY5bcNR3CcIH)|
 |<img src='https://i.scdn.co/image/ab6761610000f178f64b9de7eb883cb4eaec212e' height=32>|Moon Rush|[open](https://open.spotify.com/artist/1ihe93yknourIdEiCZBmpk)|
