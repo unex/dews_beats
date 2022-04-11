@@ -35,6 +35,7 @@
 |not rave shit|dunce||[open](https://open.spotify.com/playlist/0GxDyXFWRlQytFo0NGD5hb)|
 |not sure|dunce||[open](https://open.spotify.com/playlist/5cU0ms9EJcfCge72RcztvB)|
 |rage|dunce|headbangerz|[open](https://open.spotify.com/playlist/6ZOxu7pNv4Xm3rRGZ6TKrL)|
+|sort me|dunce||[open](https://open.spotify.com/playlist/2LmdakCgl7W72Hy1aOhMVz)|
 |soundtrack|dunce||[open](https://open.spotify.com/playlist/0rZUf5e54yLKAqx4jqF3UC)|
 |untitled1|dunce||[open](https://open.spotify.com/playlist/2SuxDqwz3jEm7IPVUPBgWf)|
 |untitled10|dunce||[open](https://open.spotify.com/playlist/2lZoA4wBx6lbj1OYc5BflE)|
