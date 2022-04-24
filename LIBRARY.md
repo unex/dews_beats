@@ -66,7 +66,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f178c02d416c309a68b04dc94576' height=32>|Alan Walker|[open](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN)|
 |<img src='https://i.scdn.co/image/ab6761610000f178037be959ee9ed56eb75a1895' height=32>|Alison Wonderland|[open](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW)|
 |<img src='https://i.scdn.co/image/ab6761610000f178589da95c2c9de7b23571ae9c' height=32>|Andrew Perkins|[open](https://open.spotify.com/artist/6n6nuTjsajI8tooRU3SYDA)|
-|<img src='https://i.scdn.co/image/ab67616d0000485169ce7a7641df759f0764c71f' height=32>|Anjunabeats|[open](https://open.spotify.com/artist/7aqysYAN8bVjQuJSo9PyqR)|
+|<img src='https://i.scdn.co/image/ab67616d000048511463d4dba9e687fea94bbd2c' height=32>|Anjunabeats|[open](https://open.spotify.com/artist/7aqysYAN8bVjQuJSo9PyqR)|
 |<img src='https://i.scdn.co/image/ab6761610000f178d681a74e4f148b698baf6edb' height=32>|Apashe|[open](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN)|
 |<img src='https://i.scdn.co/image/ab67616d0000485194008f6625cab88b318e3c49' height=32>|Aperture Science Psychoacoustic Laboratories|[open](https://open.spotify.com/artist/7d58WZ8qQHy2Sm5p52V2NP)|
 |<img src='https://i.scdn.co/image/ab6761610000f178f207f2c7e1897ea962e35bcb' height=32>|Au5|[open](https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF)|
@@ -125,6 +125,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f17861bb6199d115fcbcbddcd893' height=32>|KLOUD|[open](https://open.spotify.com/artist/24Hb4GKFYquK73R8mTyInu)|
 |<img src='https://i.scdn.co/image/ab6761610000f17842edcf0d55fe7787c09fdc3e' height=32>|KUURO|[open](https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q)|
 |<img src='https://i.scdn.co/image/ab6761610000f178bc9641ab25bb0ed95a360b7e' height=32>|Karma Fields|[open](https://open.spotify.com/artist/1tRsdSvjwp34PDvcmix6SJ)|
+|<img src='https://i.scdn.co/image/ab6761610000f178c96f32c30b4c236b5b9c40fa' height=32>|Kaskade|[open](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1)|
 |<img src='https://i.scdn.co/image/46af99524f0595493ce43577008a5fbf2e808057' height=32>|Klaypex|[open](https://open.spotify.com/artist/4HBMToZ4yMR07eiK9IxtjK)|
 |<img src='https://i.scdn.co/image/ab6761610000f178134cf89df8136ae2ec50d1a1' height=32>|Knife Party|[open](https://open.spotify.com/artist/2DuJi13MWHjRHrqRUwk8vH)|
 |<img src='https://i.scdn.co/image/ab6761610000f1782ea391350f25b01b6b7ca541' height=32>|Koven|[open](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa)|
