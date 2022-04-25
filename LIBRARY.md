@@ -76,7 +76,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f1789f045ceef1451d6f0f767aea' height=32>|Bensley|[open](https://open.spotify.com/artist/3SfEKS85dj9v75ROsWJSiL)|
 |<img src='https://i.scdn.co/image/ab6761610000f17859065e2cf1cac1a72553f9c9' height=32>|Black Tiger Sex Machine|[open](https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC)|
 |<img src='https://i.scdn.co/image/ab6761610000f17847b81f796ba6399a4d65562e' height=32>|BlackGummy|[open](https://open.spotify.com/artist/3ExR7ks7OAdqrm99r1PJby)|
-|<img src='https://i.scdn.co/image/ab6761610000f1784e66232075937a4a37edb9fc' height=32>|Blanke|[open](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT)|
+|<img src='https://i.scdn.co/image/ab6761610000f178fbdc0430d049d8bb8b2fb776' height=32>|Blanke|[open](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT)|
 |<img src='https://i.scdn.co/image/ab6761610000f17805160aec0fc3da915f1230ab' height=32>|Bob Moses|[open](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5)|
 |<img src='https://i.scdn.co/image/ab6761610000f1785a8b3b648ada4d02a609f2f0' height=32>|C.H.A.Y.|[open](https://open.spotify.com/artist/5tMMTJbvSM8jApcukwqO9V)|
 |<img src='https://i.scdn.co/image/ab6761610000f17893a3ec5e8addcbfe818ab825' height=32>|CamelPhat|[open](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W)|
