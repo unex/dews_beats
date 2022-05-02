@@ -66,7 +66,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f178c02d416c309a68b04dc94576' height=32>|Alan Walker|[open](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN)|
 |<img src='https://i.scdn.co/image/ab6761610000f178037be959ee9ed56eb75a1895' height=32>|Alison Wonderland|[open](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW)|
 |<img src='https://i.scdn.co/image/ab6761610000f178589da95c2c9de7b23571ae9c' height=32>|Andrew Perkins|[open](https://open.spotify.com/artist/6n6nuTjsajI8tooRU3SYDA)|
-|<img src='https://i.scdn.co/image/ab67616d000048511463d4dba9e687fea94bbd2c' height=32>|Anjunabeats|[open](https://open.spotify.com/artist/7aqysYAN8bVjQuJSo9PyqR)|
+|<img src='https://i.scdn.co/image/ab67616d000048518f5aaf60d95867fd3c832474' height=32>|Anjunabeats|[open](https://open.spotify.com/artist/7aqysYAN8bVjQuJSo9PyqR)|
 |<img src='https://i.scdn.co/image/ab6761610000f178d681a74e4f148b698baf6edb' height=32>|Apashe|[open](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN)|
 |<img src='https://i.scdn.co/image/ab67616d0000485194008f6625cab88b318e3c49' height=32>|Aperture Science Psychoacoustic Laboratories|[open](https://open.spotify.com/artist/7d58WZ8qQHy2Sm5p52V2NP)|
 |<img src='https://i.scdn.co/image/ab6761610000f178f207f2c7e1897ea962e35bcb' height=32>|Au5|[open](https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF)|
@@ -158,7 +158,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f1783e8c66c01dca19afec96ae55' height=32>|Noisestorm|[open](https://open.spotify.com/artist/2BuSNpxpMGJGiAAWJYJT2t)|
 |<img src='https://i.scdn.co/image/ab6761610000f17868a46a659cc334488f7bdf14' height=32>|Notaker|[open](https://open.spotify.com/artist/0I7HgbIetYEIweWq7nD6En)|
 |<img src='https://i.scdn.co/image/ab6761610000f1781b00f0413d659ee91b505f70' height=32>|ODESZA|[open](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw)|
-|<img src='https://i.scdn.co/image/ab6761610000f178435768f66758242ba2e18a9b' height=32>|Parker|[open](https://open.spotify.com/artist/7HvystfBAIH8khkGVO4vne)|
+|<img src='https://i.scdn.co/image/ab6761610000f1785945c3714ddc2b34cd7580d5' height=32>|Parker|[open](https://open.spotify.com/artist/7HvystfBAIH8khkGVO4vne)|
 |<img src='https://i.scdn.co/image/ab6761610000f178ecce90d46f2011e8fcd2289e' height=32>|Pax Impera|[open](https://open.spotify.com/artist/6Tabml9HYiynouDND7RFLz)|
 |<img src='https://i.scdn.co/image/ab6761610000f1780fb1220e7e3ace47ebad023e' height=32>|Pegboard Nerds|[open](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y)|
 |<img src='https://i.scdn.co/image/ab6761610000f178c9473a9f882dc95c5d50bac6' height=32>|Pendulum|[open](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B)|
