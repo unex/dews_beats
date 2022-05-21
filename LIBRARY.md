@@ -66,13 +66,14 @@
 |<img src='https://i.scdn.co/image/ab6761610000f178c02d416c309a68b04dc94576' height=32>|Alan Walker|[open](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN)|
 |<img src='https://i.scdn.co/image/ab6761610000f178fa254d259626f0df7463e5ee' height=32>|Alison Wonderland|[open](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW)|
 |<img src='https://i.scdn.co/image/ab6761610000f178589da95c2c9de7b23571ae9c' height=32>|Andrew Perkins|[open](https://open.spotify.com/artist/6n6nuTjsajI8tooRU3SYDA)|
-|<img src='https://i.scdn.co/image/ab67616d000048516bcba439a21c790bf576d553' height=32>|Anjunabeats|[open](https://open.spotify.com/artist/7aqysYAN8bVjQuJSo9PyqR)|
+|<img src='https://i.scdn.co/image/ab67616d00004851b93bd2b9b91f8f8e92501398' height=32>|Anjunabeats|[open](https://open.spotify.com/artist/7aqysYAN8bVjQuJSo9PyqR)|
 |<img src='https://i.scdn.co/image/ab6761610000f178d681a74e4f148b698baf6edb' height=32>|Apashe|[open](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN)|
 |<img src='https://i.scdn.co/image/ab67616d0000485194008f6625cab88b318e3c49' height=32>|Aperture Science Psychoacoustic Laboratories|[open](https://open.spotify.com/artist/7d58WZ8qQHy2Sm5p52V2NP)|
 |<img src='https://i.scdn.co/image/ab6761610000f178f207f2c7e1897ea962e35bcb' height=32>|Au5|[open](https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF)|
 |<img src='https://i.scdn.co/image/ab6761610000f17809bf4814c6585e1f69dfeef7' height=32>|Avicii|[open](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6)|
 |<img src='https://i.scdn.co/image/ab6761610000f1786b82cd24a1a1c7dd82c80505' height=32>|BONNIE X CLYDE|[open](https://open.spotify.com/artist/74xeHqz5Ap8ZHq69TkxI0r)|
 |<img src='https://i.scdn.co/image/ab6761610000f178093da37218837dd8c443936b' height=32>|BSOD|[open](https://open.spotify.com/artist/2t2M4T7Z7fKbF900SUuh05)|
+|<img src='https://i.scdn.co/image/ab6761610000f1781ffa2e19b87dceb11074b564' height=32>|Bad Omens|[open](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V)|
 |<img src='https://i.scdn.co/image/ab6761610000f1789f045ceef1451d6f0f767aea' height=32>|Bensley|[open](https://open.spotify.com/artist/3SfEKS85dj9v75ROsWJSiL)|
 |<img src='https://i.scdn.co/image/ab6761610000f17859065e2cf1cac1a72553f9c9' height=32>|Black Tiger Sex Machine|[open](https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC)|
 |<img src='https://i.scdn.co/image/ab6761610000f17847b81f796ba6399a4d65562e' height=32>|BlackGummy|[open](https://open.spotify.com/artist/3ExR7ks7OAdqrm99r1PJby)|
@@ -144,7 +145,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f1780ac924c59aa6cec24890ffcc' height=32>|Matt Lange|[open](https://open.spotify.com/artist/2AmHV6vxRxvHdlxSHxnHE9)|
 |<img src='https://i.scdn.co/image/ab6761610000f17832073dfd0867109eb8a87530' height=32>|Max Brhon|[open](https://open.spotify.com/artist/5DxE39K4wk15NUk2c5zpeI)|
 |<img src='https://i.scdn.co/image/ab6761610000f17892e127fb17994d9a3883abe0' height=32>|Mega Drive|[open](https://open.spotify.com/artist/1WxMvNsfdsGftDZ4oO21L8)|
-|<img src='https://i.scdn.co/image/ab6761610000f17868b077fbb32c1552867517a2' height=32>|Metrik|[open](https://open.spotify.com/artist/2NCEtX40i9lLNpTg2X5583)|
+|<img src='https://i.scdn.co/image/ab6761610000f17843aeb42f92ecee98bcfc877e' height=32>|Metrik|[open](https://open.spotify.com/artist/2NCEtX40i9lLNpTg2X5583)|
 |<img src='https://i.scdn.co/image/ab6761610000f178c16477abb9aa926a7b2b00d9' height=32>|Michael McCann|[open](https://open.spotify.com/artist/2WqOMwQLdZ5txM8U9lvZGR)|
 |<img src='https://i.scdn.co/image/ab6761610000f1784783a51dd63610bafeba1f09' height=32>|Monstercat|[open](https://open.spotify.com/artist/4YwB41gFHCxY5bcNR3CcIH)|
 |<img src='https://i.scdn.co/image/ab6761610000f178f64b9de7eb883cb4eaec212e' height=32>|Moon Rush|[open](https://open.spotify.com/artist/1ihe93yknourIdEiCZBmpk)|
@@ -221,24 +222,25 @@
 
 ## Albums
 
-|Name|Artists||
---- | --- | ---
-|18 Months|[Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY)|[open](https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT)|
-|Blood Hunter|[Varien](https://open.spotify.com/artist/2g1JSu9UfRcQQYb3b03Km7)|[open](https://open.spotify.com/album/0BR7CcANAjtdfMNThMk2Ip)|
-|Drink the Sea|[The Glitch Mob](https://open.spotify.com/artist/3a9qv6NLHnsVxJUtKOMHvD)|[open](https://open.spotify.com/album/4c5fhgLoAaFzwjNTxC57jK)|
-|F Minor Factory - EP|[MUZZ](https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg)|[open](https://open.spotify.com/album/7zAFs2GGFrVOj1YsBDrGLN)|
-|Falling into Focus (Live 2020)|[Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5)|[open](https://open.spotify.com/album/0N1KUVKv32c0QdvcVfGExE)|
-|Ghosts 'n' Stuff (feat. Rob Swire) (feat. Rob Swire)|[deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx)|[open](https://open.spotify.com/album/1BEiMHtZHylizLQfN2fz7p)|
-|Hold Your Colour|[Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B)|[open](https://open.spotify.com/album/4FAfNNU21dqtKKhHWB2eOa)|
-|Immersion|[Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B)|[open](https://open.spotify.com/album/3XtEGVx9uh7J46nBzEc1VS)|
-|In Silico|[Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B)|[open](https://open.spotify.com/album/6eRDE48ttoLqN2VfkEpPOJ)|
-|Insane|[Synymata](https://open.spotify.com/artist/6mLoXZQPyVJgzOqKLkJQoC)|[open](https://open.spotify.com/album/5xoSKf8rW8EygeWnCllySP)|
-|Interplanetary|[West Klintwood](https://open.spotify.com/artist/1gwSCgnBPyckV6rpnfyDAO)|[open](https://open.spotify.com/album/5UyI5VgYTFScNP07iRjrRH)|
-|JADE|[Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL)|[open](https://open.spotify.com/album/1MIgd23QGGcqzysbQJquUu)|
-|Love Death Immortality|[The Glitch Mob](https://open.spotify.com/artist/3a9qv6NLHnsVxJUtKOMHvD)|[open](https://open.spotify.com/album/1g03ut9FlCdvFbOcSvUxjs)|
-|No Time To Die|[Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH)|[open](https://open.spotify.com/album/5sXSHscDjBez8VF20cSyad)|
-|Nothing For Free|[Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B)|[open](https://open.spotify.com/album/2C5pOup7ksQ7YFutOlP6nA)|
-|Rage Valley|[Knife Party](https://open.spotify.com/artist/2DuJi13MWHjRHrqRUwk8vH)|[open](https://open.spotify.com/album/2KZKR8bLDZPUxOE6JhTh4X)|
-|Ruby EP|[Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL)|[open](https://open.spotify.com/album/6yEEISXxFOhyolnOLu8j5k)|
-|THE HIVE|[KLOUD](https://open.spotify.com/artist/24Hb4GKFYquK73R8mTyInu)|[open](https://open.spotify.com/album/3H7HxZxy9SvOtxMey4LRnP)|
-|Time and Time Again|[Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5)|[open](https://open.spotify.com/album/1WkSp0mjBHyipV2iuE2B5x)|
+||Name|Artists||
+--- | --- | --- | ---
+|<img src='https://i.scdn.co/image/ab67616d00004851dcef905cb144d4867119850b' height=32>|18 Months|[Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY)|[open](https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT)|
+|<img src='https://i.scdn.co/image/ab67616d00004851e98ed78e72b0e0b59b9c35f7' height=32>|Blood Hunter|[Varien](https://open.spotify.com/artist/2g1JSu9UfRcQQYb3b03Km7)|[open](https://open.spotify.com/album/0BR7CcANAjtdfMNThMk2Ip)|
+|<img src='https://i.scdn.co/image/ab67616d00004851bd4a1098dd7c86d8aa4580f5' height=32>|Drink the Sea|[The Glitch Mob](https://open.spotify.com/artist/3a9qv6NLHnsVxJUtKOMHvD)|[open](https://open.spotify.com/album/4c5fhgLoAaFzwjNTxC57jK)|
+|<img src='https://i.scdn.co/image/ab67616d00004851907d9dbffe411e37675eaada' height=32>|F Minor Factory - EP|[MUZZ](https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg)|[open](https://open.spotify.com/album/7zAFs2GGFrVOj1YsBDrGLN)|
+|<img src='https://i.scdn.co/image/ab67616d00004851cb31ae350f4af4f1bfd30769' height=32>|Falling into Focus (Live 2020)|[Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5)|[open](https://open.spotify.com/album/0N1KUVKv32c0QdvcVfGExE)|
+|<img src='https://i.scdn.co/image/ab67616d00004851a6ca882d59348662b5f26449' height=32>|Ghosts 'n' Stuff (feat. Rob Swire) (feat. Rob Swire)|[deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx)|[open](https://open.spotify.com/album/1BEiMHtZHylizLQfN2fz7p)|
+|<img src='https://i.scdn.co/image/ab67616d00004851487372b5d0b01811f54fe662' height=32>|Hold Your Colour|[Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B)|[open](https://open.spotify.com/album/4FAfNNU21dqtKKhHWB2eOa)|
+|<img src='https://i.scdn.co/image/ab67616d0000485130f8e0f777376780c4077507' height=32>|Immersion|[Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B)|[open](https://open.spotify.com/album/3XtEGVx9uh7J46nBzEc1VS)|
+|<img src='https://i.scdn.co/image/ab67616d0000485161d099fde6c64dc5a90742a4' height=32>|In Silico|[Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B)|[open](https://open.spotify.com/album/6eRDE48ttoLqN2VfkEpPOJ)|
+|<img src='https://i.scdn.co/image/ab67616d00004851954dcfd2028604f653cf7b5f' height=32>|Insane|[Synymata](https://open.spotify.com/artist/6mLoXZQPyVJgzOqKLkJQoC)|[open](https://open.spotify.com/album/5xoSKf8rW8EygeWnCllySP)|
+|<img src='https://i.scdn.co/image/ab67616d000048514a15c2bce268c3ed7db7c874' height=32>|Interplanetary|[West Klintwood](https://open.spotify.com/artist/1gwSCgnBPyckV6rpnfyDAO)|[open](https://open.spotify.com/album/5UyI5VgYTFScNP07iRjrRH)|
+|<img src='https://i.scdn.co/image/ab67616d00004851fd39f9995d29d096e48b381e' height=32>|JADE|[Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL)|[open](https://open.spotify.com/album/1MIgd23QGGcqzysbQJquUu)|
+|<img src='https://i.scdn.co/image/ab67616d00004851d947ce7963703f73579ce977' height=32>|Love Death Immortality|[The Glitch Mob](https://open.spotify.com/artist/3a9qv6NLHnsVxJUtKOMHvD)|[open](https://open.spotify.com/album/1g03ut9FlCdvFbOcSvUxjs)|
+|<img src='https://i.scdn.co/image/ab67616d00004851f7b7174bef6f3fbfda3a0bb7' height=32>|No Time To Die|[Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH)|[open](https://open.spotify.com/album/5sXSHscDjBez8VF20cSyad)|
+|<img src='https://i.scdn.co/image/ab67616d00004851f1d53984a56564a3046678c9' height=32>|Nothing For Free|[Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B)|[open](https://open.spotify.com/album/2C5pOup7ksQ7YFutOlP6nA)|
+|<img src='https://i.scdn.co/image/ab67616d00004851303ae66195b6feba7022698b' height=32>|Rage Valley|[Knife Party](https://open.spotify.com/artist/2DuJi13MWHjRHrqRUwk8vH)|[open](https://open.spotify.com/album/2KZKR8bLDZPUxOE6JhTh4X)|
+|<img src='https://i.scdn.co/image/ab67616d000048515e9ea4ef7e6c200b8744f950' height=32>|Ruby EP|[Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL)|[open](https://open.spotify.com/album/6yEEISXxFOhyolnOLu8j5k)|
+|<img src='https://i.scdn.co/image/ab67616d0000485153363175bd1990204146ea87' height=32>|THE DEATH OF PEACE OF MIND|[Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V)|[open](https://open.spotify.com/album/0auTn0kFZk71WAv3BbKVxQ)|
+|<img src='https://i.scdn.co/image/ab67616d00004851e1f9d03584c00a71a1a8d915' height=32>|THE HIVE|[KLOUD](https://open.spotify.com/artist/24Hb4GKFYquK73R8mTyInu)|[open](https://open.spotify.com/album/3H7HxZxy9SvOtxMey4LRnP)|
+|<img src='https://i.scdn.co/image/ab67616d0000485129be25db83f72fffaa18e4dd' height=32>|Time and Time Again|[Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5)|[open](https://open.spotify.com/album/1WkSp0mjBHyipV2iuE2B5x)|
