@@ -122,7 +122,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f178f14cf3e823e826e73f877667' height=32>|JOYRYDE|[open](https://open.spotify.com/artist/24neLwyYRyj4ItaGnFeIT0)|
 |<img src='https://i.scdn.co/image/ab6761610000f178d635bc720ae1e3c609af09b2' height=32>|JVNA|[open](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A)|
 |<img src='https://i.scdn.co/image/ab6761610000f178d283305b0dd93c5472bb3f22' height=32>|James Egbert|[open](https://open.spotify.com/artist/0MHUXo8PYYFpnXY73siC8T)|
-|<img src='https://i.scdn.co/image/ab6761610000f178b7c7b10bb07bcc5e18f2c920' height=32>|Jason Ross|[open](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150)|
+|<img src='https://i.scdn.co/image/ab6761610000f17865d3059bf4db35c093696ce4' height=32>|Jason Ross|[open](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150)|
 |<img src='https://i.scdn.co/image/ab6761610000f1781f9d81c89a9678ef97b39ffc' height=32>|Juno Reactor|[open](https://open.spotify.com/artist/1Pe3z1UqRzKsQtHsl25dm6)|
 |<img src='https://i.scdn.co/image/ab6761610000f178c2270ea29911f8c95e55e44e' height=32>|Justin OH|[open](https://open.spotify.com/artist/5x2u5vpKBhviWQlni8VM8L)|
 |<img src='https://i.scdn.co/image/ab6761610000f178f9d09c0c411bb77cec254710' height=32>|KAS:ST|[open](https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN)|
