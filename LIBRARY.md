@@ -125,7 +125,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f17865d3059bf4db35c093696ce4' height=32>|Jason Ross|[open](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150)|
 |<img src='https://i.scdn.co/image/ab6761610000f1781f9d81c89a9678ef97b39ffc' height=32>|Juno Reactor|[open](https://open.spotify.com/artist/1Pe3z1UqRzKsQtHsl25dm6)|
 |<img src='https://i.scdn.co/image/ab6761610000f178c2270ea29911f8c95e55e44e' height=32>|Justin OH|[open](https://open.spotify.com/artist/5x2u5vpKBhviWQlni8VM8L)|
-|<img src='https://i.scdn.co/image/ab6761610000f178f9d09c0c411bb77cec254710' height=32>|KAS:ST|[open](https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN)|
+|<img src='https://i.scdn.co/image/ab6761610000f1784d970fa765336fe28c534215' height=32>|KAS:ST|[open](https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN)|
 |<img src='https://i.scdn.co/image/ab6761610000f17861bb6199d115fcbcbddcd893' height=32>|KLOUD|[open](https://open.spotify.com/artist/24Hb4GKFYquK73R8mTyInu)|
 |<img src='https://i.scdn.co/image/ab6761610000f17842edcf0d55fe7787c09fdc3e' height=32>|KUURO|[open](https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q)|
 |<img src='https://i.scdn.co/image/ab6761610000f178bc9641ab25bb0ed95a360b7e' height=32>|Karma Fields|[open](https://open.spotify.com/artist/1tRsdSvjwp34PDvcmix6SJ)|
@@ -145,6 +145,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f17820ac0ebf4bc00a13eca5c5ea' height=32>|Malaa|[open](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS)|
 |<img src='https://i.scdn.co/image/ab6761610000f1789e2dae585750a8d6055f4e35' height=32>|Marilyn Manson|[open](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj)|
 |<img src='https://i.scdn.co/image/ab6761610000f17866d17ee8690d2e8d94ee7387' height=32>|Martin Garrix|[open](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ)|
+|<img src='https://i.scdn.co/image/ab6761610000f178d97ff71e2ba3e53294ab3f41' height=32>|Matroda|[open](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz)|
 |<img src='https://i.scdn.co/image/ab6761610000f1780ac924c59aa6cec24890ffcc' height=32>|Matt Lange|[open](https://open.spotify.com/artist/2AmHV6vxRxvHdlxSHxnHE9)|
 |<img src='https://i.scdn.co/image/ab6761610000f17832073dfd0867109eb8a87530' height=32>|Max Brhon|[open](https://open.spotify.com/artist/5DxE39K4wk15NUk2c5zpeI)|
 |<img src='https://i.scdn.co/image/ab6761610000f17892e127fb17994d9a3883abe0' height=32>|Mega Drive|[open](https://open.spotify.com/artist/1WxMvNsfdsGftDZ4oO21L8)|
