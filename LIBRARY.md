@@ -16,11 +16,11 @@
 |Miss Monique|dunce|Songs played by Miss Monique|[open](https://open.spotify.com/playlist/62Wdnd2oq36OIRAQdf77OR)|
 |My Shazam Tracks|dunce||[open](https://open.spotify.com/playlist/7doUnZFW5DsWCVINncMhEF)|
 |New Music Weekly \| Monstercat|Monstercat|Brand new music from Monstercat, all in one place.|[open](https://open.spotify.com/playlist/4kw9kdjzx1UmyWvpysl0y2)|
-|Operator|Spotify|Tech house technicians, featuring SIDEPIECE & Lee Foss.|[open](https://open.spotify.com/playlist/37i9dQZF1DWVY4eLfA3XFQ)|
+|Operator|Spotify|Tech house technicians, featuring Green Velvet.|[open](https://open.spotify.com/playlist/37i9dQZF1DWVY4eLfA3XFQ)|
 |Proximity|Proximity|EDM/Electronic Dance Music from Proximity updated every TWO WEEKS! Other playlists here: <a href="https://open.spotify.com/playlist/4sIYMafu8OhwxjV4kDdGzJ?si=wsWP_3JpSoKAcfeeLPgy4Q">Drive</a> / <a href="https://open.spotify.com/playlist/49pxpTd9cWmFXqLEkwzyN2?si=mdQS17_OQuq">Proximity Chill</a>|[open](https://open.spotify.com/playlist/3VEFRGe3APwGRl4eTpMS4x)|
 |R|dunce||[open](https://open.spotify.com/playlist/0Yg4Y8u5RffkQfLl5PBQE0)|
 |Release Radar|Spotify|Catch all the latest music from artists you follow, plus new singles picked for you. Updates every Friday.|[open](https://open.spotify.com/playlist/37i9dQZEVXbnh1QaRGLArX)|
-|Walkerverse|Alan Walker|UNITY - OUT NOW|[open](https://open.spotify.com/playlist/4CMmmIRrtAcDc8LuCUlmg6)|
+|Walkerverse|Alan Walker|WALKERVERSE PT. I - OUT NOW|[open](https://open.spotify.com/playlist/4CMmmIRrtAcDc8LuCUlmg6)|
 |Your Top Songs 2020|Spotify|The songs you loved most this year, all wrapped up.|[open](https://open.spotify.com/playlist/37i9dQZF1EM5ISebhB9z7B)|
 |ambiance?|dunce||[open](https://open.spotify.com/playlist/3eJklJcecHjhORbjfBfwo4)|
 |b|dunce||[open](https://open.spotify.com/playlist/3NYywkmr0sCXCdQdyPv1EY)|
@@ -138,7 +138,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f178eebaeb67ee7d249506bad931' height=32>|Laura Brehm|[open](https://open.spotify.com/artist/7ddnIV2r4SLjuwyGlgLIWt)|
 |<img src='https://i.scdn.co/image/ab6761610000f178759c02cfa7c4bbca0421ed90' height=32>|Le Castle Vania|[open](https://open.spotify.com/artist/2KrXlzpSX4wWvJ2555FWLv)|
 |<img src='https://i.scdn.co/image/ab67616d00004851082ebf9fd902d2642d4eb6f8' height=32>|Lets Be Friends|[open](https://open.spotify.com/artist/0E2SH86glIiPi5IQ0fx8kd)|
-|<img src='https://i.scdn.co/image/ab6761610000f178fa9c2470cb7efdff9c96ed90' height=32>|Lookas|[open](https://open.spotify.com/artist/27fy6rHPC58Eo2VUu0iJSG)|
+|<img src='https://i.scdn.co/image/ab6761610000f17828df810a098c12f9d03ae240' height=32>|Lookas|[open](https://open.spotify.com/artist/27fy6rHPC58Eo2VUu0iJSG)|
 |<img src='https://i.scdn.co/image/ab6761610000f1787ab307667002758cdc810d2c' height=32>|LŪN|[open](https://open.spotify.com/artist/44RV4NtG7667JQNtX6iDZc)|
 |<img src='https://i.scdn.co/image/ab6761610000f178907487ab7f2f54efb99d57f8' height=32>|MUZZ|[open](https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg)|
 |<img src='https://i.scdn.co/image/ab6761610000f1782dc90dcc9c176d3b5fb2ae6c' height=32>|Maison Ware|[open](https://open.spotify.com/artist/0A85Mz9YHumTq1HgNtt6aA)|
