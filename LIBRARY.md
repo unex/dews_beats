@@ -5,6 +5,7 @@
 |Name|Author|Description||
 --- | --- | --- | ---
 ||nebulace||[open](https://open.spotify.com/playlist/3UX1qcBxupCb3oQDUt8CsR)|
+|Acoustics|dunce||[open](https://open.spotify.com/playlist/6lMBHWjKU7C9PgmBmWiZef)|
 |Chill Tracks|Spotify|Softer kinda <a href="spotify:genre:edm_dance">dance</a>.|[open](https://open.spotify.com/playlist/37i9dQZF1DX6VdMW310YC7)|
 |Daily Mix 6:5/26/22|dunce||[open](https://open.spotify.com/playlist/64tgdqeE1Cn0087U0Om0jk)|
 |Dance Classics|Spotify|<a href="spotify:genre:edm_dance">Dance radio</a> hits from the 90s and 00s!|[open](https://open.spotify.com/playlist/37i9dQZF1DX8a1tdzq5tbM)|
@@ -67,7 +68,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f17829da45fd16f4b249be105618' height=32>|Alan Walker|[open](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN)|
 |<img src='https://i.scdn.co/image/ab6761610000f178fa254d259626f0df7463e5ee' height=32>|Alison Wonderland|[open](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW)|
 |<img src='https://i.scdn.co/image/ab6761610000f178589da95c2c9de7b23571ae9c' height=32>|Andrew Perkins|[open](https://open.spotify.com/artist/6n6nuTjsajI8tooRU3SYDA)|
-|<img src='https://i.scdn.co/image/ab67616d00004851c724fcda2ebd71298144cf65' height=32>|Anjunabeats|[open](https://open.spotify.com/artist/7aqysYAN8bVjQuJSo9PyqR)|
+|<img src='https://i.scdn.co/image/ab67616d0000485182f716da93f4f4e08ab7ca9a' height=32>|Anjunabeats|[open](https://open.spotify.com/artist/7aqysYAN8bVjQuJSo9PyqR)|
 |<img src='https://i.scdn.co/image/ab6761610000f178d681a74e4f148b698baf6edb' height=32>|Apashe|[open](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN)|
 |<img src='https://i.scdn.co/image/ab67616d0000485194008f6625cab88b318e3c49' height=32>|Aperture Science Psychoacoustic Laboratories|[open](https://open.spotify.com/artist/7d58WZ8qQHy2Sm5p52V2NP)|
 |<img src='https://i.scdn.co/image/ab6761610000f178f207f2c7e1897ea962e35bcb' height=32>|Au5|[open](https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF)|
