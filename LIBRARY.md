@@ -126,7 +126,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f17865d3059bf4db35c093696ce4' height=32>|Jason Ross|[open](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150)|
 |<img src='https://i.scdn.co/image/ab6761610000f1781f9d81c89a9678ef97b39ffc' height=32>|Juno Reactor|[open](https://open.spotify.com/artist/1Pe3z1UqRzKsQtHsl25dm6)|
 |<img src='https://i.scdn.co/image/ab6761610000f178c2270ea29911f8c95e55e44e' height=32>|Justin OH|[open](https://open.spotify.com/artist/5x2u5vpKBhviWQlni8VM8L)|
-|<img src='https://i.scdn.co/image/ab6761610000f1784d970fa765336fe28c534215' height=32>|KAS:ST|[open](https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN)|
+|<img src='https://i.scdn.co/image/ab6761610000f178a30849b0dcb9f487c943ad13' height=32>|KAS:ST|[open](https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN)|
 |<img src='https://i.scdn.co/image/ab6761610000f17861bb6199d115fcbcbddcd893' height=32>|KLOUD|[open](https://open.spotify.com/artist/24Hb4GKFYquK73R8mTyInu)|
 |<img src='https://i.scdn.co/image/ab6761610000f17842edcf0d55fe7787c09fdc3e' height=32>|KUURO|[open](https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q)|
 |<img src='https://i.scdn.co/image/ab6761610000f178bc9641ab25bb0ed95a360b7e' height=32>|Karma Fields|[open](https://open.spotify.com/artist/1tRsdSvjwp34PDvcmix6SJ)|
@@ -158,7 +158,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f1782ab90dd305592df399ac066a' height=32>|NERO|[open](https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD)|
 |<img src='https://i.scdn.co/image/ab6761610000f1780d672afd26632c2545d95a43' height=32>|NERVO|[open](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK)|
 |<img src='https://i.scdn.co/image/ab6761610000f178af4a9a56ac0dd4e2e2cec2d2' height=32>|Neovaii|[open](https://open.spotify.com/artist/45f1m9SROETaiqSyGcqTzv)|
-|<img src='https://i.scdn.co/image/ab6761610000f178f88a8a792936a97d2023fa81' height=32>|Netsky|[open](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP)|
+|<img src='https://i.scdn.co/image/ab6761610000f178ee1835cb55dd5d4660aec009' height=32>|Netsky|[open](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP)|
 |<img src='https://i.scdn.co/image/ab6761610000f1789dff3aa765fcafbe344074a4' height=32>|Nigel Stanford|[open](https://open.spotify.com/artist/4Jyb0l1PTSn1VxNmiFxSf4)|
 |<img src='https://i.scdn.co/image/ab6761610000f178da22836cfc0cf4108d141d96' height=32>|No Mana|[open](https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg)|
 |<img src='https://i.scdn.co/image/ab6761610000f1783e8c66c01dca19afec96ae55' height=32>|Noisestorm|[open](https://open.spotify.com/artist/2BuSNpxpMGJGiAAWJYJT2t)|
