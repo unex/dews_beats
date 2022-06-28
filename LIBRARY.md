@@ -79,7 +79,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f1789f045ceef1451d6f0f767aea' height=32>|Bensley|[open](https://open.spotify.com/artist/3SfEKS85dj9v75ROsWJSiL)|
 |<img src='https://i.scdn.co/image/ab6761610000f178388751478f5e571b4d076809' height=32>|Black Tiger Sex Machine|[open](https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC)|
 |<img src='https://i.scdn.co/image/ab6761610000f17847b81f796ba6399a4d65562e' height=32>|BlackGummy|[open](https://open.spotify.com/artist/3ExR7ks7OAdqrm99r1PJby)|
-|<img src='https://i.scdn.co/image/ab6761610000f178fbdc0430d049d8bb8b2fb776' height=32>|Blanke|[open](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT)|
+|<img src='https://i.scdn.co/image/ab6761610000f17873d2a8b4517d99178d76f75d' height=32>|Blanke|[open](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT)|
 |<img src='https://i.scdn.co/image/ab6761610000f17805160aec0fc3da915f1230ab' height=32>|Bob Moses|[open](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5)|
 |<img src='https://i.scdn.co/image/ab6761610000f1785a8b3b648ada4d02a609f2f0' height=32>|C.H.A.Y.|[open](https://open.spotify.com/artist/5tMMTJbvSM8jApcukwqO9V)|
 |<img src='https://i.scdn.co/image/ab6761610000f17893a3ec5e8addcbfe818ab825' height=32>|CamelPhat|[open](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W)|
@@ -98,7 +98,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f17809e5210f7618a0baad59a06c' height=32>|Dominus|[open](https://open.spotify.com/artist/0uDJS3oEIxgZeqAPi7REq6)|
 |<img src='https://i.scdn.co/image/ab6761610000f178259a9b27a3225024093d6063' height=32>|DotEXE|[open](https://open.spotify.com/artist/2S2RMiHABGxAQqdqwUN5qF)|
 |<img src='https://i.scdn.co/image/ab6761610000f178328dded918ee5ec1515fa32f' height=32>|EDDIE|[open](https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd)|
-|<img src='https://i.scdn.co/image/ab6761610000f178d8caeec848617aa251123e51' height=32>|Eliminate|[open](https://open.spotify.com/artist/6hBrJJrcYoNhvLC6KaFR4b)|
+|<img src='https://i.scdn.co/image/ab6761610000f178b3039e15ec053d282728487e' height=32>|Eliminate|[open](https://open.spotify.com/artist/6hBrJJrcYoNhvLC6KaFR4b)|
 |<img src='https://i.scdn.co/image/ab6761610000f178aa972cb3308ccbeeff38666a' height=32>|Ellie Goulding|[open](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ)|
 |<img src='https://i.scdn.co/image/ab6761610000f178825519e6ab8a2fd50a5fce68' height=32>|Essenger|[open](https://open.spotify.com/artist/3vc0JWD1Nj1VLrgJ1x3cjE)|
 |<img src='https://i.scdn.co/image/ab6761610000f178b27acdef3ac1132b7989f1fc' height=32>|Fabrication|[open](https://open.spotify.com/artist/73MDrv3SUYLE1yNOBQMlsy)|
