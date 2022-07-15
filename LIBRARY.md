@@ -169,7 +169,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f1780fb1220e7e3ace47ebad023e' height=32>|Pegboard Nerds|[open](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y)|
 |<img src='https://i.scdn.co/image/ab6761610000f178c9473a9f882dc95c5d50bac6' height=32>|Pendulum|[open](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B)|
 |<img src='https://i.scdn.co/image/ab6761610000f1785f9fb70d0bdeabe8166c57e8' height=32>|Popeska|[open](https://open.spotify.com/artist/4Td7DjmnDqvSDBHtuJomoF)|
-|<img src='https://i.scdn.co/image/ab6761610000f1781804f56bdcb9322c5f3f8f21' height=32>|Porter Robinson|[open](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam)|
+|<img src='https://i.scdn.co/image/ab6761610000f1786ccb967cecc6f1da90fe355e' height=32>|Porter Robinson|[open](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam)|
 |<img src='https://i.scdn.co/image/ab6761610000f1789cf293569bdfe2b846eb70c8' height=32>|Prismo|[open](https://open.spotify.com/artist/23ostNBoB9z6GMXLtHdg7y)|
 |<img src='https://i.scdn.co/image/ab6761610000f178b2ee3aa183d584cd4bc68726' height=32>|Quackson|[open](https://open.spotify.com/artist/1srU7GzSGHwG1ewjSv6ztq)|
 |<img src='https://i.scdn.co/image/ab6761610000f178d9b107c777dc274451043935' height=32>|RIOT|[open](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY)|
