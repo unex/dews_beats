@@ -64,6 +64,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f178e25df48b791b5f0ef88af4be' height=32>|ATTLAS|[open](https://open.spotify.com/artist/0jM4IKp6YlTxq8tNDH9fX3)|
 |<img src='https://i.scdn.co/image/ab6761610000f1786a10b57c723c29472a2ab318' height=32>|AWAY|[open](https://open.spotify.com/artist/2ZmerElhvxg8uVKCmlZ4ij)|
 |<img src='https://i.scdn.co/image/ab6761610000f1782a538d1a36a271885510d98a' height=32>|Above & Beyond|[open](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe)|
+|<img src='https://i.scdn.co/image/ab6761610000f1787cbdc00398623d14ef0a5258' height=32>|Abraxis|[open](https://open.spotify.com/artist/0VVfeAF66rSXe5NcSLuTs7)|
 |<img src='https://i.scdn.co/image/ab6761610000f17840baef401cb7f5c6511771bc' height=32>|Adventure Club|[open](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa)|
 |<img src='https://i.scdn.co/image/ab6761610000f178549aa0ce64b4b9797b24e3be' height=32>|Afrojack|[open](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz)|
 |<img src='https://i.scdn.co/image/ab6761610000f17829da45fd16f4b249be105618' height=32>|Alan Walker|[open](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN)|
