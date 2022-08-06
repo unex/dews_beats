@@ -218,7 +218,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f17856817b9fe50005bf553d3b85' height=32>|Xilent|[open](https://open.spotify.com/artist/1k78cRCnTM3T7EhvhVeaKX)|
 |<img src='https://i.scdn.co/image/ab67616d000048513a0dee7da2249c743e665cf0' height=32>|Yurie|[open](https://open.spotify.com/artist/61lAbhmTP9kmSCUDGRnUdt)|
 |<img src='https://i.scdn.co/image/ab6761610000f178968467d3f2031f6a22185991' height=32>|ZABO|[open](https://open.spotify.com/artist/19zQevA415Jm6ThEtIwVIb)|
-|<img src='https://i.scdn.co/image/ab6761610000f1785cc7aca0b30b4214a4dc154e' height=32>|ZHU|[open](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2)|
+|<img src='https://i.scdn.co/image/ab6761610000f178930b1525d3a5242b369fecaa' height=32>|ZHU|[open](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2)|
 |<img src='https://i.scdn.co/image/ab6761610000f1789a4225e6542fa298e7206a4d' height=32>|Zac Waters|[open](https://open.spotify.com/artist/3KF7anPKoBvMZSJEFvZDN9)|
 |<img src='https://i.scdn.co/image/ab6761610000f178187ae34b4a0a55270f3f2bcc' height=32>|Zweihänder|[open](https://open.spotify.com/artist/5TAKKdC7OQSTfKkKlcs6Q4)|
 |<img src='https://i.scdn.co/image/ab6761610000f178c5ceb05f152103b2b70d3b07' height=32>|deadmau5|[open](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx)|
