@@ -93,7 +93,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f17821b34471e47b4f53a8fa425b' height=32>|DRIVEPILOT|[open](https://open.spotify.com/artist/28jhpEPXEk8We9E2QGuQjy)|
 |<img src='https://i.scdn.co/image/ab6761610000f178bb894338b2aba1124ec708d4' height=32>|Danger|[open](https://open.spotify.com/artist/2o3U0ld93tHYowkoari4Vi)|
 |<img src='https://i.scdn.co/image/ab6761610000f17875348e1aade2645ad9c58829' height=32>|David Guetta|[open](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai)|
-|<img src='https://i.scdn.co/image/ab6761610000f178abcbb3a43da365e25d76e5d3' height=32>|Delta Heavy|[open](https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T)|
+|<img src='https://i.scdn.co/image/ab6761610000f178356492c404e7838f21c88911' height=32>|Delta Heavy|[open](https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T)|
 |<img src='https://i.scdn.co/image/ab6761610000f17840abe2711c71c9927b5513be' height=32>|Dillon Francis|[open](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf)|
 |<img src='https://i.scdn.co/image/ab6761610000f178ae2ffce136c839d899ca8e30' height=32>|Dimension|[open](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S)|
 |<img src='https://i.scdn.co/image/ab6761610000f1782c3b19dce6ac8c31ba37fb3e' height=32>|Dom Dolla|[open](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m)|
@@ -123,7 +123,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f17894b93f675b68f90c276a6a95' height=32>|In This Moment|[open](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT)|
 |<img src='https://i.scdn.co/image/ab6761610000f1782ea36e7e9e49762e4a5c7d9b' height=32>|Infected Mushroom|[open](https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI)|
 |<img src='https://i.scdn.co/image/ab6761610000f178f14cf3e823e826e73f877667' height=32>|JOYRYDE|[open](https://open.spotify.com/artist/24neLwyYRyj4ItaGnFeIT0)|
-|<img src='https://i.scdn.co/image/ab6761610000f178f5b12b45d7b36943ccfbc68e' height=32>|JVNA|[open](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A)|
+|<img src='https://i.scdn.co/image/ab6761610000f17889ea0dda358cef61b1e9f066' height=32>|JVNA|[open](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A)|
 |<img src='https://i.scdn.co/image/ab6761610000f178d283305b0dd93c5472bb3f22' height=32>|James Egbert|[open](https://open.spotify.com/artist/0MHUXo8PYYFpnXY73siC8T)|
 |<img src='https://i.scdn.co/image/ab6761610000f17865d3059bf4db35c093696ce4' height=32>|Jason Ross|[open](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150)|
 |<img src='https://i.scdn.co/image/ab6761610000f1781f9d81c89a9678ef97b39ffc' height=32>|Juno Reactor|[open](https://open.spotify.com/artist/1Pe3z1UqRzKsQtHsl25dm6)|
@@ -176,7 +176,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f178b2ee3aa183d584cd4bc68726' height=32>|Quackson|[open](https://open.spotify.com/artist/1srU7GzSGHwG1ewjSv6ztq)|
 |<img src='https://i.scdn.co/image/ab6761610000f178d9b107c777dc274451043935' height=32>|RIOT|[open](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY)|
 |<img src='https://i.scdn.co/image/ab6761610000f178d32795654cee9204e8bdcfde' height=32>|Rezz|[open](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw)|
-|<img src='https://i.scdn.co/image/ab6761610000f1780406b064d95e3cbbd90e09d1' height=32>|Rickyxsan|[open](https://open.spotify.com/artist/0lqxqV3IhQXO5czq1d0ZfJ)|
+|<img src='https://i.scdn.co/image/ab6761610000f1780304cc3d0f222bb3d41a3043' height=32>|Rickyxsan|[open](https://open.spotify.com/artist/0lqxqV3IhQXO5czq1d0ZfJ)|
 |<img src='https://i.scdn.co/image/ab6761610000f178172451810a37f3caf0136525' height=32>|Roniit|[open](https://open.spotify.com/artist/09KYpkm7IEPR3nc8omKpSY)|
 |<img src='https://i.scdn.co/image/ab6761610000f178ec9d19606878df40e0bcc1c1' height=32>|SWARM|[open](https://open.spotify.com/artist/07OF36h5y4S6s9ckQliaj3)|
 |<img src='https://i.scdn.co/image/ab6761610000f178cd9e2b8f901285164a7fde6c' height=32>|Said The Sky|[open](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu)|
