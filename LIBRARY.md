@@ -17,7 +17,7 @@
 |Miss Monique|dunce|Songs played by Miss Monique|[open](https://open.spotify.com/playlist/62Wdnd2oq36OIRAQdf77OR)|
 |My Shazam Tracks|dunce||[open](https://open.spotify.com/playlist/7doUnZFW5DsWCVINncMhEF)|
 |New Music Weekly \| Monstercat|Monstercat|Brand new music from Monstercat, all in one place.|[open](https://open.spotify.com/playlist/4kw9kdjzx1UmyWvpysl0y2)|
-|Operator|Spotify|Tech house technicians, featuring Saison|[open](https://open.spotify.com/playlist/37i9dQZF1DWVY4eLfA3XFQ)|
+|Operator|Spotify|Tech house technicians, featuring Odd Mob|[open](https://open.spotify.com/playlist/37i9dQZF1DWVY4eLfA3XFQ)|
 |Proximity|Proximity|EDM/Electronic Dance Music from Proximity updated every TWO WEEKS! Other playlists here: <a href="https://open.spotify.com/playlist/4sIYMafu8OhwxjV4kDdGzJ?si=wsWP_3JpSoKAcfeeLPgy4Q">Drive</a> / <a href="https://open.spotify.com/playlist/49pxpTd9cWmFXqLEkwzyN2?si=mdQS17_OQuq">Proximity Chill</a>|[open](https://open.spotify.com/playlist/3VEFRGe3APwGRl4eTpMS4x)|
 |R|dunce||[open](https://open.spotify.com/playlist/0Yg4Y8u5RffkQfLl5PBQE0)|
 |Release Radar|Spotify|Catch all the latest music from artists you follow, plus new singles picked for you. Updates every Friday.|[open](https://open.spotify.com/playlist/37i9dQZEVXbnh1QaRGLArX)|
@@ -174,7 +174,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f1786ccb967cecc6f1da90fe355e' height=32>|Porter Robinson|[open](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam)|
 |<img src='https://i.scdn.co/image/ab6761610000f1789cf293569bdfe2b846eb70c8' height=32>|Prismo|[open](https://open.spotify.com/artist/23ostNBoB9z6GMXLtHdg7y)|
 |<img src='https://i.scdn.co/image/ab6761610000f178b2ee3aa183d584cd4bc68726' height=32>|Quackson|[open](https://open.spotify.com/artist/1srU7GzSGHwG1ewjSv6ztq)|
-|<img src='https://i.scdn.co/image/ab6761610000f178d9b107c777dc274451043935' height=32>|RIOT|[open](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY)|
+|<img src='https://i.scdn.co/image/ab6761610000f17833b1d3113a07673039c86cc7' height=32>|RIOT|[open](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY)|
 |<img src='https://i.scdn.co/image/ab6761610000f178d32795654cee9204e8bdcfde' height=32>|Rezz|[open](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw)|
 |<img src='https://i.scdn.co/image/ab6761610000f1780304cc3d0f222bb3d41a3043' height=32>|Rickyxsan|[open](https://open.spotify.com/artist/0lqxqV3IhQXO5czq1d0ZfJ)|
 |<img src='https://i.scdn.co/image/ab6761610000f178172451810a37f3caf0136525' height=32>|Roniit|[open](https://open.spotify.com/artist/09KYpkm7IEPR3nc8omKpSY)|
