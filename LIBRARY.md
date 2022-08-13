@@ -75,7 +75,7 @@
 |<img src='https://i.scdn.co/image/ab67616d0000485194008f6625cab88b318e3c49' height=32>|Aperture Science Psychoacoustic Laboratories|[open](https://open.spotify.com/artist/7d58WZ8qQHy2Sm5p52V2NP)|
 |<img src='https://i.scdn.co/image/ab6761610000f178f207f2c7e1897ea962e35bcb' height=32>|Au5|[open](https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF)|
 |<img src='https://i.scdn.co/image/ab6761610000f17809bf4814c6585e1f69dfeef7' height=32>|Avicii|[open](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6)|
-|<img src='https://i.scdn.co/image/ab6761610000f1786b82cd24a1a1c7dd82c80505' height=32>|BONNIE X CLYDE|[open](https://open.spotify.com/artist/74xeHqz5Ap8ZHq69TkxI0r)|
+|<img src='https://i.scdn.co/image/ab6761610000f178ef899871f76b3a3ad365cb30' height=32>|BONNIE X CLYDE|[open](https://open.spotify.com/artist/74xeHqz5Ap8ZHq69TkxI0r)|
 |<img src='https://i.scdn.co/image/ab6761610000f178093da37218837dd8c443936b' height=32>|BSOD|[open](https://open.spotify.com/artist/2t2M4T7Z7fKbF900SUuh05)|
 |<img src='https://i.scdn.co/image/ab6761610000f1781ffa2e19b87dceb11074b564' height=32>|Bad Omens|[open](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V)|
 |<img src='https://i.scdn.co/image/ab6761610000f1789f045ceef1451d6f0f767aea' height=32>|Bensley|[open](https://open.spotify.com/artist/3SfEKS85dj9v75ROsWJSiL)|
@@ -248,6 +248,7 @@
 |<img src='https://i.scdn.co/image/ab67616d00004851f1d53984a56564a3046678c9' height=32>|Nothing For Free|[Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B)|[open](https://open.spotify.com/album/2C5pOup7ksQ7YFutOlP6nA)|
 |<img src='https://i.scdn.co/image/ab67616d00004851303ae66195b6feba7022698b' height=32>|Rage Valley|[Knife Party](https://open.spotify.com/artist/2DuJi13MWHjRHrqRUwk8vH)|[open](https://open.spotify.com/album/2KZKR8bLDZPUxOE6JhTh4X)|
 |<img src='https://i.scdn.co/image/ab67616d000048515e9ea4ef7e6c200b8744f950' height=32>|Ruby EP|[Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL)|[open](https://open.spotify.com/album/6yEEISXxFOhyolnOLu8j5k)|
+|<img src='https://i.scdn.co/image/ab67616d000048515b0a4b0b87f8dd54660332f0' height=32>|Run the Jewels 2|[Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C), [El-P](https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI)|[open](https://open.spotify.com/album/6WBUyDe1Xy8QRwF6wzhJsY)|
 |<img src='https://i.scdn.co/image/ab67616d0000485153363175bd1990204146ea87' height=32>|THE DEATH OF PEACE OF MIND|[Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V)|[open](https://open.spotify.com/album/0auTn0kFZk71WAv3BbKVxQ)|
 |<img src='https://i.scdn.co/image/ab67616d00004851e1f9d03584c00a71a1a8d915' height=32>|THE HIVE|[KLOUD](https://open.spotify.com/artist/24Hb4GKFYquK73R8mTyInu)|[open](https://open.spotify.com/album/3H7HxZxy9SvOtxMey4LRnP)|
 |<img src='https://i.scdn.co/image/ab67616d0000485129be25db83f72fffaa18e4dd' height=32>|Time and Time Again|[Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5)|[open](https://open.spotify.com/album/1WkSp0mjBHyipV2iuE2B5x)|
