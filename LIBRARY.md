@@ -123,7 +123,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f17894b93f675b68f90c276a6a95' height=32>|In This Moment|[open](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT)|
 |<img src='https://i.scdn.co/image/ab6761610000f1782ea36e7e9e49762e4a5c7d9b' height=32>|Infected Mushroom|[open](https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI)|
 |<img src='https://i.scdn.co/image/ab6761610000f178f14cf3e823e826e73f877667' height=32>|JOYRYDE|[open](https://open.spotify.com/artist/24neLwyYRyj4ItaGnFeIT0)|
-|<img src='https://i.scdn.co/image/ab6761610000f17889ea0dda358cef61b1e9f066' height=32>|JVNA|[open](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A)|
+|<img src='https://i.scdn.co/image/ab6761610000f178da2ba76c115e27b87502c44c' height=32>|JVNA|[open](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A)|
 |<img src='https://i.scdn.co/image/ab6761610000f178d283305b0dd93c5472bb3f22' height=32>|James Egbert|[open](https://open.spotify.com/artist/0MHUXo8PYYFpnXY73siC8T)|
 |<img src='https://i.scdn.co/image/ab6761610000f17865d3059bf4db35c093696ce4' height=32>|Jason Ross|[open](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150)|
 |<img src='https://i.scdn.co/image/ab6761610000f1781f9d81c89a9678ef97b39ffc' height=32>|Juno Reactor|[open](https://open.spotify.com/artist/1Pe3z1UqRzKsQtHsl25dm6)|
@@ -148,7 +148,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f17820ac0ebf4bc00a13eca5c5ea' height=32>|Malaa|[open](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS)|
 |<img src='https://i.scdn.co/image/ab6761610000f1789e2dae585750a8d6055f4e35' height=32>|Marilyn Manson|[open](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj)|
 |<img src='https://i.scdn.co/image/ab6761610000f17866d17ee8690d2e8d94ee7387' height=32>|Martin Garrix|[open](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ)|
-|<img src='https://i.scdn.co/image/ab6761610000f178d97ff71e2ba3e53294ab3f41' height=32>|Matroda|[open](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz)|
+|<img src='https://i.scdn.co/image/ab6761610000f17841c4fdaeab145c2073c8534e' height=32>|Matroda|[open](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz)|
 |<img src='https://i.scdn.co/image/ab6761610000f1780ac924c59aa6cec24890ffcc' height=32>|Matt Lange|[open](https://open.spotify.com/artist/2AmHV6vxRxvHdlxSHxnHE9)|
 |<img src='https://i.scdn.co/image/ab6761610000f17832073dfd0867109eb8a87530' height=32>|Max Brhon|[open](https://open.spotify.com/artist/5DxE39K4wk15NUk2c5zpeI)|
 |<img src='https://i.scdn.co/image/ab6761610000f17892e127fb17994d9a3883abe0' height=32>|Mega Drive|[open](https://open.spotify.com/artist/1WxMvNsfdsGftDZ4oO21L8)|
@@ -217,7 +217,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f1787cbf40b589fbf9fbb45b2b1f' height=32>|Wolfgang Gartner|[open](https://open.spotify.com/artist/3534yWWzmxx8NbKVoNolsK)|
 |<img src='https://i.scdn.co/image/ab6761610000f17856817b9fe50005bf553d3b85' height=32>|Xilent|[open](https://open.spotify.com/artist/1k78cRCnTM3T7EhvhVeaKX)|
 |<img src='https://i.scdn.co/image/ab67616d000048513a0dee7da2249c743e665cf0' height=32>|Yurie|[open](https://open.spotify.com/artist/61lAbhmTP9kmSCUDGRnUdt)|
-|<img src='https://i.scdn.co/image/ab6761610000f178968467d3f2031f6a22185991' height=32>|ZABO|[open](https://open.spotify.com/artist/19zQevA415Jm6ThEtIwVIb)|
+|<img src='https://i.scdn.co/image/ab6761610000f178a0afd75425225e59f87cb8fc' height=32>|ZABO|[open](https://open.spotify.com/artist/19zQevA415Jm6ThEtIwVIb)|
 |<img src='https://i.scdn.co/image/ab6761610000f178930b1525d3a5242b369fecaa' height=32>|ZHU|[open](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2)|
 |<img src='https://i.scdn.co/image/ab6761610000f1789a4225e6542fa298e7206a4d' height=32>|Zac Waters|[open](https://open.spotify.com/artist/3KF7anPKoBvMZSJEFvZDN9)|
 |<img src='https://i.scdn.co/image/ab6761610000f178187ae34b4a0a55270f3f2bcc' height=32>|Zweihänder|[open](https://open.spotify.com/artist/5TAKKdC7OQSTfKkKlcs6Q4)|
