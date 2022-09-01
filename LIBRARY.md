@@ -120,7 +120,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f1786b5fbf615ada187ce5e425c8' height=32>|ILLENIUM|[open](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg)|
 |<img src='https://i.scdn.co/image/ab67616d000048519c8176d123ff5ec9a540f47b' height=32>|INTERCOM|[open](https://open.spotify.com/artist/6cHi0QWaBxWN71YpvTR4Jr)|
 |<img src='https://i.scdn.co/image/b5d2e86b24dca98bc5627f731da25f0755b47a95' height=32>|Ilan Bluestone|[open](https://open.spotify.com/artist/1yoZuH2j43vVSWsOwYuQyn)|
-|<img src='https://i.scdn.co/image/ab6761610000f17894b93f675b68f90c276a6a95' height=32>|In This Moment|[open](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT)|
+|<img src='https://i.scdn.co/image/ab6761610000f1788cfcea5bf7c8124a8d38f8ed' height=32>|In This Moment|[open](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT)|
 |<img src='https://i.scdn.co/image/ab6761610000f1782ea36e7e9e49762e4a5c7d9b' height=32>|Infected Mushroom|[open](https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI)|
 |<img src='https://i.scdn.co/image/ab6761610000f178f14cf3e823e826e73f877667' height=32>|JOYRYDE|[open](https://open.spotify.com/artist/24neLwyYRyj4ItaGnFeIT0)|
 |<img src='https://i.scdn.co/image/ab6761610000f178da2ba76c115e27b87502c44c' height=32>|JVNA|[open](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A)|
@@ -193,6 +193,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f178a13341c2b7324dc35deed67c' height=32>|Stilz|[open](https://open.spotify.com/artist/0he5qSKLuYoGL223KSWjXJ)|
 |<img src='https://i.scdn.co/image/ab6761610000f17807626ae4a3d34ce3e8521c14' height=32>|Stonebank|[open](https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377)|
 |<img src='https://i.scdn.co/image/ab6761610000f1780c05adcae61ac479afe35c8e' height=32>|Swedish House Mafia|[open](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs)|
+|<img src='https://i.scdn.co/image/ab6761610000f178a2342f98176f0a3bb124081f' height=32>|TELYKast|[open](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz)|
 |<img src='https://i.scdn.co/image/ab6761610000f178fd675d9838c3451b7936bcf4' height=32>|TOKYO ROSE|[open](https://open.spotify.com/artist/3kwoPkICT4iPkNjr6mL13N)|
 |<img src='https://i.scdn.co/image/ab6761610000f17823a08dc78da9d9a6869d85fb' height=32>|Tantrum Desire|[open](https://open.spotify.com/artist/7HBMCyflAmijk08T1si9wS)|
 |<img src='https://i.scdn.co/image/ab6761610000f178c4a1d6a48e96ee8f3ede16e3' height=32>|The Bloody Beetroots|[open](https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5)|
