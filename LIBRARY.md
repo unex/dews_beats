@@ -17,7 +17,7 @@
 |Miss Monique|dunce|Songs played by Miss Monique|[open](https://open.spotify.com/playlist/62Wdnd2oq36OIRAQdf77OR)|
 |My Shazam Tracks|dunce||[open](https://open.spotify.com/playlist/7doUnZFW5DsWCVINncMhEF)|
 |New Music Weekly \| Monstercat|Monstercat|Brand new music from Monstercat, all in one place.|[open](https://open.spotify.com/playlist/4kw9kdjzx1UmyWvpysl0y2)|
-|Operator|Spotify|Tech house technicians, featuring Deeper Purpose|[open](https://open.spotify.com/playlist/37i9dQZF1DWVY4eLfA3XFQ)|
+|Operator|Spotify|Tech house technicians, featuring Biscits|[open](https://open.spotify.com/playlist/37i9dQZF1DWVY4eLfA3XFQ)|
 |Proximity|Proximity|The best of EDM/Electronic Dance Music from Proximity. Updated every TWO WEEKS!|[open](https://open.spotify.com/playlist/3VEFRGe3APwGRl4eTpMS4x)|
 |R|dunce||[open](https://open.spotify.com/playlist/0Yg4Y8u5RffkQfLl5PBQE0)|
 |Release Radar|Spotify|Catch all the latest music from artists you follow, plus new singles picked for you. Updates every Friday.|[open](https://open.spotify.com/playlist/37i9dQZEVXbnh1QaRGLArX)|
@@ -70,7 +70,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f17829da45fd16f4b249be105618' height=32>|Alan Walker|[open](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN)|
 |<img src='https://i.scdn.co/image/ab6761610000f178fa254d259626f0df7463e5ee' height=32>|Alison Wonderland|[open](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW)|
 |<img src='https://i.scdn.co/image/ab6761610000f178589da95c2c9de7b23571ae9c' height=32>|Andrew Perkins|[open](https://open.spotify.com/artist/6n6nuTjsajI8tooRU3SYDA)|
-|<img src='https://i.scdn.co/image/ab67616d00004851a0d2c9ae397ea55cf3ba56e4' height=32>|Anjunabeats|[open](https://open.spotify.com/artist/7aqysYAN8bVjQuJSo9PyqR)|
+|<img src='https://i.scdn.co/image/ab67616d0000485142839d57a088fb1cf4f072e5' height=32>|Anjunabeats|[open](https://open.spotify.com/artist/7aqysYAN8bVjQuJSo9PyqR)|
 |<img src='https://i.scdn.co/image/ab6761610000f178d681a74e4f148b698baf6edb' height=32>|Apashe|[open](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN)|
 |<img src='https://i.scdn.co/image/ab67616d0000485194008f6625cab88b318e3c49' height=32>|Aperture Science Psychoacoustic Laboratories|[open](https://open.spotify.com/artist/7d58WZ8qQHy2Sm5p52V2NP)|
 |<img src='https://i.scdn.co/image/ab6761610000f178f207f2c7e1897ea962e35bcb' height=32>|Au5|[open](https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF)|
@@ -111,6 +111,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f17876b1e75663929865ef5cbb35' height=32>|Gemini|[open](https://open.spotify.com/artist/3QqJ1L8cWsPFZ1YDPpUmvG)|
 |<img src='https://i.scdn.co/image/ab6761610000f1787fa99a739980cf77a38f995b' height=32>|Gesaffelstein|[open](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP)|
 |<img src='https://i.scdn.co/image/ab6761610000f17803074337cada59add284e048' height=32>|Giuseppe Ottaviani|[open](https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv)|
+|<img src='https://i.scdn.co/image/ab6761610000f17886909f8355eddca3542d224c' height=32>|HEALTH|[open](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth)|
 |<img src='https://i.scdn.co/image/ab6761610000f178b63ff25a61b49e90c902242e' height=32>|HIGHSOCIETY|[open](https://open.spotify.com/artist/32MQN2sITkJGNQN40QLPEa)|
 |<img src='https://i.scdn.co/image/ab6761610000f178b99140164ab38216f93f20bb' height=32>|HVDES|[open](https://open.spotify.com/artist/3koHmmPvpgZWHcVmK8AKDq)|
 |<img src='https://i.scdn.co/image/ab6761610000f1784b4d04b47bf9b080a8e93270' height=32>|HYPRESSION|[open](https://open.spotify.com/artist/440CkJeA4aZmro26BGCyt0)|
@@ -167,7 +168,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f1787cd6e39b32082b0fd8650ab9' height=32>|No Mana|[open](https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg)|
 |<img src='https://i.scdn.co/image/ab6761610000f1783e8c66c01dca19afec96ae55' height=32>|Noisestorm|[open](https://open.spotify.com/artist/2BuSNpxpMGJGiAAWJYJT2t)|
 |<img src='https://i.scdn.co/image/ab6761610000f178a591fdf15cd5e5a2c9759bbc' height=32>|Notaker|[open](https://open.spotify.com/artist/0I7HgbIetYEIweWq7nD6En)|
-|<img src='https://i.scdn.co/image/ab6761610000f1781b00f0413d659ee91b505f70' height=32>|ODESZA|[open](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw)|
+|<img src='https://i.scdn.co/image/ab6761610000f1782332be9ab8f6b2197f8ad00e' height=32>|ODESZA|[open](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw)|
 |<img src='https://i.scdn.co/image/ab6761610000f1785945c3714ddc2b34cd7580d5' height=32>|Parker|[open](https://open.spotify.com/artist/7HvystfBAIH8khkGVO4vne)|
 |<img src='https://i.scdn.co/image/ab6761610000f178ecce90d46f2011e8fcd2289e' height=32>|Pax Impera|[open](https://open.spotify.com/artist/6Tabml9HYiynouDND7RFLz)|
 |<img src='https://i.scdn.co/image/ab6761610000f1780fb1220e7e3ace47ebad023e' height=32>|Pegboard Nerds|[open](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y)|
@@ -221,7 +222,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f1787cbf40b589fbf9fbb45b2b1f' height=32>|Wolfgang Gartner|[open](https://open.spotify.com/artist/3534yWWzmxx8NbKVoNolsK)|
 |<img src='https://i.scdn.co/image/ab6761610000f17856817b9fe50005bf553d3b85' height=32>|Xilent|[open](https://open.spotify.com/artist/1k78cRCnTM3T7EhvhVeaKX)|
 |<img src='https://i.scdn.co/image/ab67616d00004851b479b15b77c5bb6741c67b0c' height=32>|Yurie|[open](https://open.spotify.com/artist/61lAbhmTP9kmSCUDGRnUdt)|
-|<img src='https://i.scdn.co/image/ab6761610000f178a0afd75425225e59f87cb8fc' height=32>|ZABO|[open](https://open.spotify.com/artist/19zQevA415Jm6ThEtIwVIb)|
+|<img src='https://i.scdn.co/image/ab6761610000f1787a6854648c558568c5b16db0' height=32>|ZABO|[open](https://open.spotify.com/artist/19zQevA415Jm6ThEtIwVIb)|
 |<img src='https://i.scdn.co/image/ab6761610000f178930b1525d3a5242b369fecaa' height=32>|ZHU|[open](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2)|
 |<img src='https://i.scdn.co/image/ab6761610000f1789a4225e6542fa298e7206a4d' height=32>|Zac Waters|[open](https://open.spotify.com/artist/3KF7anPKoBvMZSJEFvZDN9)|
 |<img src='https://i.scdn.co/image/ab6761610000f178187ae34b4a0a55270f3f2bcc' height=32>|Zweihänder|[open](https://open.spotify.com/artist/5TAKKdC7OQSTfKkKlcs6Q4)|
