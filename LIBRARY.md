@@ -221,7 +221,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f178b72801394d45c260142de432' height=32>|Will Sparks|[open](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U)|
 |<img src='https://i.scdn.co/image/ab6761610000f1787cbf40b589fbf9fbb45b2b1f' height=32>|Wolfgang Gartner|[open](https://open.spotify.com/artist/3534yWWzmxx8NbKVoNolsK)|
 |<img src='https://i.scdn.co/image/ab6761610000f17856817b9fe50005bf553d3b85' height=32>|Xilent|[open](https://open.spotify.com/artist/1k78cRCnTM3T7EhvhVeaKX)|
-|<img src='https://i.scdn.co/image/ab67616d00004851b479b15b77c5bb6741c67b0c' height=32>|Yurie|[open](https://open.spotify.com/artist/61lAbhmTP9kmSCUDGRnUdt)|
+|<img src='https://i.scdn.co/image/ab67616d00004851d4e757999f093e1e9b596c76' height=32>|Yurie|[open](https://open.spotify.com/artist/61lAbhmTP9kmSCUDGRnUdt)|
 |<img src='https://i.scdn.co/image/ab6761610000f1787a6854648c558568c5b16db0' height=32>|ZABO|[open](https://open.spotify.com/artist/19zQevA415Jm6ThEtIwVIb)|
 |<img src='https://i.scdn.co/image/ab6761610000f178930b1525d3a5242b369fecaa' height=32>|ZHU|[open](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2)|
 |<img src='https://i.scdn.co/image/ab6761610000f1789a4225e6542fa298e7206a4d' height=32>|Zac Waters|[open](https://open.spotify.com/artist/3KF7anPKoBvMZSJEFvZDN9)|
@@ -238,6 +238,7 @@
 ||Name|Artists||
 --- | --- | --- | ---
 |<img src='https://i.scdn.co/image/ab67616d00004851dcef905cb144d4867119850b' height=32>|18 Months|[Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY)|[open](https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT)|
+|<img src='https://i.scdn.co/image/ab67616d000048511de5e87e7deee835774de29c' height=32>|Aleph|[Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP)|[open](https://open.spotify.com/album/3MiiF9utmtGnLVITgl0JP7)|
 |<img src='https://i.scdn.co/image/ab67616d00004851e98ed78e72b0e0b59b9c35f7' height=32>|Blood Hunter|[Varien](https://open.spotify.com/artist/2g1JSu9UfRcQQYb3b03Km7)|[open](https://open.spotify.com/album/0BR7CcANAjtdfMNThMk2Ip)|
 |<img src='https://i.scdn.co/image/ab67616d00004851bd4a1098dd7c86d8aa4580f5' height=32>|Drink the Sea|[The Glitch Mob](https://open.spotify.com/artist/3a9qv6NLHnsVxJUtKOMHvD)|[open](https://open.spotify.com/album/4c5fhgLoAaFzwjNTxC57jK)|
 |<img src='https://i.scdn.co/image/ab67616d000048511749657da768a803346e0b2e' height=32>|Drop Your Weapon|[Drop Your Weapon](https://open.spotify.com/artist/4ckaoizgYG3MT1KQtRi1Rf)|[open](https://open.spotify.com/album/4b24pko4fNvy7r5rzKkncI)|
