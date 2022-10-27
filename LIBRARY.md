@@ -122,7 +122,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f178e5cc7053f8117e6c144b1f09' height=32>|ILLENIUM|[open](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg)|
 |<img src='https://i.scdn.co/image/ab67616d000048519c8176d123ff5ec9a540f47b' height=32>|INTERCOM|[open](https://open.spotify.com/artist/6cHi0QWaBxWN71YpvTR4Jr)|
 |<img src='https://i.scdn.co/image/b5d2e86b24dca98bc5627f731da25f0755b47a95' height=32>|Ilan Bluestone|[open](https://open.spotify.com/artist/1yoZuH2j43vVSWsOwYuQyn)|
-|<img src='https://i.scdn.co/image/ab6761610000f1788cfcea5bf7c8124a8d38f8ed' height=32>|In This Moment|[open](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT)|
+|<img src='https://i.scdn.co/image/ab6761610000f1785bb6a34ccf58c0e8d1bd77fe' height=32>|In This Moment|[open](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT)|
 |<img src='https://i.scdn.co/image/ab6761610000f1782ea36e7e9e49762e4a5c7d9b' height=32>|Infected Mushroom|[open](https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI)|
 |<img src='https://i.scdn.co/image/ab6761610000f178f14cf3e823e826e73f877667' height=32>|JOYRYDE|[open](https://open.spotify.com/artist/24neLwyYRyj4ItaGnFeIT0)|
 |<img src='https://i.scdn.co/image/ab6761610000f178da2ba76c115e27b87502c44c' height=32>|JVNA|[open](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A)|
