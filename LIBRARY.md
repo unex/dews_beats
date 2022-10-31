@@ -181,6 +181,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f178d32795654cee9204e8bdcfde' height=32>|Rezz|[open](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw)|
 |<img src='https://i.scdn.co/image/ab6761610000f178515bcbbbcb69e0aa30cc4c12' height=32>|Rickyxsan|[open](https://open.spotify.com/artist/0lqxqV3IhQXO5czq1d0ZfJ)|
 |<img src='https://i.scdn.co/image/ab6761610000f178172451810a37f3caf0136525' height=32>|Roniit|[open](https://open.spotify.com/artist/09KYpkm7IEPR3nc8omKpSY)|
+|<img src='https://i.scdn.co/image/ab6761610000f178ae6af630507323187b391c81' height=32>|SIERRA|[open](https://open.spotify.com/artist/25WCO5tS4sXMxIfe3nIXL4)|
 |<img src='https://i.scdn.co/image/ab6761610000f178ec9d19606878df40e0bcc1c1' height=32>|SWARM|[open](https://open.spotify.com/artist/07OF36h5y4S6s9ckQliaj3)|
 |<img src='https://i.scdn.co/image/ab6761610000f178cd9e2b8f901285164a7fde6c' height=32>|Said The Sky|[open](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu)|
 |<img src='https://i.scdn.co/image/ab6761610000f178ec9e43b2944e4afe4e29bc90' height=32>|Savoy|[open](https://open.spotify.com/artist/25vU5DYwHIHhg1ViWV3SJq)|
@@ -245,6 +246,7 @@
 |<img src='https://i.scdn.co/image/ab67616d00004851907d9dbffe411e37675eaada' height=32>|F Minor Factory - EP|[MUZZ](https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg)|[open](https://open.spotify.com/album/7zAFs2GGFrVOj1YsBDrGLN)|
 |<img src='https://i.scdn.co/image/ab67616d00004851cb31ae350f4af4f1bfd30769' height=32>|Falling into Focus (Live 2020)|[Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5)|[open](https://open.spotify.com/album/0N1KUVKv32c0QdvcVfGExE)|
 |<img src='https://i.scdn.co/image/ab67616d00004851a6ca882d59348662b5f26449' height=32>|Ghosts 'n' Stuff (feat. Rob Swire) (feat. Rob Swire)|[deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx)|[open](https://open.spotify.com/album/1BEiMHtZHylizLQfN2fz7p)|
+|<img src='https://i.scdn.co/image/ab67616d000048517fd49f89567585f2affbfbb4' height=32>|Gone|[SIERRA](https://open.spotify.com/artist/25WCO5tS4sXMxIfe3nIXL4)|[open](https://open.spotify.com/album/7aEBT42ntVKfKNNjBlUWg8)|
 |<img src='https://i.scdn.co/image/ab67616d00004851487372b5d0b01811f54fe662' height=32>|Hold Your Colour|[Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B)|[open](https://open.spotify.com/album/4FAfNNU21dqtKKhHWB2eOa)|
 |<img src='https://i.scdn.co/image/ab67616d0000485130f8e0f777376780c4077507' height=32>|Immersion|[Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B)|[open](https://open.spotify.com/album/3XtEGVx9uh7J46nBzEc1VS)|
 |<img src='https://i.scdn.co/image/ab67616d0000485161d099fde6c64dc5a90742a4' height=32>|In Silico|[Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B)|[open](https://open.spotify.com/album/6eRDE48ttoLqN2VfkEpPOJ)|
