@@ -99,7 +99,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f1782c3b19dce6ac8c31ba37fb3e' height=32>|Dom Dolla|[open](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m)|
 |<img src='https://i.scdn.co/image/ab6761610000f17809e5210f7618a0baad59a06c' height=32>|Dominus|[open](https://open.spotify.com/artist/0uDJS3oEIxgZeqAPi7REq6)|
 |<img src='https://i.scdn.co/image/ab6761610000f178259a9b27a3225024093d6063' height=32>|DotEXE|[open](https://open.spotify.com/artist/2S2RMiHABGxAQqdqwUN5qF)|
-|<img src='https://i.scdn.co/image/ab6761610000f1787faeb7be4dddb989e8baa2e4' height=32>|EDDIE|[open](https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd)|
+|<img src='https://i.scdn.co/image/ab6761610000f17889a917605f006df203f97fa3' height=32>|EDDIE|[open](https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd)|
 |<img src='https://i.scdn.co/image/ab6761610000f178b3039e15ec053d282728487e' height=32>|Eliminate|[open](https://open.spotify.com/artist/6hBrJJrcYoNhvLC6KaFR4b)|
 |<img src='https://i.scdn.co/image/ab6761610000f1780db36498679f03f30606d45f' height=32>|Ellie Goulding|[open](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ)|
 |<img src='https://i.scdn.co/image/ab6761610000f178825519e6ab8a2fd50a5fce68' height=32>|Essenger|[open](https://open.spotify.com/artist/3vc0JWD1Nj1VLrgJ1x3cjE)|
