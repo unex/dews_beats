@@ -218,7 +218,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f17816c3d0508b78984977eef4cf' height=32>|Vini Vici|[open](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy)|
 |<img src='https://i.scdn.co/image/ab6761610000f1786c406665423f5eac0024e689' height=32>|Virtual Riot|[open](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1)|
 |<img src='https://i.scdn.co/image/ab6761610000f178f4f156ad059348f5f02b1fae' height=32>|Vogel|[open](https://open.spotify.com/artist/0IPgmXKtAVL8x0Gwqc2SuM)|
-|<img src='https://i.scdn.co/image/ab6761610000f17842a832c1b13fe142421893cf' height=32>|WHIPPED CREAM|[open](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi)|
+|<img src='https://i.scdn.co/image/ab6761610000f178a911c25be3b70270643fd36e' height=32>|WHIPPED CREAM|[open](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi)|
 |<img src='https://i.scdn.co/image/ab6761610000f178b72801394d45c260142de432' height=32>|Will Sparks|[open](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U)|
 |<img src='https://i.scdn.co/image/ab6761610000f1787cbf40b589fbf9fbb45b2b1f' height=32>|Wolfgang Gartner|[open](https://open.spotify.com/artist/3534yWWzmxx8NbKVoNolsK)|
 |<img src='https://i.scdn.co/image/ab6761610000f17856817b9fe50005bf553d3b85' height=32>|Xilent|[open](https://open.spotify.com/artist/1k78cRCnTM3T7EhvhVeaKX)|
