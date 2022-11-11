@@ -17,7 +17,7 @@
 |Miss Monique|dunce|Songs played by Miss Monique|[open](https://open.spotify.com/playlist/62Wdnd2oq36OIRAQdf77OR)|
 |My Shazam Tracks|dunce||[open](https://open.spotify.com/playlist/7doUnZFW5DsWCVINncMhEF)|
 |New Music Weekly \| Monstercat|Monstercat|Brand new music from Monstercat, all in one place.|[open](https://open.spotify.com/playlist/4kw9kdjzx1UmyWvpysl0y2)|
-|Operator|Spotify|Tech house technicians, featuring Sosa UK|[open](https://open.spotify.com/playlist/37i9dQZF1DWVY4eLfA3XFQ)|
+|Operator|Spotify|Tech house technicians, featuring Chris Lake|[open](https://open.spotify.com/playlist/37i9dQZF1DWVY4eLfA3XFQ)|
 |Proximity|Proximity|The best of EDM/Electronic Dance Music from Proximity. Updated every TWO WEEKS!|[open](https://open.spotify.com/playlist/3VEFRGe3APwGRl4eTpMS4x)|
 |R|dunce||[open](https://open.spotify.com/playlist/0Yg4Y8u5RffkQfLl5PBQE0)|
 |Release Radar|Spotify|Catch all the latest music from artists you follow, plus new singles picked for you. Updates every Friday.|[open](https://open.spotify.com/playlist/37i9dQZEVXbnh1QaRGLArX)|
@@ -34,6 +34,7 @@
 |goosebumps|dunce||[open](https://open.spotify.com/playlist/5Gn3YbvxlM8cvHMO7o2125)|
 |idk|dunce|shit im not sure about yet|[open](https://open.spotify.com/playlist/6Hj3esks8RqBcXLcpjNZpW)|
 |idk2|dunce|This isn’t a beach, this is a bath tub|[open](https://open.spotify.com/playlist/0KMUtdJWIYpA7Yusq0eK46)|
+|idk3|dunce||[open](https://open.spotify.com/playlist/5lULRdLAc7GGLCdSOjtJ7o)|
 |memme|dunce||[open](https://open.spotify.com/playlist/7hadHDvNoa1jLI1QbZkNLD)|
 |not rave shit|dunce||[open](https://open.spotify.com/playlist/0GxDyXFWRlQytFo0NGD5hb)|
 |not sure|dunce||[open](https://open.spotify.com/playlist/5cU0ms9EJcfCge72RcztvB)|
