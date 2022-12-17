@@ -166,7 +166,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f1780d672afd26632c2545d95a43' height=32>|NERVO|[open](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK)|
 |<img src='https://i.scdn.co/image/ab6761610000f178af4a9a56ac0dd4e2e2cec2d2' height=32>|Neovaii|[open](https://open.spotify.com/artist/45f1m9SROETaiqSyGcqTzv)|
 |<img src='https://i.scdn.co/image/ab6761610000f178ee1835cb55dd5d4660aec009' height=32>|Netsky|[open](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP)|
-|<img src='https://i.scdn.co/image/ab6761610000f1789dff3aa765fcafbe344074a4' height=32>|Nigel Stanford|[open](https://open.spotify.com/artist/4Jyb0l1PTSn1VxNmiFxSf4)|
+|<img src='https://i.scdn.co/image/ab6761610000f178765cbd38098f08580246ebf1' height=32>|Nigel Stanford|[open](https://open.spotify.com/artist/4Jyb0l1PTSn1VxNmiFxSf4)|
 |<img src='https://i.scdn.co/image/ab6761610000f1787cd6e39b32082b0fd8650ab9' height=32>|No Mana|[open](https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg)|
 |<img src='https://i.scdn.co/image/ab6761610000f1783e8c66c01dca19afec96ae55' height=32>|Noisestorm|[open](https://open.spotify.com/artist/2BuSNpxpMGJGiAAWJYJT2t)|
 |<img src='https://i.scdn.co/image/ab6761610000f178a591fdf15cd5e5a2c9759bbc' height=32>|Notaker|[open](https://open.spotify.com/artist/0I7HgbIetYEIweWq7nD6En)|
@@ -189,7 +189,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f178ec9e43b2944e4afe4e29bc90' height=32>|Savoy|[open](https://open.spotify.com/artist/25vU5DYwHIHhg1ViWV3SJq)|
 |<img src='https://i.scdn.co/image/ab6761610000f1780e2455fef5a36516cb23269d' height=32>|Seven Lions|[open](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp)|
 |<img src='https://i.scdn.co/image/ab6761610000f178c4aebff230a74c7a92551d19' height=32>|Shadient|[open](https://open.spotify.com/artist/6ADRET3UXTOmGBjjO67fNd)|
-|<img src='https://i.scdn.co/image/ab6761610000f1787669a4e8b026ccd644a9eb02' height=32>|ShockOne|[open](https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH)|
+|<img src='https://i.scdn.co/image/ab6761610000f178e6891ece49b63b6d80afaa85' height=32>|ShockOne|[open](https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH)|
 |<img src='https://i.scdn.co/image/ab6761610000f1789a164ef943c413c171cb0afe' height=32>|Simon Patterson|[open](https://open.spotify.com/artist/3QxbGzjZc3kgHNJOBOZM2M)|
 |<img src='https://i.scdn.co/image/ab6761610000f178a832e736e92814c03257dc28' height=32>|Skeler|[open](https://open.spotify.com/artist/7ks4LdnBvp6HUsmVJiKgsB)|
 |<img src='https://i.scdn.co/image/ab6761610000f17808c6f3de88a7cd00b65796cb' height=32>|Slooze|[open](https://open.spotify.com/artist/6md8Ho8wqUrhoF8cbsTLnT)|
