@@ -166,7 +166,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f1780d672afd26632c2545d95a43' height=32>|NERVO|[open](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK)|
 |<img src='https://i.scdn.co/image/ab6761610000f178af4a9a56ac0dd4e2e2cec2d2' height=32>|Neovaii|[open](https://open.spotify.com/artist/45f1m9SROETaiqSyGcqTzv)|
 |<img src='https://i.scdn.co/image/ab6761610000f178ee1835cb55dd5d4660aec009' height=32>|Netsky|[open](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP)|
-|<img src='https://i.scdn.co/image/ab6761610000f178765cbd38098f08580246ebf1' height=32>|Nigel Stanford|[open](https://open.spotify.com/artist/4Jyb0l1PTSn1VxNmiFxSf4)|
+|<img src='https://i.scdn.co/image/ab6761610000f17872bbad4ea73d3c76410159a4' height=32>|Nigel Stanford|[open](https://open.spotify.com/artist/4Jyb0l1PTSn1VxNmiFxSf4)|
 |<img src='https://i.scdn.co/image/ab6761610000f1787cd6e39b32082b0fd8650ab9' height=32>|No Mana|[open](https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg)|
 |<img src='https://i.scdn.co/image/ab6761610000f1783e8c66c01dca19afec96ae55' height=32>|Noisestorm|[open](https://open.spotify.com/artist/2BuSNpxpMGJGiAAWJYJT2t)|
 |<img src='https://i.scdn.co/image/ab6761610000f178a591fdf15cd5e5a2c9759bbc' height=32>|Notaker|[open](https://open.spotify.com/artist/0I7HgbIetYEIweWq7nD6En)|
