@@ -5,7 +5,7 @@
 |Name|Author|Description||
 --- | --- | --- | ---
 |Acoustics|dunce||[open](https://open.spotify.com/playlist/6lMBHWjKU7C9PgmBmWiZef)|
-|Chill Tracks|Spotify|Softer kinda <a href="spotify:genre:edm_dance">dance</a>.|[open](https://open.spotify.com/playlist/37i9dQZF1DX6VdMW310YC7)|
+|Chill Tracks|Spotify|Softer kinda <a href="spotify:genre:edm_dance">dance</a>, featuring hand-curated tracks from Nora En Pure for New Years' Eve. |[open](https://open.spotify.com/playlist/37i9dQZF1DX6VdMW310YC7)|
 |Daily Mix 6:5/26/22|dunce||[open](https://open.spotify.com/playlist/64tgdqeE1Cn0087U0Om0jk)|
 |Dance Classics|Spotify|<a href="spotify:genre:edm_dance">Dance radio</a> hits from the 90s and 00s!|[open](https://open.spotify.com/playlist/37i9dQZF1DX8a1tdzq5tbM)|
 |Discover Weekly|Spotify|Your weekly mixtape of fresh music. Enjoy new music and deep cuts picked for you. Updates every Monday.|[open](https://open.spotify.com/playlist/37i9dQZEVXcTEtihmAKpq2)|
@@ -17,7 +17,7 @@
 |Miss Monique|dunce|Songs played by Miss Monique|[open](https://open.spotify.com/playlist/62Wdnd2oq36OIRAQdf77OR)|
 |My Shazam Tracks|dunce||[open](https://open.spotify.com/playlist/7doUnZFW5DsWCVINncMhEF)|
 |New Music Weekly \| Monstercat|Monstercat|Brand new music from Monstercat, all in one place.|[open](https://open.spotify.com/playlist/4kw9kdjzx1UmyWvpysl0y2)|
-|Operator|Spotify|Tech house technicians, featuring Kyle Watson.|[open](https://open.spotify.com/playlist/37i9dQZF1DWVY4eLfA3XFQ)|
+|Operator|Spotify|Tech house technicians, featuring hand-curated tracks from HoneyLuv for New Years' Eve. |[open](https://open.spotify.com/playlist/37i9dQZF1DWVY4eLfA3XFQ)|
 |Proximity|Proximity|The best of EDM/Electronic Dance Music from Proximity. Updated every TWO WEEKS!|[open](https://open.spotify.com/playlist/3VEFRGe3APwGRl4eTpMS4x)|
 |R|dunce||[open](https://open.spotify.com/playlist/0Yg4Y8u5RffkQfLl5PBQE0)|
 |Release Radar|Spotify|Catch all the latest music from artists you follow, plus new singles picked for you. Updates every Friday.|[open](https://open.spotify.com/playlist/37i9dQZEVXbnh1QaRGLArX)|
