@@ -44,6 +44,7 @@
 |soundtrack|dunce||[open](https://open.spotify.com/playlist/0rZUf5e54yLKAqx4jqF3UC)|
 |untitled1|dunce||[open](https://open.spotify.com/playlist/2SuxDqwz3jEm7IPVUPBgWf)|
 |untitled10|dunce||[open](https://open.spotify.com/playlist/2lZoA4wBx6lbj1OYc5BflE)|
+|untitled11|dunce||[open](https://open.spotify.com/playlist/1NvCTHPOG0pY64pud9P8Uh)|
 |untitled2|dunce||[open](https://open.spotify.com/playlist/1qnArhQj0bs7B2LDux0LKR)|
 |untitled3|dunce||[open](https://open.spotify.com/playlist/1wm80kAfc5TXUkLVjmSuHF)|
 |untitled4|dunce|uhhh some typea house or somethin|[open](https://open.spotify.com/playlist/0lbCZqZfNINlgGuShJA7H8)|
