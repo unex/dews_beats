@@ -17,7 +17,7 @@
 |Miss Monique|dunce|Songs played by Miss Monique|[open](https://open.spotify.com/playlist/62Wdnd2oq36OIRAQdf77OR)|
 |My Shazam Tracks|dunce||[open](https://open.spotify.com/playlist/7doUnZFW5DsWCVINncMhEF)|
 |New Music Weekly \| Monstercat|Monstercat|Brand new music from Monstercat, all in one place.|[open](https://open.spotify.com/playlist/4kw9kdjzx1UmyWvpysl0y2)|
-|Operator|Spotify|Tech house technicians, featuring ESSEL. |[open](https://open.spotify.com/playlist/37i9dQZF1DWVY4eLfA3XFQ)|
+|Operator|Spotify|Tech house technicians, featuring Sosa UK. |[open](https://open.spotify.com/playlist/37i9dQZF1DWVY4eLfA3XFQ)|
 |Proximity|Proximity|The best of EDM/Electronic Dance Music from Proximity. Updated every TWO WEEKS!|[open](https://open.spotify.com/playlist/3VEFRGe3APwGRl4eTpMS4x)|
 |R|dunce||[open](https://open.spotify.com/playlist/0Yg4Y8u5RffkQfLl5PBQE0)|
 |Release Radar|Spotify|Catch all the latest music from artists you follow, plus new singles picked for you. Updates every Friday.|[open](https://open.spotify.com/playlist/37i9dQZEVXbnh1QaRGLArX)|
@@ -114,7 +114,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f17876b1e75663929865ef5cbb35' height=32>|Gemini|[open](https://open.spotify.com/artist/3QqJ1L8cWsPFZ1YDPpUmvG)|
 |<img src='https://i.scdn.co/image/ab6761610000f1787fa99a739980cf77a38f995b' height=32>|Gesaffelstein|[open](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP)|
 |<img src='https://i.scdn.co/image/ab6761610000f17803074337cada59add284e048' height=32>|Giuseppe Ottaviani|[open](https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv)|
-|<img src='https://i.scdn.co/image/ab6761610000f17886909f8355eddca3542d224c' height=32>|HEALTH|[open](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth)|
+|<img src='https://i.scdn.co/image/ab6761610000f17800607cc11b9069c1f2629873' height=32>|HEALTH|[open](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth)|
 |<img src='https://i.scdn.co/image/ab6761610000f178b63ff25a61b49e90c902242e' height=32>|HIGHSOCIETY|[open](https://open.spotify.com/artist/32MQN2sITkJGNQN40QLPEa)|
 |<img src='https://i.scdn.co/image/ab6761610000f178b99140164ab38216f93f20bb' height=32>|HVDES|[open](https://open.spotify.com/artist/3koHmmPvpgZWHcVmK8AKDq)|
 |<img src='https://i.scdn.co/image/ab6761610000f1784b4d04b47bf9b080a8e93270' height=32>|HYPRESSION|[open](https://open.spotify.com/artist/440CkJeA4aZmro26BGCyt0)|
@@ -194,15 +194,15 @@
 |<img src='https://i.scdn.co/image/ab6761610000f1789a164ef943c413c171cb0afe' height=32>|Simon Patterson|[open](https://open.spotify.com/artist/3QxbGzjZc3kgHNJOBOZM2M)|
 |<img src='https://i.scdn.co/image/ab6761610000f178a832e736e92814c03257dc28' height=32>|Skeler|[open](https://open.spotify.com/artist/7ks4LdnBvp6HUsmVJiKgsB)|
 |<img src='https://i.scdn.co/image/ab6761610000f17808c6f3de88a7cd00b65796cb' height=32>|Slooze|[open](https://open.spotify.com/artist/6md8Ho8wqUrhoF8cbsTLnT)|
-|<img src='https://i.scdn.co/image/ab6761610000f178780f7606161116c709d7e07e' height=32>|Snavs|[open](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM)|
-|<img src='https://i.scdn.co/image/ab6761610000f1782794e9d0c8996af716b6edde' height=32>|Social Kid|[open](https://open.spotify.com/artist/5MTN31B0DYG43RQJ9zT5fq)|
+|<img src='https://i.scdn.co/image/ab6761610000f1788ed5ee439719bff4d6f3e310' height=32>|Snavs|[open](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM)|
+|<img src='https://i.scdn.co/image/ab6761610000f178bf6d5ee5a992d8587cb0749e' height=32>|Social Kid|[open](https://open.spotify.com/artist/5MTN31B0DYG43RQJ9zT5fq)|
 |<img src='https://i.scdn.co/image/ab6761610000f178140e8968d470b393d8c5025a' height=32>|Speaker Honey|[open](https://open.spotify.com/artist/7dzM8rBjimBLgsQ9pfZIXO)|
 |<img src='https://i.scdn.co/image/ab6761610000f1786af23b284b80c7e805d9cdde' height=32>|Stilz|[open](https://open.spotify.com/artist/0he5qSKLuYoGL223KSWjXJ)|
 |<img src='https://i.scdn.co/image/ab6761610000f17807626ae4a3d34ce3e8521c14' height=32>|Stonebank|[open](https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377)|
 |<img src='https://i.scdn.co/image/ab6761610000f1780c05adcae61ac479afe35c8e' height=32>|Swedish House Mafia|[open](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs)|
 |<img src='https://i.scdn.co/image/ab6761610000f17809f6620cf964a33a10399f87' height=32>|Sysdemes|[open](https://open.spotify.com/artist/334ksd0rVOUxkEiUzBdgaf)|
 |<img src='https://i.scdn.co/image/ab6761610000f178a2342f98176f0a3bb124081f' height=32>|TELYKast|[open](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz)|
-|<img src='https://i.scdn.co/image/ab6761610000f178fd675d9838c3451b7936bcf4' height=32>|TOKYO ROSE|[open](https://open.spotify.com/artist/3kwoPkICT4iPkNjr6mL13N)|
+|<img src='https://i.scdn.co/image/ab6761610000f17841cc1ff78d07dfdda89066e3' height=32>|TOKYO ROSE|[open](https://open.spotify.com/artist/3kwoPkICT4iPkNjr6mL13N)|
 |<img src='https://i.scdn.co/image/ab6761610000f17823a08dc78da9d9a6869d85fb' height=32>|Tantrum Desire|[open](https://open.spotify.com/artist/7HBMCyflAmijk08T1si9wS)|
 |<img src='https://i.scdn.co/image/ab6761610000f178cd5e6bc23b412eb0a14d8cbd' height=32>|The Bloody Beetroots|[open](https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5)|
 |<img src='https://i.scdn.co/image/ab6761610000f178d12e8c61240cbd023dee7743' height=32>|The Crystal Method|[open](https://open.spotify.com/artist/5eKLa1xyHLq8ERWmT1CRHj)|
