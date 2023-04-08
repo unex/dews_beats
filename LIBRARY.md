@@ -17,12 +17,12 @@
 |Miss Monique|dunce|Songs played by Miss Monique|[open](https://open.spotify.com/playlist/62Wdnd2oq36OIRAQdf77OR)|
 |My Shazam Tracks|dunce||[open](https://open.spotify.com/playlist/7doUnZFW5DsWCVINncMhEF)|
 |New Music Weekly \| Monstercat|Monstercat|Brand new music from Monstercat, all in one place.|[open](https://open.spotify.com/playlist/4kw9kdjzx1UmyWvpysl0y2)|
-|Operator|Spotify|Tech house technicians, featuring Icona Pop|[open](https://open.spotify.com/playlist/37i9dQZF1DWVY4eLfA3XFQ)|
+|Operator|Spotify|Tech house technicians, featuring Joshwa|[open](https://open.spotify.com/playlist/37i9dQZF1DWVY4eLfA3XFQ)|
 |Proximity|Proximity|The best of EDM/Electronic Dance Music from Proximity. Updated every TWO WEEKS!|[open](https://open.spotify.com/playlist/3VEFRGe3APwGRl4eTpMS4x)|
 |R|dunce||[open](https://open.spotify.com/playlist/0Yg4Y8u5RffkQfLl5PBQE0)|
 |Release Radar|Spotify|Catch all the latest music from artists you follow, plus new singles picked for you. Updates every Friday.|[open](https://open.spotify.com/playlist/37i9dQZEVXbnh1QaRGLArX)|
 |Top Songs 2022|dunce||[open](https://open.spotify.com/playlist/0xfanbYvfOCJSQMSvWZPyP)|
-|Walker Radio by Alan Walker|Alan Walker|Walkers, this is my personalized playlist, including some of my own songs, tracks that inspire me, and songs that I listen to. // AW|[open](https://open.spotify.com/playlist/4CMmmIRrtAcDc8LuCUlmg6)|
+|Walker Radio by Alan Walker|Alan Walker|Walkers, this is my personalized playlist. Including my new single '<a href="https://open.spotify.com/track/3eClq9oJiACXJZuCsErmWr?si=ee19038a2e8d4375">Dreamer</a>', and songs tracks that inspire me. // AW|[open](https://open.spotify.com/playlist/4CMmmIRrtAcDc8LuCUlmg6)|
 |Your Top Songs 2020|Spotify|The songs you loved most this year, all wrapped up.|[open](https://open.spotify.com/playlist/37i9dQZF1EM5ISebhB9z7B)|
 |ambiance?|dunce||[open](https://open.spotify.com/playlist/3eJklJcecHjhORbjfBfwo4)|
 |b|dunce||[open](https://open.spotify.com/playlist/3NYywkmr0sCXCdQdyPv1EY)|
@@ -73,7 +73,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f178ce202eea14763b8b7696936e' height=32>|Alan Walker|[open](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN)|
 |<img src='https://i.scdn.co/image/ab6761610000f1786af4313c7cb5d8854f0a8f67' height=32>|Alison Wonderland|[open](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW)|
 |<img src='https://i.scdn.co/image/ab6761610000f178589da95c2c9de7b23571ae9c' height=32>|Andrew Perkins|[open](https://open.spotify.com/artist/6n6nuTjsajI8tooRU3SYDA)|
-|<img src='https://i.scdn.co/image/ab67616d00004851070d292b4afc220b283ea7bb' height=32>|Anjunabeats|[open](https://open.spotify.com/artist/7aqysYAN8bVjQuJSo9PyqR)|
+|<img src='https://i.scdn.co/image/ab67616d00004851e8470434b89395ebe6f3852a' height=32>|Anjunabeats|[open](https://open.spotify.com/artist/7aqysYAN8bVjQuJSo9PyqR)|
 |<img src='https://i.scdn.co/image/ab6761610000f178d681a74e4f148b698baf6edb' height=32>|Apashe|[open](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN)|
 |<img src='https://i.scdn.co/image/ab67616d00004851251e95e1798f41fd5a94967b' height=32>|Aperture Science Psychoacoustic Laboratories|[open](https://open.spotify.com/artist/7d58WZ8qQHy2Sm5p52V2NP)|
 |<img src='https://i.scdn.co/image/ab6761610000f178f207f2c7e1897ea962e35bcb' height=32>|Au5|[open](https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF)|
@@ -201,7 +201,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f178140e8968d470b393d8c5025a' height=32>|Speaker Honey|[open](https://open.spotify.com/artist/7dzM8rBjimBLgsQ9pfZIXO)|
 |<img src='https://i.scdn.co/image/ab6761610000f1786af23b284b80c7e805d9cdde' height=32>|Stilz|[open](https://open.spotify.com/artist/0he5qSKLuYoGL223KSWjXJ)|
 |<img src='https://i.scdn.co/image/ab6761610000f17807626ae4a3d34ce3e8521c14' height=32>|Stonebank|[open](https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377)|
-|<img src='https://i.scdn.co/image/ab6761610000f1780c05adcae61ac479afe35c8e' height=32>|Swedish House Mafia|[open](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs)|
+|<img src='https://i.scdn.co/image/ab6761610000f1783acc752dbb488a55fffa9af8' height=32>|Swedish House Mafia|[open](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs)|
 |<img src='https://i.scdn.co/image/ab6761610000f17809f6620cf964a33a10399f87' height=32>|Sysdemes|[open](https://open.spotify.com/artist/334ksd0rVOUxkEiUzBdgaf)|
 |<img src='https://i.scdn.co/image/ab6761610000f178a2342f98176f0a3bb124081f' height=32>|TELYKAST|[open](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz)|
 |<img src='https://i.scdn.co/image/ab6761610000f17841cc1ff78d07dfdda89066e3' height=32>|TOKYO ROSE|[open](https://open.spotify.com/artist/3kwoPkICT4iPkNjr6mL13N)|
