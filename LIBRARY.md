@@ -73,7 +73,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f178bf753c009fd9c2d53351dd3c' height=32>|Alan Walker|[open](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN)|
 |<img src='https://i.scdn.co/image/ab6761610000f1786af4313c7cb5d8854f0a8f67' height=32>|Alison Wonderland|[open](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW)|
 |<img src='https://i.scdn.co/image/ab6761610000f178589da95c2c9de7b23571ae9c' height=32>|Andrew Perkins|[open](https://open.spotify.com/artist/6n6nuTjsajI8tooRU3SYDA)|
-|<img src='https://i.scdn.co/image/ab67616d00004851846fce795f5535b211702215' height=32>|Anjunabeats|[open](https://open.spotify.com/artist/7aqysYAN8bVjQuJSo9PyqR)|
+|<img src='https://i.scdn.co/image/ab67616d000048514b2b63c2f31165510000b671' height=32>|Anjunabeats|[open](https://open.spotify.com/artist/7aqysYAN8bVjQuJSo9PyqR)|
 |<img src='https://i.scdn.co/image/ab6761610000f1783dca78ab5ce651814ff24435' height=32>|Anyma|[open](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN)|
 |<img src='https://i.scdn.co/image/ab6761610000f178d681a74e4f148b698baf6edb' height=32>|Apashe|[open](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN)|
 |<img src='https://i.scdn.co/image/ab67616d00004851251e95e1798f41fd5a94967b' height=32>|Aperture Science Psychoacoustic Laboratories|[open](https://open.spotify.com/artist/7d58WZ8qQHy2Sm5p52V2NP)|
@@ -98,7 +98,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f178bb894338b2aba1124ec708d4' height=32>|Danger|[open](https://open.spotify.com/artist/2o3U0ld93tHYowkoari4Vi)|
 |<img src='https://i.scdn.co/image/ab6761610000f17875348e1aade2645ad9c58829' height=32>|David Guetta|[open](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai)|
 |<img src='https://i.scdn.co/image/ab6761610000f178444fe4b99135be4f67583d62' height=32>|Delta Heavy|[open](https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T)|
-|<img src='https://i.scdn.co/image/ab6761610000f1782eded3f4935872879ba46ae9' height=32>|Dillon Francis|[open](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf)|
+|<img src='https://i.scdn.co/image/ab6761610000f17871bf49b2ac9bfb1a933b56fa' height=32>|Dillon Francis|[open](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf)|
 |<img src='https://i.scdn.co/image/ab6761610000f178536e2768d3308d3489580f36' height=32>|Dimension|[open](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S)|
 |<img src='https://i.scdn.co/image/ab6761610000f1782c3b19dce6ac8c31ba37fb3e' height=32>|Dom Dolla|[open](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m)|
 |<img src='https://i.scdn.co/image/ab6761610000f1788e65e9a90943edec29353597' height=32>|Dominus|[open](https://open.spotify.com/artist/0uDJS3oEIxgZeqAPi7REq6)|
