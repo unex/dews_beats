@@ -106,7 +106,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f178c7db0c23f9090f2d24bdffd1' height=32>|EDDIE|[open](https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd)|
 |<img src='https://i.scdn.co/image/ab6761610000f178c475394bd2ff12b25af1c68c' height=32>|Eliminate|[open](https://open.spotify.com/artist/6hBrJJrcYoNhvLC6KaFR4b)|
 |<img src='https://i.scdn.co/image/ab6761610000f178854b6139b96beb6dbc398e06' height=32>|Ellie Goulding|[open](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ)|
-|<img src='https://i.scdn.co/image/ab6761610000f178825519e6ab8a2fd50a5fce68' height=32>|Essenger|[open](https://open.spotify.com/artist/3vc0JWD1Nj1VLrgJ1x3cjE)|
+|<img src='https://i.scdn.co/image/ab6761610000f1783eff9c8b81b3f4f2cef9d298' height=32>|Essenger|[open](https://open.spotify.com/artist/3vc0JWD1Nj1VLrgJ1x3cjE)|
 |<img src='https://i.scdn.co/image/ab6761610000f17891266ffcb49b554e65db4679' height=32>|Fabrication|[open](https://open.spotify.com/artist/73MDrv3SUYLE1yNOBQMlsy)|
 |<img src='https://i.scdn.co/image/ab6761610000f178f02b1bd598d1d582e654c3b8' height=32>|Fatum|[open](https://open.spotify.com/artist/3pt2vTpH1eI776oDZT1G2C)|
 |<img src='https://i.scdn.co/image/ab6761610000f1784c708d39acdc96b195dcd2d9' height=32>|Feed Me|[open](https://open.spotify.com/artist/5FWi1mowu6uiU2ZHwr1rby)|
