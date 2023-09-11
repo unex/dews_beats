@@ -98,12 +98,13 @@
 |<img src='https://i.scdn.co/image/ab6761610000f178bb894338b2aba1124ec708d4' height=32>|Danger|[open](https://open.spotify.com/artist/2o3U0ld93tHYowkoari4Vi)|
 |<img src='https://i.scdn.co/image/ab6761610000f17875348e1aade2645ad9c58829' height=32>|David Guetta|[open](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai)|
 |<img src='https://i.scdn.co/image/ab6761610000f178444fe4b99135be4f67583d62' height=32>|Delta Heavy|[open](https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T)|
+|<img src='https://i.scdn.co/image/ab6761610000f178f1fe521a948afe37edb4c145' height=32>|Devault|[open](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL)|
 |<img src='https://i.scdn.co/image/ab6761610000f178c61c75f2f76dbcd5f49a3e8c' height=32>|Dillon Francis|[open](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf)|
 |<img src='https://i.scdn.co/image/ab6761610000f178536e2768d3308d3489580f36' height=32>|Dimension|[open](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S)|
 |<img src='https://i.scdn.co/image/ab6761610000f1782c3b19dce6ac8c31ba37fb3e' height=32>|Dom Dolla|[open](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m)|
 |<img src='https://i.scdn.co/image/ab6761610000f1788e65e9a90943edec29353597' height=32>|Dominus|[open](https://open.spotify.com/artist/0uDJS3oEIxgZeqAPi7REq6)|
 |<img src='https://i.scdn.co/image/ab6761610000f178259a9b27a3225024093d6063' height=32>|DotEXE|[open](https://open.spotify.com/artist/2S2RMiHABGxAQqdqwUN5qF)|
-|<img src='https://i.scdn.co/image/ab6761610000f178c7db0c23f9090f2d24bdffd1' height=32>|EDDIE|[open](https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd)|
+|<img src='https://i.scdn.co/image/ab6761610000f178a5274be11a20bdf24e9cdd83' height=32>|EDDIE|[open](https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd)|
 |<img src='https://i.scdn.co/image/ab6761610000f178c475394bd2ff12b25af1c68c' height=32>|Eliminate|[open](https://open.spotify.com/artist/6hBrJJrcYoNhvLC6KaFR4b)|
 |<img src='https://i.scdn.co/image/ab6761610000f178854b6139b96beb6dbc398e06' height=32>|Ellie Goulding|[open](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ)|
 |<img src='https://i.scdn.co/image/ab6761610000f1783eff9c8b81b3f4f2cef9d298' height=32>|Essenger|[open](https://open.spotify.com/artist/3vc0JWD1Nj1VLrgJ1x3cjE)|
