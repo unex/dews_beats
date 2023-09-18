@@ -240,6 +240,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f17847b909e65fdca3bcec9346c8' height=32>|k?d|[open](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf)|
 |<img src='https://i.scdn.co/image/ab6761610000f1780e283d396336aca0978792d4' height=32>|not.uniq|[open](https://open.spotify.com/artist/52AhVmgpPZMKN9yC22d3gT)|
 |<img src='https://i.scdn.co/image/ab6761610000f178c9687ae5f57542ea15b93686' height=32>|zircon|[open](https://open.spotify.com/artist/0CGpNBihXlpMsjwHjVKNIO)|
+|<img src='https://i.scdn.co/image/ab6761610000f178ec6291f8a6cee657dab63610' height=32>|✝✝✝ (Crosses)|[open](https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2)|
 
 ## Albums
 
