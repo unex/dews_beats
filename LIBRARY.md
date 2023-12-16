@@ -85,7 +85,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f178bcb4347ccf6100a629cd0e29' height=32>|Bensley|[open](https://open.spotify.com/artist/3SfEKS85dj9v75ROsWJSiL)|
 |<img src='https://i.scdn.co/image/ab6761610000f178388751478f5e571b4d076809' height=32>|Black Tiger Sex Machine|[open](https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC)|
 |<img src='https://i.scdn.co/image/ab6761610000f17847b81f796ba6399a4d65562e' height=32>|BlackGummy|[open](https://open.spotify.com/artist/3ExR7ks7OAdqrm99r1PJby)|
-|<img src='https://i.scdn.co/image/ab6761610000f1784b0443382bce358cafa671fa' height=32>|Blanke|[open](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT)|
+|<img src='https://i.scdn.co/image/ab6761610000f1782985adb194fd5397a6f2b5a1' height=32>|Blanke|[open](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT)|
 |<img src='https://i.scdn.co/image/ab6761610000f178e7316dc067612c9ad0a13596' height=32>|Blastoyz|[open](https://open.spotify.com/artist/6WLP1sraOcF3Gaxp7xBa4p)|
 |<img src='https://i.scdn.co/image/ab6761610000f17805160aec0fc3da915f1230ab' height=32>|Bob Moses|[open](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5)|
 |<img src='https://i.scdn.co/image/ab6761610000f178e1172675f30773c1a7328f45' height=32>|C.H.A.Y.|[open](https://open.spotify.com/artist/5tMMTJbvSM8jApcukwqO9V)|
