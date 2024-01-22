@@ -89,7 +89,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f17805160aec0fc3da915f1230ab' height=32>|Bob Moses|[open](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5)|
 |<img src='https://i.scdn.co/image/ab6761610000f178e1172675f30773c1a7328f45' height=32>|C.H.A.Y.|[open](https://open.spotify.com/artist/5tMMTJbvSM8jApcukwqO9V)|
 |<img src='https://i.scdn.co/image/ab6761610000f178128e45031667bbb5e361df4d' height=32>|CamelPhat|[open](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W)|
-|<img src='https://i.scdn.co/image/ab6761610000f178938dba647fc4b4ae08e2e836' height=32>|Chaos Chaos|[open](https://open.spotify.com/artist/6D6rjLdxyE5vwhMlkuQq0E)|
+|<img src='https://i.scdn.co/image/ab6761610000f178052b4df97f7b6734485ecdb1' height=32>|Chaos Chaos|[open](https://open.spotify.com/artist/6D6rjLdxyE5vwhMlkuQq0E)|
 |<img src='https://i.scdn.co/image/ab6761610000f178a71a10a8d7dc70542fa7d089' height=32>|Charlotte de Witte|[open](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso)|
 |<img src='https://i.scdn.co/image/ab6761610000f1783c4c752f83e79a2f4f84341b' height=32>|Chris Lake|[open](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE)|
 |<img src='https://i.scdn.co/image/ab6761610000f178a3ba56b137a0d342da88e222' height=32>|Cosmic Gate|[open](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS)|
@@ -194,7 +194,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f178ec9e43b2944e4afe4e29bc90' height=32>|Savoy|[open](https://open.spotify.com/artist/25vU5DYwHIHhg1ViWV3SJq)|
 |<img src='https://i.scdn.co/image/ab6761610000f1780e2455fef5a36516cb23269d' height=32>|Seven Lions|[open](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp)|
 |<img src='https://i.scdn.co/image/ab6761610000f178c362e0a44fbd381b62ad67f0' height=32>|Shadient|[open](https://open.spotify.com/artist/6ADRET3UXTOmGBjjO67fNd)|
-|<img src='https://i.scdn.co/image/ab6761610000f1788c993375c97215259a00a3c0' height=32>|ShockOne|[open](https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH)|
+|<img src='https://i.scdn.co/image/ab6761610000f178fae1f8048d313985a295ae34' height=32>|ShockOne|[open](https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH)|
 |<img src='https://i.scdn.co/image/ab6761610000f178be22bca098013bd10383e0f6' height=32>|Simon Patterson|[open](https://open.spotify.com/artist/3QxbGzjZc3kgHNJOBOZM2M)|
 |<img src='https://i.scdn.co/image/ab6761610000f178a832e736e92814c03257dc28' height=32>|Skeler|[open](https://open.spotify.com/artist/7ks4LdnBvp6HUsmVJiKgsB)|
 |<img src='https://i.scdn.co/image/ab6761610000f17808c6f3de88a7cd00b65796cb' height=32>|Slooze|[open](https://open.spotify.com/artist/6md8Ho8wqUrhoF8cbsTLnT)|
