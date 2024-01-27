@@ -20,7 +20,7 @@
 |Proximity|Proximity|The best of EDM/Electronic Dance Music from Proximity. Your favorite music you haven't heard yet.|[open](https://open.spotify.com/playlist/3VEFRGe3APwGRl4eTpMS4x)|
 |R|dunce||[open](https://open.spotify.com/playlist/0Yg4Y8u5RffkQfLl5PBQE0)|
 |Release Radar|Spotify|Catch all the latest music from artists you follow, plus new singles picked for you. Updates every Friday.|[open](https://open.spotify.com/playlist/37i9dQZEVXbnh1QaRGLArX)|
-|Tech House Operator|Spotify|Tech house technicians, featuring Westend and Max Styler|[open](https://open.spotify.com/playlist/37i9dQZF1DWVY4eLfA3XFQ)|
+|Tech House Operator|Spotify|Tech house technicians, featuring Mau P|[open](https://open.spotify.com/playlist/37i9dQZF1DWVY4eLfA3XFQ)|
 |Top Songs 2022|dunce||[open](https://open.spotify.com/playlist/0xfanbYvfOCJSQMSvWZPyP)|
 |Walker Radio by Alan Walker|Alan Walker|Walkers, this is my personalized playlist with songs that inspire me, including my new single '<a href="https://open.spotify.com/track/1NMYbsFZyxwHRNaLGzFGWh?si=a0fe32719900481b">'Who I Am'</a>'with Putri Ariani &amp; Peder Elias|[open](https://open.spotify.com/playlist/4CMmmIRrtAcDc8LuCUlmg6)|
 |Your Top Songs 2020|Spotify|The songs you loved most this year, all wrapped up.|[open](https://open.spotify.com/playlist/37i9dQZF1EM5ISebhB9z7B)|
@@ -136,7 +136,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f17865d3059bf4db35c093696ce4' height=32>|Jason Ross|[open](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150)|
 |<img src='https://i.scdn.co/image/ab6761610000f17814d77dbf42fcdcbcb214aaeb' height=32>|Juno Reactor|[open](https://open.spotify.com/artist/1Pe3z1UqRzKsQtHsl25dm6)|
 |<img src='https://i.scdn.co/image/ab6761610000f178c2270ea29911f8c95e55e44e' height=32>|Justin OH|[open](https://open.spotify.com/artist/5x2u5vpKBhviWQlni8VM8L)|
-|<img src='https://i.scdn.co/image/ab6761610000f178eadd5a7f2893a93d80234632' height=32>|KAS:ST|[open](https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN)|
+|<img src='https://i.scdn.co/image/ab6761610000f178e8360a3e552da577acf42cac' height=32>|KAS:ST|[open](https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN)|
 |<img src='https://i.scdn.co/image/ab6761610000f178e2b98d89bae7094f7e9478b6' height=32>|KLOUD|[open](https://open.spotify.com/artist/24Hb4GKFYquK73R8mTyInu)|
 |<img src='https://i.scdn.co/image/ab6761610000f17842edcf0d55fe7787c09fdc3e' height=32>|KUURO|[open](https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q)|
 |<img src='https://i.scdn.co/image/ab6761610000f178d9c16a471c26b0c05752bc9b' height=32>|Karma Fields|[open](https://open.spotify.com/artist/1tRsdSvjwp34PDvcmix6SJ)|
@@ -181,6 +181,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f1780fb1220e7e3ace47ebad023e' height=32>|Pegboard Nerds|[open](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y)|
 |<img src='https://i.scdn.co/image/ab6761610000f1784a45def215a47635d17d8a7b' height=32>|Pendulum|[open](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B)|
 |<img src='https://i.scdn.co/image/ab6761610000f178fee0b250dd3032226b4e2167' height=32>|Popeska|[open](https://open.spotify.com/artist/4Td7DjmnDqvSDBHtuJomoF)|
+|<img src='https://i.scdn.co/image/ab6761610000f1786a1adf31a45fc3350dc2b126' height=32>|Poppy|[open](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv)|
 |<img src='https://i.scdn.co/image/ab6761610000f1786ccb967cecc6f1da90fe355e' height=32>|Porter Robinson|[open](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam)|
 |<img src='https://i.scdn.co/image/ab6761610000f1789cf293569bdfe2b846eb70c8' height=32>|Prismo|[open](https://open.spotify.com/artist/23ostNBoB9z6GMXLtHdg7y)|
 |<img src='https://i.scdn.co/image/ab6761610000f17800f9b463d902a12d2d14dc97' height=32>|Quackson|[open](https://open.spotify.com/artist/1srU7GzSGHwG1ewjSv6ztq)|
@@ -219,7 +220,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f1786308a13b7f792ce57a51a896' height=32>|Tritonal|[open](https://open.spotify.com/artist/521qvhdobR0GzhvU6TFw76)|
 |<img src='https://i.scdn.co/image/ab6761610000f17811734c9c5673c2b7f60e64f1' height=32>|Trivecta|[open](https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye)|
 |<img src='https://i.scdn.co/image/ab6761610000f178a0bc106fb6da08602c3e9359' height=32>|Tut Tut Child|[open](https://open.spotify.com/artist/6EmSzH0r12lNsYQCFzCFS3)|
-|<img src='https://i.scdn.co/image/ab6761610000f1785ceb8623af2d9f0965f50331' height=32>|VNSSA|[open](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM)|
+|<img src='https://i.scdn.co/image/ab6761610000f178dbf5211342b9a91926f88125' height=32>|VNSSA|[open](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM)|
 |<img src='https://i.scdn.co/image/ab6761610000f178767df4c5bc1044396eaa6f2b' height=32>|VVN|[open](https://open.spotify.com/artist/7215FhQXuF7Ffdvt3Wkeea)|
 |<img src='https://i.scdn.co/image/ab6761610000f178599401be34f3a1b33cfd9325' height=32>|Varien|[open](https://open.spotify.com/artist/2g1JSu9UfRcQQYb3b03Km7)|
 |<img src='https://i.scdn.co/image/ab6761610000f1787462d94efa2db53abba8c003' height=32>|Various Artists|[open](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of)|
@@ -276,3 +277,4 @@
 |<img src='https://i.scdn.co/image/ab67616d00004851d64128ee71f8a290d2db56b3' height=32>|THE DEATH OF PEACE OF MIND|[Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V)|[open](https://open.spotify.com/album/0auTn0kFZk71WAv3BbKVxQ)|
 |<img src='https://i.scdn.co/image/ab67616d00004851e1f9d03584c00a71a1a8d915' height=32>|THE HIVE|[KLOUD](https://open.spotify.com/artist/24Hb4GKFYquK73R8mTyInu)|[open](https://open.spotify.com/album/3H7HxZxy9SvOtxMey4LRnP)|
 |<img src='https://i.scdn.co/image/ab67616d0000485129be25db83f72fffaa18e4dd' height=32>|Time and Time Again|[Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5)|[open](https://open.spotify.com/album/1WkSp0mjBHyipV2iuE2B5x)|
+|<img src='https://i.scdn.co/image/ab67616d000048518a270da2a9d75a31b192e982' height=32>|V.A.N|[Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V), [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv)|[open](https://open.spotify.com/album/6MjPsfdd67Pm1CIi36YvJM)|
