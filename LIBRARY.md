@@ -80,7 +80,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f178ae07171f989fb39736674113' height=32>|Avicii|[open](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6)|
 |<img src='https://i.scdn.co/image/ab6761610000f178ef899871f76b3a3ad365cb30' height=32>|BONNIE X CLYDE|[open](https://open.spotify.com/artist/74xeHqz5Ap8ZHq69TkxI0r)|
 |<img src='https://i.scdn.co/image/ab6761610000f178093da37218837dd8c443936b' height=32>|BSOD|[open](https://open.spotify.com/artist/2t2M4T7Z7fKbF900SUuh05)|
-|<img src='https://i.scdn.co/image/ab6761610000f178718391a41e49957e1f498a75' height=32>|Bad Omens|[open](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V)|
+|<img src='https://i.scdn.co/image/ab6761610000f1781c520452bc445eceacb63b26' height=32>|Bad Omens|[open](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V)|
 |<img src='https://i.scdn.co/image/ab6761610000f178bcb4347ccf6100a629cd0e29' height=32>|Bensley|[open](https://open.spotify.com/artist/3SfEKS85dj9v75ROsWJSiL)|
 |<img src='https://i.scdn.co/image/ab6761610000f178388751478f5e571b4d076809' height=32>|Black Tiger Sex Machine|[open](https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC)|
 |<img src='https://i.scdn.co/image/ab6761610000f17847b81f796ba6399a4d65562e' height=32>|BlackGummy|[open](https://open.spotify.com/artist/3ExR7ks7OAdqrm99r1PJby)|
