@@ -152,7 +152,7 @@
 |<img src='https://i.scdn.co/image/ab67616d00004851082ebf9fd902d2642d4eb6f8' height=32>|Lets Be Friends|[open](https://open.spotify.com/artist/0E2SH86glIiPi5IQ0fx8kd)|
 |<img src='https://i.scdn.co/image/ab6761610000f1782b5b18d266cfbb9c97c5589c' height=32>|Lookas|[open](https://open.spotify.com/artist/27fy6rHPC58Eo2VUu0iJSG)|
 |<img src='https://i.scdn.co/image/ab6761610000f1787ab307667002758cdc810d2c' height=32>|LŪN|[open](https://open.spotify.com/artist/44RV4NtG7667JQNtX6iDZc)|
-|<img src='https://i.scdn.co/image/ab6761610000f17815c5994b69ff1f930756bd1f' height=32>|MEDUZA|[open](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu)|
+|<img src='https://i.scdn.co/image/ab6761610000f1783a9b82ff7bdffdbc98786abe' height=32>|MEDUZA|[open](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu)|
 |<img src='https://i.scdn.co/image/ab6761610000f178db8a8b49c421cd9a02e59e98' height=32>|MUZZ|[open](https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg)|
 |<img src='https://i.scdn.co/image/ab6761610000f178b94e4f19a20ded9f6070d446' height=32>|Maison Ware|[open](https://open.spotify.com/artist/0A85Mz9YHumTq1HgNtt6aA)|
 |<img src='https://i.scdn.co/image/ab6761610000f178f24204710f5167ec69eb0417' height=32>|Malaa|[open](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS)|
