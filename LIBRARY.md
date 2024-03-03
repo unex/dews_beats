@@ -250,7 +250,7 @@
 ||Name|Artists||
 --- | --- | --- | ---
 |<img src='https://i.scdn.co/image/ab67616d00004851dcef905cb144d4867119850b' height=32>|18 Months|[Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY)|[open](https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT)|
-|<img src='https://i.scdn.co/image/ab67616d00004851403a87b6da943bd1abfea129' height=32>|Aleph|[Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP)|[open](https://open.spotify.com/album/3MiiF9utmtGnLVITgl0JP7)|
+|<img src='https://i.scdn.co/image/ab67616d000048511c5d4bfa51d536cb487f3861' height=32>|Aleph|[Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP)|[open](https://open.spotify.com/album/3MiiF9utmtGnLVITgl0JP7)|
 |<img src='https://i.scdn.co/image/ab67616d00004851e98ed78e72b0e0b59b9c35f7' height=32>|Blood Hunter|[Varien](https://open.spotify.com/artist/2g1JSu9UfRcQQYb3b03Km7)|[open](https://open.spotify.com/album/0BR7CcANAjtdfMNThMk2Ip)|
 |<img src='https://i.scdn.co/image/ab67616d00004851ac15fab01ae304eea764f0b4' height=32>|Different Forms of Power|[Lazerpunk](https://open.spotify.com/artist/1xFCRE0T1SELBAaxtlG5X3)|[open](https://open.spotify.com/album/2MC5mbGhlkYd6m4dT9LMUt)|
 |<img src='https://i.scdn.co/image/ab67616d00004851bd4a1098dd7c86d8aa4580f5' height=32>|Drink the Sea|[The Glitch Mob](https://open.spotify.com/artist/3a9qv6NLHnsVxJUtKOMHvD)|[open](https://open.spotify.com/album/4c5fhgLoAaFzwjNTxC57jK)|
