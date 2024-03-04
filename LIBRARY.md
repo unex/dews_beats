@@ -152,7 +152,7 @@
 |<img src='https://i.scdn.co/image/ab67616d00004851082ebf9fd902d2642d4eb6f8' height=32>|Lets Be Friends|[open](https://open.spotify.com/artist/0E2SH86glIiPi5IQ0fx8kd)|
 |<img src='https://i.scdn.co/image/ab6761610000f1782b5b18d266cfbb9c97c5589c' height=32>|Lookas|[open](https://open.spotify.com/artist/27fy6rHPC58Eo2VUu0iJSG)|
 |<img src='https://i.scdn.co/image/ab6761610000f1787ab307667002758cdc810d2c' height=32>|LŪN|[open](https://open.spotify.com/artist/44RV4NtG7667JQNtX6iDZc)|
-|<img src='https://i.scdn.co/image/ab6761610000f1783a9b82ff7bdffdbc98786abe' height=32>|MEDUZA|[open](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu)|
+|<img src='https://i.scdn.co/image/ab6761610000f178017368ebc250001dc6ef6467' height=32>|MEDUZA|[open](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu)|
 |<img src='https://i.scdn.co/image/ab6761610000f178db8a8b49c421cd9a02e59e98' height=32>|MUZZ|[open](https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg)|
 |<img src='https://i.scdn.co/image/ab6761610000f178b94e4f19a20ded9f6070d446' height=32>|Maison Ware|[open](https://open.spotify.com/artist/0A85Mz9YHumTq1HgNtt6aA)|
 |<img src='https://i.scdn.co/image/ab6761610000f178f24204710f5167ec69eb0417' height=32>|Malaa|[open](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS)|
@@ -182,7 +182,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f1784a45def215a47635d17d8a7b' height=32>|Pendulum|[open](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B)|
 |<img src='https://i.scdn.co/image/ab6761610000f178fee0b250dd3032226b4e2167' height=32>|Popeska|[open](https://open.spotify.com/artist/4Td7DjmnDqvSDBHtuJomoF)|
 |<img src='https://i.scdn.co/image/ab6761610000f1786a1adf31a45fc3350dc2b126' height=32>|Poppy|[open](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv)|
-|<img src='https://i.scdn.co/image/ab6761610000f1786ccb967cecc6f1da90fe355e' height=32>|Porter Robinson|[open](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam)|
+|<img src='https://i.scdn.co/image/ab6761610000f1781ac12dcb2cc4fc7c740c5e0c' height=32>|Porter Robinson|[open](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam)|
 |<img src='https://i.scdn.co/image/ab6761610000f1789cf293569bdfe2b846eb70c8' height=32>|Prismo|[open](https://open.spotify.com/artist/23ostNBoB9z6GMXLtHdg7y)|
 |<img src='https://i.scdn.co/image/ab6761610000f17800f9b463d902a12d2d14dc97' height=32>|Quackson|[open](https://open.spotify.com/artist/1srU7GzSGHwG1ewjSv6ztq)|
 |<img src='https://i.scdn.co/image/ab6761610000f17833b1d3113a07673039c86cc7' height=32>|RIOT|[open](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY)|
