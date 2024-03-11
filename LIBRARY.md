@@ -69,10 +69,10 @@
 |<img src='https://i.scdn.co/image/ab6761610000f1781246bbb5af7f67491748c26a' height=32>|AWAY|[open](https://open.spotify.com/artist/2ZmerElhvxg8uVKCmlZ4ij)|
 |<img src='https://i.scdn.co/image/ab6761610000f1782a538d1a36a271885510d98a' height=32>|Above & Beyond|[open](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe)|
 |<img src='https://i.scdn.co/image/ab6761610000f1787cbdc00398623d14ef0a5258' height=32>|Abraxis|[open](https://open.spotify.com/artist/0VVfeAF66rSXe5NcSLuTs7)|
-|<img src='https://i.scdn.co/image/ab6761610000f17840baef401cb7f5c6511771bc' height=32>|Adventure Club|[open](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa)|
+|<img src='https://i.scdn.co/image/ab6761610000f1788c540c015b04311b0661eb09' height=32>|Adventure Club|[open](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa)|
 |<img src='https://i.scdn.co/image/ab6761610000f1786af4313c7cb5d8854f0a8f67' height=32>|Alison Wonderland|[open](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW)|
 |<img src='https://i.scdn.co/image/ab6761610000f178589da95c2c9de7b23571ae9c' height=32>|Andrew Perkins|[open](https://open.spotify.com/artist/6n6nuTjsajI8tooRU3SYDA)|
-|<img src='https://i.scdn.co/image/ab67616d0000485194c17211fd94046ca2fec76a' height=32>|Anjunabeats|[open](https://open.spotify.com/artist/7aqysYAN8bVjQuJSo9PyqR)|
+|<img src='https://i.scdn.co/image/ab67616d00004851402dfe35ff793c3f677b1197' height=32>|Anjunabeats|[open](https://open.spotify.com/artist/7aqysYAN8bVjQuJSo9PyqR)|
 |<img src='https://i.scdn.co/image/ab6761610000f178df809ff141ee18d663d16e8e' height=32>|Anyma|[open](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN)|
 |<img src='https://i.scdn.co/image/ab6761610000f178d681a74e4f148b698baf6edb' height=32>|Apashe|[open](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN)|
 |<img src='https://i.scdn.co/image/ab67616d00004851251e95e1798f41fd5a94967b' height=32>|Aperture Science Psychoacoustic Laboratories|[open](https://open.spotify.com/artist/7d58WZ8qQHy2Sm5p52V2NP)|
@@ -136,7 +136,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f17865d3059bf4db35c093696ce4' height=32>|Jason Ross|[open](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150)|
 |<img src='https://i.scdn.co/image/ab6761610000f17814d77dbf42fcdcbcb214aaeb' height=32>|Juno Reactor|[open](https://open.spotify.com/artist/1Pe3z1UqRzKsQtHsl25dm6)|
 |<img src='https://i.scdn.co/image/ab6761610000f178c2270ea29911f8c95e55e44e' height=32>|Justin OH|[open](https://open.spotify.com/artist/5x2u5vpKBhviWQlni8VM8L)|
-|<img src='https://i.scdn.co/image/ab6761610000f178e8360a3e552da577acf42cac' height=32>|KAS:ST|[open](https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN)|
+|<img src='https://i.scdn.co/image/ab6761610000f178cf4beecb735d162ff93f735d' height=32>|KAS:ST|[open](https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN)|
 |<img src='https://i.scdn.co/image/ab6761610000f178e2b98d89bae7094f7e9478b6' height=32>|KLOUD|[open](https://open.spotify.com/artist/24Hb4GKFYquK73R8mTyInu)|
 |<img src='https://i.scdn.co/image/ab6761610000f17842edcf0d55fe7787c09fdc3e' height=32>|KUURO|[open](https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q)|
 |<img src='https://i.scdn.co/image/ab6761610000f178d9c16a471c26b0c05752bc9b' height=32>|Karma Fields|[open](https://open.spotify.com/artist/1tRsdSvjwp34PDvcmix6SJ)|
