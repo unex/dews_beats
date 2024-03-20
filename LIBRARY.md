@@ -99,7 +99,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f178f150017ca69c8793503c2d4f' height=32>|David Guetta|[open](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai)|
 |<img src='https://i.scdn.co/image/ab6761610000f178320f77ce5e51c7c4e87065fd' height=32>|Delta Heavy|[open](https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T)|
 |<img src='https://i.scdn.co/image/ab6761610000f178f1fe521a948afe37edb4c145' height=32>|Devault|[open](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL)|
-|<img src='https://i.scdn.co/image/ab6761610000f178c61c75f2f76dbcd5f49a3e8c' height=32>|Dillon Francis|[open](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf)|
+|<img src='https://i.scdn.co/image/ab6761610000f1787a10c0a271f96529bf28f97f' height=32>|Dillon Francis|[open](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf)|
 |<img src='https://i.scdn.co/image/ab6761610000f178536e2768d3308d3489580f36' height=32>|Dimension|[open](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S)|
 |<img src='https://i.scdn.co/image/ab6761610000f178284b0239328d2d0b9abbb437' height=32>|Dom Dolla|[open](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m)|
 |<img src='https://i.scdn.co/image/ab6761610000f1788e65e9a90943edec29353597' height=32>|Dominus|[open](https://open.spotify.com/artist/0uDJS3oEIxgZeqAPi7REq6)|
