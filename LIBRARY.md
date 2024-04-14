@@ -72,7 +72,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f1788c540c015b04311b0661eb09' height=32>|Adventure Club|[open](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa)|
 |<img src='https://i.scdn.co/image/ab6761610000f1786af4313c7cb5d8854f0a8f67' height=32>|Alison Wonderland|[open](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW)|
 |<img src='https://i.scdn.co/image/ab6761610000f178589da95c2c9de7b23571ae9c' height=32>|Andrew Perkins|[open](https://open.spotify.com/artist/6n6nuTjsajI8tooRU3SYDA)|
-|<img src='https://i.scdn.co/image/ab67616d00004851861aaef86d4e1465ff19623b' height=32>|Anjunabeats|[open](https://open.spotify.com/artist/7aqysYAN8bVjQuJSo9PyqR)|
+|<img src='https://i.scdn.co/image/ab67616d00004851def7ecc96279107b9588ad1e' height=32>|Anjunabeats|[open](https://open.spotify.com/artist/7aqysYAN8bVjQuJSo9PyqR)|
 |<img src='https://i.scdn.co/image/ab6761610000f178b9cc4c45b63d294bce8eefa1' height=32>|Anyma|[open](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN)|
 |<img src='https://i.scdn.co/image/ab6761610000f178d681a74e4f148b698baf6edb' height=32>|Apashe|[open](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN)|
 |<img src='https://i.scdn.co/image/ab67616d00004851251e95e1798f41fd5a94967b' height=32>|Aperture Science Psychoacoustic Laboratories|[open](https://open.spotify.com/artist/7d58WZ8qQHy2Sm5p52V2NP)|
@@ -208,7 +208,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f17807626ae4a3d34ce3e8521c14' height=32>|Stonebank|[open](https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377)|
 |<img src='https://i.scdn.co/image/ab6761610000f1783acc752dbb488a55fffa9af8' height=32>|Swedish House Mafia|[open](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs)|
 |<img src='https://i.scdn.co/image/ab6761610000f17809f6620cf964a33a10399f87' height=32>|Sysdemes|[open](https://open.spotify.com/artist/334ksd0rVOUxkEiUzBdgaf)|
-|<img src='https://i.scdn.co/image/ab6761610000f1780f16372cd0b503c8afd70973' height=32>|TELYKAST|[open](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz)|
+|<img src='https://i.scdn.co/image/ab6761610000f178037c1547ccdaad5eec70a00b' height=32>|TELYKAST|[open](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz)|
 |<img src='https://i.scdn.co/image/ab6761610000f17841cc1ff78d07dfdda89066e3' height=32>|TOKYO ROSE|[open](https://open.spotify.com/artist/3kwoPkICT4iPkNjr6mL13N)|
 |<img src='https://i.scdn.co/image/ab6761610000f17823a08dc78da9d9a6869d85fb' height=32>|Tantrum Desire|[open](https://open.spotify.com/artist/7HBMCyflAmijk08T1si9wS)|
 |<img src='https://i.scdn.co/image/ab6761610000f178da9267f9f0c022cfaca1bae9' height=32>|The Anix|[open](https://open.spotify.com/artist/6nFvVbL2RN5czSm7NZjE51)|
