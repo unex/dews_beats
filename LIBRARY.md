@@ -72,7 +72,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f1788c540c015b04311b0661eb09' height=32>|Adventure Club|[open](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa)|
 |<img src='https://i.scdn.co/image/ab6761610000f1786af4313c7cb5d8854f0a8f67' height=32>|Alison Wonderland|[open](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW)|
 |<img src='https://i.scdn.co/image/ab6761610000f178589da95c2c9de7b23571ae9c' height=32>|Andrew Perkins|[open](https://open.spotify.com/artist/6n6nuTjsajI8tooRU3SYDA)|
-|<img src='https://i.scdn.co/image/ab67616d00004851def7ecc96279107b9588ad1e' height=32>|Anjunabeats|[open](https://open.spotify.com/artist/7aqysYAN8bVjQuJSo9PyqR)|
+|<img src='https://i.scdn.co/image/ab67616d00004851daceb3283cee454455d167ee' height=32>|Anjunabeats|[open](https://open.spotify.com/artist/7aqysYAN8bVjQuJSo9PyqR)|
 |<img src='https://i.scdn.co/image/ab6761610000f178b9cc4c45b63d294bce8eefa1' height=32>|Anyma|[open](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN)|
 |<img src='https://i.scdn.co/image/ab6761610000f178d681a74e4f148b698baf6edb' height=32>|Apashe|[open](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN)|
 |<img src='https://i.scdn.co/image/ab67616d00004851251e95e1798f41fd5a94967b' height=32>|Aperture Science Psychoacoustic Laboratories|[open](https://open.spotify.com/artist/7d58WZ8qQHy2Sm5p52V2NP)|
@@ -224,7 +224,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f178dbf5211342b9a91926f88125' height=32>|VNSSA|[open](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM)|
 |<img src='https://i.scdn.co/image/ab6761610000f178767df4c5bc1044396eaa6f2b' height=32>|VVN|[open](https://open.spotify.com/artist/7215FhQXuF7Ffdvt3Wkeea)|
 |<img src='https://i.scdn.co/image/ab6761610000f178599401be34f3a1b33cfd9325' height=32>|Varien|[open](https://open.spotify.com/artist/2g1JSu9UfRcQQYb3b03Km7)|
-|<img src='https://i.scdn.co/image/ab6761610000f1787462d94efa2db53abba8c003' height=32>|Various Artists|[open](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of)|
+|<img src='https://i.scdn.co/image/ab6761610000f1781e952d8be53ba52872e54071' height=32>|Various Artists|[open](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of)|
 |<img src='https://i.scdn.co/image/662a56bd962533eaaf1a686dd067bfe737a0b21d' height=32>|Veorra|[open](https://open.spotify.com/artist/2WMIMX93pQyfyAF2J2r1ID)|
 |<img src='https://i.scdn.co/image/ab6761610000f17816c3d0508b78984977eef4cf' height=32>|Vini Vici|[open](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy)|
 |<img src='https://i.scdn.co/image/ab6761610000f1786c406665423f5eac0024e689' height=32>|Virtual Riot|[open](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1)|
