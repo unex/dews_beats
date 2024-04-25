@@ -224,7 +224,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f178dbf5211342b9a91926f88125' height=32>|VNSSA|[open](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM)|
 |<img src='https://i.scdn.co/image/ab6761610000f178767df4c5bc1044396eaa6f2b' height=32>|VVN|[open](https://open.spotify.com/artist/7215FhQXuF7Ffdvt3Wkeea)|
 |<img src='https://i.scdn.co/image/ab6761610000f178599401be34f3a1b33cfd9325' height=32>|Varien|[open](https://open.spotify.com/artist/2g1JSu9UfRcQQYb3b03Km7)|
-|<img src='https://i.scdn.co/image/ab6761610000f1781e952d8be53ba52872e54071' height=32>|Various Artists|[open](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of)|
+|<img src='https://i.scdn.co/image/ab6761610000f1786b134287e3095d2c84b7932a' height=32>|Various Artists|[open](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of)|
 |<img src='https://i.scdn.co/image/662a56bd962533eaaf1a686dd067bfe737a0b21d' height=32>|Veorra|[open](https://open.spotify.com/artist/2WMIMX93pQyfyAF2J2r1ID)|
 |<img src='https://i.scdn.co/image/ab6761610000f17816c3d0508b78984977eef4cf' height=32>|Vini Vici|[open](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy)|
 |<img src='https://i.scdn.co/image/ab6761610000f1786c406665423f5eac0024e689' height=32>|Virtual Riot|[open](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1)|
