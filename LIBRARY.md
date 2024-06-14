@@ -20,7 +20,7 @@
 |Proximity|Proximity|The best of EDM/Electronic Dance Music from Proximity. Your favorite music you haven't heard yet.|[open](https://open.spotify.com/playlist/3VEFRGe3APwGRl4eTpMS4x)|
 |R|dunce||[open](https://open.spotify.com/playlist/0Yg4Y8u5RffkQfLl5PBQE0)|
 |Release Radar|Spotify|Catch all the latest music from artists you follow, plus new singles picked for you. Updates every Friday.|[open](https://open.spotify.com/playlist/37i9dQZEVXbnh1QaRGLArX)|
-|Tech House Operator|Spotify|Tech house technicians, featuring John Summit. 50% techno, 50% house|[open](https://open.spotify.com/playlist/37i9dQZF1DWVY4eLfA3XFQ)|
+|Tech House Operator|Spotify|Tech house technicians, featuring Martin Ikin. 50% techno, 50% house|[open](https://open.spotify.com/playlist/37i9dQZF1DWVY4eLfA3XFQ)|
 |Top Songs 2022|dunce||[open](https://open.spotify.com/playlist/0xfanbYvfOCJSQMSvWZPyP)|
 |Walker Radio by Alan Walker|Alan Walker|Walkers, this is my personalized playlist with songs that inspire me, including my new single '<a href="https://open.spotify.com/track/1NMYbsFZyxwHRNaLGzFGWh?si=a0fe32719900481b">'Who I Am'</a>'with Putri Ariani &amp; Peder Elias|[open](https://open.spotify.com/playlist/4CMmmIRrtAcDc8LuCUlmg6)|
 |Your Top Songs 2020|Spotify|The songs you loved most this year, all wrapped up.|[open](https://open.spotify.com/playlist/37i9dQZF1EM5ISebhB9z7B)|
@@ -72,7 +72,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f1788c540c015b04311b0661eb09' height=32>|Adventure Club|[open](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa)|
 |<img src='https://i.scdn.co/image/ab6761610000f1786af4313c7cb5d8854f0a8f67' height=32>|Alison Wonderland|[open](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW)|
 |<img src='https://i.scdn.co/image/ab6761610000f178589da95c2c9de7b23571ae9c' height=32>|Andrew Perkins|[open](https://open.spotify.com/artist/6n6nuTjsajI8tooRU3SYDA)|
-|<img src='https://i.scdn.co/image/ab67616d00004851daceb3283cee454455d167ee' height=32>|Anjunabeats|[open](https://open.spotify.com/artist/7aqysYAN8bVjQuJSo9PyqR)|
+|<img src='https://i.scdn.co/image/ab67616d000048510fa1988a52c123fc099874b7' height=32>|Anjunabeats|[open](https://open.spotify.com/artist/7aqysYAN8bVjQuJSo9PyqR)|
 |<img src='https://i.scdn.co/image/ab6761610000f178b9cc4c45b63d294bce8eefa1' height=32>|Anyma|[open](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN)|
 |<img src='https://i.scdn.co/image/ab6761610000f178d681a74e4f148b698baf6edb' height=32>|Apashe|[open](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN)|
 |<img src='https://i.scdn.co/image/ab67616d00004851251e95e1798f41fd5a94967b' height=32>|Aperture Science Psychoacoustic Laboratories|[open](https://open.spotify.com/artist/7d58WZ8qQHy2Sm5p52V2NP)|
@@ -80,7 +80,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f178ae07171f989fb39736674113' height=32>|Avicii|[open](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6)|
 |<img src='https://i.scdn.co/image/ab6761610000f1789938bc50f6446ac245899633' height=32>|BONNIE X CLYDE|[open](https://open.spotify.com/artist/74xeHqz5Ap8ZHq69TkxI0r)|
 |<img src='https://i.scdn.co/image/ab6761610000f178093da37218837dd8c443936b' height=32>|BSOD|[open](https://open.spotify.com/artist/2t2M4T7Z7fKbF900SUuh05)|
-|<img src='https://i.scdn.co/image/ab6761610000f1781b3edadad88f63936826d4b1' height=32>|Bad Omens|[open](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V)|
+|<img src='https://i.scdn.co/image/ab6761610000f178ad84334ca5838c6182c8f8d4' height=32>|Bad Omens|[open](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V)|
 |<img src='https://i.scdn.co/image/ab6761610000f178bcb4347ccf6100a629cd0e29' height=32>|Bensley|[open](https://open.spotify.com/artist/3SfEKS85dj9v75ROsWJSiL)|
 |<img src='https://i.scdn.co/image/ab6761610000f178388751478f5e571b4d076809' height=32>|Black Tiger Sex Machine|[open](https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC)|
 |<img src='https://i.scdn.co/image/ab6761610000f17847b81f796ba6399a4d65562e' height=32>|BlackGummy|[open](https://open.spotify.com/artist/3ExR7ks7OAdqrm99r1PJby)|
@@ -97,18 +97,18 @@
 |<img src='https://i.scdn.co/image/ab6761610000f17821b34471e47b4f53a8fa425b' height=32>|DRIVEPILOT|[open](https://open.spotify.com/artist/28jhpEPXEk8We9E2QGuQjy)|
 |<img src='https://i.scdn.co/image/ab6761610000f178bb894338b2aba1124ec708d4' height=32>|Danger|[open](https://open.spotify.com/artist/2o3U0ld93tHYowkoari4Vi)|
 |<img src='https://i.scdn.co/image/ab6761610000f178f150017ca69c8793503c2d4f' height=32>|David Guetta|[open](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai)|
-|<img src='https://i.scdn.co/image/ab6761610000f178320f77ce5e51c7c4e87065fd' height=32>|Delta Heavy|[open](https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T)|
+|<img src='https://i.scdn.co/image/ab6761610000f178aabebb3c0610ea10be71c846' height=32>|Delta Heavy|[open](https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T)|
 |<img src='https://i.scdn.co/image/ab6761610000f178d859ae8971a7be88250c4fe8' height=32>|Devault|[open](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL)|
 |<img src='https://i.scdn.co/image/ab6761610000f1787a10c0a271f96529bf28f97f' height=32>|Dillon Francis|[open](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf)|
-|<img src='https://i.scdn.co/image/ab6761610000f17894a6807a6e9289dc65447643' height=32>|Dimension|[open](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S)|
-|<img src='https://i.scdn.co/image/ab6761610000f178284b0239328d2d0b9abbb437' height=32>|Dom Dolla|[open](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m)|
+|<img src='https://i.scdn.co/image/ab6761610000f1784532f608bbe919a7f8b26186' height=32>|Dimension|[open](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S)|
+|<img src='https://i.scdn.co/image/ab6761610000f17868884b9a199f760bf912f0a3' height=32>|Dom Dolla|[open](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m)|
 |<img src='https://i.scdn.co/image/ab6761610000f1788e65e9a90943edec29353597' height=32>|Dominus|[open](https://open.spotify.com/artist/0uDJS3oEIxgZeqAPi7REq6)|
 |<img src='https://i.scdn.co/image/ab6761610000f178259a9b27a3225024093d6063' height=32>|DotEXE|[open](https://open.spotify.com/artist/2S2RMiHABGxAQqdqwUN5qF)|
 |<img src='https://i.scdn.co/image/ab6761610000f178ce038fbe25d421c7033e36a2' height=32>|EDDIE|[open](https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd)|
-|<img src='https://i.scdn.co/image/ab6761610000f178dfa91b1a64e241464038d4ca' height=32>|Eli & Fur|[open](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4)|
+|<img src='https://i.scdn.co/image/ab6761610000f178d2b3d891092989e2d1ed646c' height=32>|Eli & Fur|[open](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4)|
 |<img src='https://i.scdn.co/image/ab6761610000f17891e068d445ab481737a97776' height=32>|Eliminate|[open](https://open.spotify.com/artist/6hBrJJrcYoNhvLC6KaFR4b)|
 |<img src='https://i.scdn.co/image/ab6761610000f178c3cd7dc428871e8985d62b9a' height=32>|Ellie Goulding|[open](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ)|
-|<img src='https://i.scdn.co/image/ab6761610000f1783eff9c8b81b3f4f2cef9d298' height=32>|Essenger|[open](https://open.spotify.com/artist/3vc0JWD1Nj1VLrgJ1x3cjE)|
+|<img src='https://i.scdn.co/image/ab6761610000f1788d53fc830f20617c691b1dc5' height=32>|Essenger|[open](https://open.spotify.com/artist/3vc0JWD1Nj1VLrgJ1x3cjE)|
 |<img src='https://i.scdn.co/image/ab6761610000f178cd3fb82b1270a175ed000118' height=32>|FISHER|[open](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt)|
 |<img src='https://i.scdn.co/image/ab6761610000f17891266ffcb49b554e65db4679' height=32>|Fabrication|[open](https://open.spotify.com/artist/73MDrv3SUYLE1yNOBQMlsy)|
 |<img src='https://i.scdn.co/image/ab6761610000f1782a74ca741fcc46f8a7f53eb1' height=32>|Fatum|[open](https://open.spotify.com/artist/3pt2vTpH1eI776oDZT1G2C)|
@@ -120,7 +120,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f17869f4bda67ac865b691199fdd' height=32>|Giuseppe Ottaviani|[open](https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv)|
 |<img src='https://i.scdn.co/image/ab6761610000f1785b2bf033db0073228084edb4' height=32>|HEALTH|[open](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth)|
 |<img src='https://i.scdn.co/image/ab6761610000f178b2b6859dbec4f4b956870d5e' height=32>|HIGHSOCIETY|[open](https://open.spotify.com/artist/32MQN2sITkJGNQN40QLPEa)|
-|<img src='https://i.scdn.co/image/ab6761610000f178b089e57891561a912ec4ad46' height=32>|HVDES|[open](https://open.spotify.com/artist/3koHmmPvpgZWHcVmK8AKDq)|
+|<img src='https://i.scdn.co/image/ab6761610000f178c0eacd569358904f5e104ac9' height=32>|HVDES|[open](https://open.spotify.com/artist/3koHmmPvpgZWHcVmK8AKDq)|
 |<img src='https://i.scdn.co/image/ab6761610000f1784b4d04b47bf9b080a8e93270' height=32>|HYPRESSION|[open](https://open.spotify.com/artist/440CkJeA4aZmro26BGCyt0)|
 |<img src='https://i.scdn.co/image/ab6761610000f1788ca97ce4c5bb5144aba46e82' height=32>|Heyz|[open](https://open.spotify.com/artist/5X1EM1jg35YB5jmw7qVIlh)|
 |<img src='https://i.scdn.co/image/ab6761610000f178db1ac80b1fbda08c55c3e4d9' height=32>|Hot Since 82|[open](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS)|
@@ -182,7 +182,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f1780fb1220e7e3ace47ebad023e' height=32>|Pegboard Nerds|[open](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y)|
 |<img src='https://i.scdn.co/image/ab6761610000f1784a45def215a47635d17d8a7b' height=32>|Pendulum|[open](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B)|
 |<img src='https://i.scdn.co/image/ab6761610000f178fee0b250dd3032226b4e2167' height=32>|Popeska|[open](https://open.spotify.com/artist/4Td7DjmnDqvSDBHtuJomoF)|
-|<img src='https://i.scdn.co/image/ab6761610000f1786a1adf31a45fc3350dc2b126' height=32>|Poppy|[open](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv)|
+|<img src='https://i.scdn.co/image/ab6761610000f178e1b10b324e72e29fb54e51ca' height=32>|Poppy|[open](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv)|
 |<img src='https://i.scdn.co/image/ab6761610000f1781ac12dcb2cc4fc7c740c5e0c' height=32>|Porter Robinson|[open](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam)|
 |<img src='https://i.scdn.co/image/ab6761610000f1789cf293569bdfe2b846eb70c8' height=32>|Prismo|[open](https://open.spotify.com/artist/23ostNBoB9z6GMXLtHdg7y)|
 |<img src='https://i.scdn.co/image/ab6761610000f17800f9b463d902a12d2d14dc97' height=32>|Quackson|[open](https://open.spotify.com/artist/1srU7GzSGHwG1ewjSv6ztq)|
@@ -201,7 +201,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f178be22bca098013bd10383e0f6' height=32>|Simon Patterson|[open](https://open.spotify.com/artist/3QxbGzjZc3kgHNJOBOZM2M)|
 |<img src='https://i.scdn.co/image/ab6761610000f178a832e736e92814c03257dc28' height=32>|Skeler|[open](https://open.spotify.com/artist/7ks4LdnBvp6HUsmVJiKgsB)|
 |<img src='https://i.scdn.co/image/ab6761610000f17808c6f3de88a7cd00b65796cb' height=32>|Slooze|[open](https://open.spotify.com/artist/6md8Ho8wqUrhoF8cbsTLnT)|
-|<img src='https://i.scdn.co/image/ab6761610000f1782559d355ab8f7a973d45c712' height=32>|Snavs|[open](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM)|
+|<img src='https://i.scdn.co/image/ab6761610000f17868dad110616ac06eb53b224c' height=32>|Snavs|[open](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM)|
 |<img src='https://i.scdn.co/image/ab6761610000f178bf6d5ee5a992d8587cb0749e' height=32>|Social Kid|[open](https://open.spotify.com/artist/5MTN31B0DYG43RQJ9zT5fq)|
 |<img src='https://i.scdn.co/image/ab6761610000f178140e8968d470b393d8c5025a' height=32>|Speaker Honey|[open](https://open.spotify.com/artist/7dzM8rBjimBLgsQ9pfZIXO)|
 |<img src='https://i.scdn.co/image/ab6761610000f178a529594d58fae0fe8408d599' height=32>|Stilz|[open](https://open.spotify.com/artist/0he5qSKLuYoGL223KSWjXJ)|
@@ -212,7 +212,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f17841cc1ff78d07dfdda89066e3' height=32>|TOKYO ROSE|[open](https://open.spotify.com/artist/3kwoPkICT4iPkNjr6mL13N)|
 |<img src='https://i.scdn.co/image/ab6761610000f17823a08dc78da9d9a6869d85fb' height=32>|Tantrum Desire|[open](https://open.spotify.com/artist/7HBMCyflAmijk08T1si9wS)|
 |<img src='https://i.scdn.co/image/ab6761610000f178da9267f9f0c022cfaca1bae9' height=32>|The Anix|[open](https://open.spotify.com/artist/6nFvVbL2RN5czSm7NZjE51)|
-|<img src='https://i.scdn.co/image/ab6761610000f178cd5e6bc23b412eb0a14d8cbd' height=32>|The Bloody Beetroots|[open](https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5)|
+|<img src='https://i.scdn.co/image/ab6761610000f178eb0b1f4eac8e6bd41ea1d4d3' height=32>|The Bloody Beetroots|[open](https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5)|
 |<img src='https://i.scdn.co/image/ab6761610000f178d12e8c61240cbd023dee7743' height=32>|The Crystal Method|[open](https://open.spotify.com/artist/5eKLa1xyHLq8ERWmT1CRHj)|
 |<img src='https://i.scdn.co/image/ab6761610000f1788e8a2d86b3c12e139500af8b' height=32>|The Encounter|[open](https://open.spotify.com/artist/4BoYO8cPeKT28GGAYjDW3g)|
 |<img src='https://i.scdn.co/image/ab6761610000f17840e38d97250b9c4fde250ed6' height=32>|The Glitch Mob|[open](https://open.spotify.com/artist/3a9qv6NLHnsVxJUtKOMHvD)|
