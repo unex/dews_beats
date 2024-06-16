@@ -20,7 +20,7 @@
 |Proximity|Proximity|The best of EDM/Electronic Dance Music from Proximity. Your favorite music you haven't heard yet.|[open](https://open.spotify.com/playlist/3VEFRGe3APwGRl4eTpMS4x)|
 |R|dunce||[open](https://open.spotify.com/playlist/0Yg4Y8u5RffkQfLl5PBQE0)|
 |Release Radar|Spotify|Catch all the latest music from artists you follow, plus new singles picked for you. Updates every Friday.|[open](https://open.spotify.com/playlist/37i9dQZEVXbnh1QaRGLArX)|
-|Tech House Operator|Spotify|Tech house technicians, featuring Martin Ikin. 50% techno, 50% house|[open](https://open.spotify.com/playlist/37i9dQZF1DWVY4eLfA3XFQ)|
+|Tech House Operator|Spotify|Tech house technicians, featuring Sosa. 50% techno, 50% house|[open](https://open.spotify.com/playlist/37i9dQZF1DWVY4eLfA3XFQ)|
 |Top Songs 2022|dunce||[open](https://open.spotify.com/playlist/0xfanbYvfOCJSQMSvWZPyP)|
 |Walker Radio by Alan Walker|Alan Walker|Walkers, this is my personalized playlist with songs that inspire me, including my new single '<a href="https://open.spotify.com/track/1NMYbsFZyxwHRNaLGzFGWh?si=a0fe32719900481b">'Who I Am'</a>'with Putri Ariani &amp; Peder Elias|[open](https://open.spotify.com/playlist/4CMmmIRrtAcDc8LuCUlmg6)|
 |Your Top Songs 2020|Spotify|The songs you loved most this year, all wrapped up.|[open](https://open.spotify.com/playlist/37i9dQZF1EM5ISebhB9z7B)|
@@ -72,7 +72,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f1788c540c015b04311b0661eb09' height=32>|Adventure Club|[open](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa)|
 |<img src='https://i.scdn.co/image/ab6761610000f1786af4313c7cb5d8854f0a8f67' height=32>|Alison Wonderland|[open](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW)|
 |<img src='https://i.scdn.co/image/ab6761610000f178589da95c2c9de7b23571ae9c' height=32>|Andrew Perkins|[open](https://open.spotify.com/artist/6n6nuTjsajI8tooRU3SYDA)|
-|<img src='https://i.scdn.co/image/ab67616d000048510fa1988a52c123fc099874b7' height=32>|Anjunabeats|[open](https://open.spotify.com/artist/7aqysYAN8bVjQuJSo9PyqR)|
+|<img src='https://i.scdn.co/image/ab67616d000048519db6b6422ed3836de51890a3' height=32>|Anjunabeats|[open](https://open.spotify.com/artist/7aqysYAN8bVjQuJSo9PyqR)|
 |<img src='https://i.scdn.co/image/ab6761610000f178b9cc4c45b63d294bce8eefa1' height=32>|Anyma|[open](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN)|
 |<img src='https://i.scdn.co/image/ab6761610000f178d681a74e4f148b698baf6edb' height=32>|Apashe|[open](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN)|
 |<img src='https://i.scdn.co/image/ab67616d00004851251e95e1798f41fd5a94967b' height=32>|Aperture Science Psychoacoustic Laboratories|[open](https://open.spotify.com/artist/7d58WZ8qQHy2Sm5p52V2NP)|
