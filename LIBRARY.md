@@ -97,7 +97,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f17821b34471e47b4f53a8fa425b' height=32>|DRIVEPILOT|[open](https://open.spotify.com/artist/28jhpEPXEk8We9E2QGuQjy)|
 |<img src='https://i.scdn.co/image/ab6761610000f178bb894338b2aba1124ec708d4' height=32>|Danger|[open](https://open.spotify.com/artist/2o3U0ld93tHYowkoari4Vi)|
 |<img src='https://i.scdn.co/image/ab6761610000f178f150017ca69c8793503c2d4f' height=32>|David Guetta|[open](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai)|
-|<img src='https://i.scdn.co/image/ab6761610000f178aabebb3c0610ea10be71c846' height=32>|Delta Heavy|[open](https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T)|
+|<img src='https://i.scdn.co/image/ab6761610000f1787d39b8afebc94aa5dd757a01' height=32>|Delta Heavy|[open](https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T)|
 |<img src='https://i.scdn.co/image/ab6761610000f178d859ae8971a7be88250c4fe8' height=32>|Devault|[open](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL)|
 |<img src='https://i.scdn.co/image/ab6761610000f1787a10c0a271f96529bf28f97f' height=32>|Dillon Francis|[open](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf)|
 |<img src='https://i.scdn.co/image/ab6761610000f1784532f608bbe919a7f8b26186' height=32>|Dimension|[open](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S)|
