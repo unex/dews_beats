@@ -189,7 +189,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f17800f9b463d902a12d2d14dc97' height=32>|Quackson|[open](https://open.spotify.com/artist/1srU7GzSGHwG1ewjSv6ztq)|
 |<img src='https://i.scdn.co/image/ab6761610000f17833b1d3113a07673039c86cc7' height=32>|RIOT|[open](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY)|
 |<img src='https://i.scdn.co/image/ab6761610000f17828405235cd19971955861724' height=32>|Rezz|[open](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw)|
-|<img src='https://i.scdn.co/image/ab6761610000f17835fbc9439aa39f75650d7d33' height=32>|Rickyxsan|[open](https://open.spotify.com/artist/0lqxqV3IhQXO5czq1d0ZfJ)|
+|<img src='https://i.scdn.co/image/ab6761610000f178f31adfe7487579df789facaf' height=32>|Rickyxsan|[open](https://open.spotify.com/artist/0lqxqV3IhQXO5czq1d0ZfJ)|
 |<img src='https://i.scdn.co/image/ab6761610000f178cf82addb998c3b0731832cb7' height=32>|Rodg|[open](https://open.spotify.com/artist/1kb9YssvADeiGvCUwJzbdT)|
 |<img src='https://i.scdn.co/image/ab6761610000f17805b8ea196b034e6d960b2ea4' height=32>|Roniit|[open](https://open.spotify.com/artist/09KYpkm7IEPR3nc8omKpSY)|
 |<img src='https://i.scdn.co/image/ab6761610000f1786421c978507f6fe10446ede6' height=32>|SIERRA|[open](https://open.spotify.com/artist/25WCO5tS4sXMxIfe3nIXL4)|
