@@ -72,7 +72,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f1788c540c015b04311b0661eb09' height=32>|Adventure Club|[open](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa)|
 |<img src='https://i.scdn.co/image/ab6761610000f1786af4313c7cb5d8854f0a8f67' height=32>|Alison Wonderland|[open](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW)|
 |<img src='https://i.scdn.co/image/ab6761610000f178589da95c2c9de7b23571ae9c' height=32>|Andrew Perkins|[open](https://open.spotify.com/artist/6n6nuTjsajI8tooRU3SYDA)|
-|<img src='https://i.scdn.co/image/ab67616d00004851d64a48d8050cf7ced3ea65ef' height=32>|Anjunabeats|[open](https://open.spotify.com/artist/7aqysYAN8bVjQuJSo9PyqR)|
+|<img src='https://i.scdn.co/image/ab67616d000048518c4681fa52be92206d61ea22' height=32>|Anjunabeats|[open](https://open.spotify.com/artist/7aqysYAN8bVjQuJSo9PyqR)|
 |<img src='https://i.scdn.co/image/ab6761610000f178b9cc4c45b63d294bce8eefa1' height=32>|Anyma|[open](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN)|
 |<img src='https://i.scdn.co/image/ab6761610000f178d681a74e4f148b698baf6edb' height=32>|Apashe|[open](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN)|
 |<img src='https://i.scdn.co/image/ab67616d00004851251e95e1798f41fd5a94967b' height=32>|Aperture Science Psychoacoustic Laboratories|[open](https://open.spotify.com/artist/7d58WZ8qQHy2Sm5p52V2NP)|
@@ -159,7 +159,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f178f24204710f5167ec69eb0417' height=32>|Malaa|[open](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS)|
 |<img src='https://i.scdn.co/image/ab6761610000f1789e2dae585750a8d6055f4e35' height=32>|Marilyn Manson|[open](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj)|
 |<img src='https://i.scdn.co/image/ab6761610000f17845c3688488f871aace7a4a57' height=32>|Martin Garrix|[open](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ)|
-|<img src='https://i.scdn.co/image/ab6761610000f17841c4fdaeab145c2073c8534e' height=32>|Matroda|[open](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz)|
+|<img src='https://i.scdn.co/image/ab6761610000f17867496827f683bf6ded6c8f1e' height=32>|Matroda|[open](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz)|
 |<img src='https://i.scdn.co/image/ab6761610000f1780ac924c59aa6cec24890ffcc' height=32>|Matt Lange|[open](https://open.spotify.com/artist/2AmHV6vxRxvHdlxSHxnHE9)|
 |<img src='https://i.scdn.co/image/ab6761610000f1781f32496a2ac49b66adfc5252' height=32>|Matteo Tura|[open](https://open.spotify.com/artist/4MDRNxNtr5Zwyhgk6TC0ur)|
 |<img src='https://i.scdn.co/image/ab6761610000f1789f08ba9be9de04270ec7f9c8' height=32>|Max Brhon|[open](https://open.spotify.com/artist/5DxE39K4wk15NUk2c5zpeI)|
