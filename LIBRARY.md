@@ -20,7 +20,7 @@
 |Proximity|Proximity|The best of EDM/Electronic Dance Music from Proximity. Your favorite music you haven't heard yet.|[open](https://open.spotify.com/playlist/3VEFRGe3APwGRl4eTpMS4x)|
 |R|dunce||[open](https://open.spotify.com/playlist/0Yg4Y8u5RffkQfLl5PBQE0)|
 |Release Radar|Spotify|Catch all the latest music from artists you follow, plus new singles picked for you. Updates every Friday.|[open](https://open.spotify.com/playlist/37i9dQZEVXbnh1QaRGLArX)|
-|Tech House Operator|Spotify|Tech house technicians, featuring Max Styler. 50% techno, 50% house|[open](https://open.spotify.com/playlist/37i9dQZF1DWVY4eLfA3XFQ)|
+|Tech House Operator|Spotify|Tech house technicians, featuring AYYBO 👽👽 50% techno, 50% house|[open](https://open.spotify.com/playlist/37i9dQZF1DWVY4eLfA3XFQ)|
 |Top Songs 2022|dunce||[open](https://open.spotify.com/playlist/0xfanbYvfOCJSQMSvWZPyP)|
 |Walker Radio by Alan Walker|Alan Walker|Walkers, this is my personalized playlist with songs that inspire me, including my new single '<a href="https://open.spotify.com/track/1NMYbsFZyxwHRNaLGzFGWh?si=a0fe32719900481b">'Who I Am'</a>'with Putri Ariani &amp; Peder Elias|[open](https://open.spotify.com/playlist/4CMmmIRrtAcDc8LuCUlmg6)|
 |Your Top Songs 2020|Spotify|The songs you loved most this year, all wrapped up.|[open](https://open.spotify.com/playlist/37i9dQZF1EM5ISebhB9z7B)|
@@ -132,7 +132,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f1782ea36e7e9e49762e4a5c7d9b' height=32>|Infected Mushroom|[open](https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI)|
 |<img src='https://i.scdn.co/image/ab6761610000f178c4b34dc239a819cff95020bd' height=32>|Intrelock|[open](https://open.spotify.com/artist/41pmSD7ceBz02NR6M2u0B4)|
 |<img src='https://i.scdn.co/image/ab6761610000f178f14cf3e823e826e73f877667' height=32>|JOYRYDE|[open](https://open.spotify.com/artist/24neLwyYRyj4ItaGnFeIT0)|
-|<img src='https://i.scdn.co/image/ab6761610000f178c69ce962fce1b12e185e5415' height=32>|JVNA|[open](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A)|
+|<img src='https://i.scdn.co/image/ab6761610000f178ec73865a4d989a76aca85b3d' height=32>|JVNA|[open](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A)|
 |<img src='https://i.scdn.co/image/ab6761610000f178d283305b0dd93c5472bb3f22' height=32>|James Egbert|[open](https://open.spotify.com/artist/0MHUXo8PYYFpnXY73siC8T)|
 |<img src='https://i.scdn.co/image/ab6761610000f17865d3059bf4db35c093696ce4' height=32>|Jason Ross|[open](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150)|
 |<img src='https://i.scdn.co/image/ab6761610000f17814d77dbf42fcdcbcb214aaeb' height=32>|Juno Reactor|[open](https://open.spotify.com/artist/1Pe3z1UqRzKsQtHsl25dm6)|
