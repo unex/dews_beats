@@ -218,7 +218,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f1788e8a2d86b3c12e139500af8b' height=32>|The Encounter|[open](https://open.spotify.com/artist/4BoYO8cPeKT28GGAYjDW3g)|
 |<img src='https://i.scdn.co/image/ab6761610000f17840e38d97250b9c4fde250ed6' height=32>|The Glitch Mob|[open](https://open.spotify.com/artist/3a9qv6NLHnsVxJUtKOMHvD)|
 |<img src='https://i.scdn.co/image/ab6761610000f178147841812056c247407811f3' height=32>|The Prodigy|[open](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB)|
-|<img src='https://i.scdn.co/image/ab6761610000f178b1d52a048b9d5e1f27b9fa72' height=32>|The Thrillseekers|[open](https://open.spotify.com/artist/1RYDKWzJnJtbTPYNsDswD5)|
+|<img src='https://i.scdn.co/image/ab6761610000f1781cea1c207a06778c8342ef0d' height=32>|The Thrillseekers|[open](https://open.spotify.com/artist/1RYDKWzJnJtbTPYNsDswD5)|
 |<img src='https://i.scdn.co/image/ab6761610000f178b44e5d61a4fd3ccc65045fc7' height=32>|Tritonal|[open](https://open.spotify.com/artist/521qvhdobR0GzhvU6TFw76)|
 |<img src='https://i.scdn.co/image/ab6761610000f178229845a1fe3c549046cfc0bc' height=32>|Trivecta|[open](https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye)|
 |<img src='https://i.scdn.co/image/ab6761610000f178a0bc106fb6da08602c3e9359' height=32>|Tut Tut Child|[open](https://open.spotify.com/artist/6EmSzH0r12lNsYQCFzCFS3)|
