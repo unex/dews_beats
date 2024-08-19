@@ -157,7 +157,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f178db8a8b49c421cd9a02e59e98' height=32>|MUZZ|[open](https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg)|
 |<img src='https://i.scdn.co/image/ab6761610000f178b94e4f19a20ded9f6070d446' height=32>|Maison Ware|[open](https://open.spotify.com/artist/0A85Mz9YHumTq1HgNtt6aA)|
 |<img src='https://i.scdn.co/image/ab6761610000f17879c53ef46e992db0b13d4ea3' height=32>|Malaa|[open](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS)|
-|<img src='https://i.scdn.co/image/ab6761610000f17804b59046ec7178e157cbf8cd' height=32>|Marilyn Manson|[open](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj)|
+|<img src='https://i.scdn.co/image/ab6761610000f178db8d04a30249a6d312599638' height=32>|Marilyn Manson|[open](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj)|
 |<img src='https://i.scdn.co/image/ab6761610000f17845c3688488f871aace7a4a57' height=32>|Martin Garrix|[open](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ)|
 |<img src='https://i.scdn.co/image/ab6761610000f17867496827f683bf6ded6c8f1e' height=32>|Matroda|[open](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz)|
 |<img src='https://i.scdn.co/image/ab6761610000f1780ac924c59aa6cec24890ffcc' height=32>|Matt Lange|[open](https://open.spotify.com/artist/2AmHV6vxRxvHdlxSHxnHE9)|
