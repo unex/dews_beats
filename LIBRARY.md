@@ -150,7 +150,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f17887b0e3c885f5948e583ea628' height=32>|LICK|[open](https://open.spotify.com/artist/62R6OE0R9RB43aSCyzVOxs)|
 |<img src='https://i.scdn.co/image/ab6761610000f178e98a2bfa4ed461e0dc2607f8' height=32>|Laura Brehm|[open](https://open.spotify.com/artist/7ddnIV2r4SLjuwyGlgLIWt)|
 |<img src='https://i.scdn.co/image/ab6761610000f17805d403ca990d1d9d9e0bb3dd' height=32>|Le Castle Vania|[open](https://open.spotify.com/artist/2KrXlzpSX4wWvJ2555FWLv)|
-|<img src='https://i.scdn.co/image/ab67616d000048519cf564c903b8a1362468b20a' height=32>|Lets Be Friends|[open](https://open.spotify.com/artist/0E2SH86glIiPi5IQ0fx8kd)|
+|<img src='https://i.scdn.co/image/ab67616d00004851082ebf9fd902d2642d4eb6f8' height=32>|Lets Be Friends|[open](https://open.spotify.com/artist/0E2SH86glIiPi5IQ0fx8kd)|
 |<img src='https://i.scdn.co/image/ab6761610000f1782b5b18d266cfbb9c97c5589c' height=32>|Lookas|[open](https://open.spotify.com/artist/27fy6rHPC58Eo2VUu0iJSG)|
 |<img src='https://i.scdn.co/image/ab6761610000f1787ab307667002758cdc810d2c' height=32>|LŪN|[open](https://open.spotify.com/artist/44RV4NtG7667JQNtX6iDZc)|
 |<img src='https://i.scdn.co/image/ab6761610000f178017368ebc250001dc6ef6467' height=32>|MEDUZA|[open](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu)|
