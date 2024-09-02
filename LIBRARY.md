@@ -207,7 +207,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f178140e8968d470b393d8c5025a' height=32>|Speaker Honey|[open](https://open.spotify.com/artist/7dzM8rBjimBLgsQ9pfZIXO)|
 |<img src='https://i.scdn.co/image/ab6761610000f178a529594d58fae0fe8408d599' height=32>|Stilz|[open](https://open.spotify.com/artist/0he5qSKLuYoGL223KSWjXJ)|
 |<img src='https://i.scdn.co/image/ab6761610000f17807626ae4a3d34ce3e8521c14' height=32>|Stonebank|[open](https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377)|
-|<img src='https://i.scdn.co/image/ab6761610000f1783acc752dbb488a55fffa9af8' height=32>|Swedish House Mafia|[open](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs)|
+|<img src='https://i.scdn.co/image/ab6761610000f1784a435bd9c6f8d3a2e01b55c3' height=32>|Swedish House Mafia|[open](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs)|
 |<img src='https://i.scdn.co/image/ab6761610000f17809f6620cf964a33a10399f87' height=32>|Sysdemes|[open](https://open.spotify.com/artist/334ksd0rVOUxkEiUzBdgaf)|
 |<img src='https://i.scdn.co/image/ab6761610000f178037c1547ccdaad5eec70a00b' height=32>|TELYKAST|[open](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz)|
 |<img src='https://i.scdn.co/image/ab6761610000f17841cc1ff78d07dfdda89066e3' height=32>|TOKYO ROSE|[open](https://open.spotify.com/artist/3kwoPkICT4iPkNjr6mL13N)|
