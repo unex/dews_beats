@@ -204,7 +204,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f17808c6f3de88a7cd00b65796cb' height=32>|Slooze|[open](https://open.spotify.com/artist/6md8Ho8wqUrhoF8cbsTLnT)|
 |<img src='https://i.scdn.co/image/ab6761610000f17868dad110616ac06eb53b224c' height=32>|Snavs|[open](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM)|
 |<img src='https://i.scdn.co/image/ab6761610000f178bf6d5ee5a992d8587cb0749e' height=32>|Social Kid|[open](https://open.spotify.com/artist/5MTN31B0DYG43RQJ9zT5fq)|
-|<img src='https://i.scdn.co/image/ab6761610000f178140e8968d470b393d8c5025a' height=32>|Speaker Honey|[open](https://open.spotify.com/artist/7dzM8rBjimBLgsQ9pfZIXO)|
+|<img src='https://i.scdn.co/image/ab6761610000f178d1a6654d5a9de7ef5a14f6eb' height=32>|Speaker Honey|[open](https://open.spotify.com/artist/7dzM8rBjimBLgsQ9pfZIXO)|
 |<img src='https://i.scdn.co/image/ab6761610000f178a529594d58fae0fe8408d599' height=32>|Stilz|[open](https://open.spotify.com/artist/0he5qSKLuYoGL223KSWjXJ)|
 |<img src='https://i.scdn.co/image/ab6761610000f17807626ae4a3d34ce3e8521c14' height=32>|Stonebank|[open](https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377)|
 |<img src='https://i.scdn.co/image/ab6761610000f1784a435bd9c6f8d3a2e01b55c3' height=32>|Swedish House Mafia|[open](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs)|
