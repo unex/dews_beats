@@ -213,7 +213,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f17841cc1ff78d07dfdda89066e3' height=32>|TOKYO ROSE|[open](https://open.spotify.com/artist/3kwoPkICT4iPkNjr6mL13N)|
 |<img src='https://i.scdn.co/image/ab6761610000f17823a08dc78da9d9a6869d85fb' height=32>|Tantrum Desire|[open](https://open.spotify.com/artist/7HBMCyflAmijk08T1si9wS)|
 |<img src='https://i.scdn.co/image/ab6761610000f178da9267f9f0c022cfaca1bae9' height=32>|The Anix|[open](https://open.spotify.com/artist/6nFvVbL2RN5czSm7NZjE51)|
-|<img src='https://i.scdn.co/image/ab6761610000f178eb0b1f4eac8e6bd41ea1d4d3' height=32>|The Bloody Beetroots|[open](https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5)|
+|<img src='https://i.scdn.co/image/ab6761610000f1788d9135b5c58bd5549b73a78e' height=32>|The Bloody Beetroots|[open](https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5)|
 |<img src='https://i.scdn.co/image/ab6761610000f178d12e8c61240cbd023dee7743' height=32>|The Crystal Method|[open](https://open.spotify.com/artist/5eKLa1xyHLq8ERWmT1CRHj)|
 |<img src='https://i.scdn.co/image/ab6761610000f1788e8a2d86b3c12e139500af8b' height=32>|The Encounter|[open](https://open.spotify.com/artist/4BoYO8cPeKT28GGAYjDW3g)|
 |<img src='https://i.scdn.co/image/ab6761610000f17840e38d97250b9c4fde250ed6' height=32>|The Glitch Mob|[open](https://open.spotify.com/artist/3a9qv6NLHnsVxJUtKOMHvD)|
