@@ -20,7 +20,7 @@
 |Proximity|Proximity|The best of EDM/Electronic Dance Music from Proximity. Your favorite music you haven't heard yet.|[open](https://open.spotify.com/playlist/3VEFRGe3APwGRl4eTpMS4x)|
 |R|dunce||[open](https://open.spotify.com/playlist/0Yg4Y8u5RffkQfLl5PBQE0)|
 |Release Radar|Spotify|Catch all the latest music from artists you follow, plus new singles picked for you. Updates every Friday.|[open](https://open.spotify.com/playlist/37i9dQZEVXbnh1QaRGLArX)|
-|Tech House Operator|Spotify|Tech house technicians, featuring SOSA 👽👽 50% techno, 50% house|[open](https://open.spotify.com/playlist/37i9dQZF1DWVY4eLfA3XFQ)|
+|Tech House Operator|Spotify|Tech house technicians, featuring Anti Up 👽👽 50% techno, 50% house|[open](https://open.spotify.com/playlist/37i9dQZF1DWVY4eLfA3XFQ)|
 |Top Songs 2022|dunce||[open](https://open.spotify.com/playlist/0xfanbYvfOCJSQMSvWZPyP)|
 |Walker Radio by Alan Walker|Alan Walker|Walkers, this is my personalized playlist with songs that inspire me, including my new single Thick Of it All feat. Joe Jonas &amp; Julia Michaels.|[open](https://open.spotify.com/playlist/4CMmmIRrtAcDc8LuCUlmg6)|
 |Your Top Songs 2020|Spotify|The songs you loved most this year, all wrapped up.|[open](https://open.spotify.com/playlist/37i9dQZF1EM5ISebhB9z7B)|
@@ -186,7 +186,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f178dee6c517fd076a2f1f8a2723' height=32>|Poppy|[open](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv)|
 |<img src='https://i.scdn.co/image/ab6761610000f1781ac12dcb2cc4fc7c740c5e0c' height=32>|Porter Robinson|[open](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam)|
 |<img src='https://i.scdn.co/image/ab6761610000f1789cf293569bdfe2b846eb70c8' height=32>|Prismo|[open](https://open.spotify.com/artist/23ostNBoB9z6GMXLtHdg7y)|
-|<img src='https://i.scdn.co/image/ab6761610000f17800f9b463d902a12d2d14dc97' height=32>|Quackson|[open](https://open.spotify.com/artist/1srU7GzSGHwG1ewjSv6ztq)|
+|<img src='https://i.scdn.co/image/ab6761610000f178eeafc541589fe24ef742c18a' height=32>|Quackson|[open](https://open.spotify.com/artist/1srU7GzSGHwG1ewjSv6ztq)|
 |<img src='https://i.scdn.co/image/ab6761610000f17833b1d3113a07673039c86cc7' height=32>|RIOT|[open](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY)|
 |<img src='https://i.scdn.co/image/ab6761610000f17851b8986175bf808ac1ded1fa' height=32>|Rezz|[open](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw)|
 |<img src='https://i.scdn.co/image/ab6761610000f178f31adfe7487579df789facaf' height=32>|Rickyxsan|[open](https://open.spotify.com/artist/0lqxqV3IhQXO5czq1d0ZfJ)|
