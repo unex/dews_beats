@@ -150,14 +150,14 @@
 |<img src='https://i.scdn.co/image/ab6761610000f17887b0e3c885f5948e583ea628' height=32>|LICK|[open](https://open.spotify.com/artist/62R6OE0R9RB43aSCyzVOxs)|
 |<img src='https://i.scdn.co/image/ab6761610000f178e98a2bfa4ed461e0dc2607f8' height=32>|Laura Brehm|[open](https://open.spotify.com/artist/7ddnIV2r4SLjuwyGlgLIWt)|
 |<img src='https://i.scdn.co/image/ab6761610000f17805d403ca990d1d9d9e0bb3dd' height=32>|Le Castle Vania|[open](https://open.spotify.com/artist/2KrXlzpSX4wWvJ2555FWLv)|
-|<img src='https://i.scdn.co/image/ab67616d000048519cf564c903b8a1362468b20a' height=32>|Lets Be Friends|[open](https://open.spotify.com/artist/0E2SH86glIiPi5IQ0fx8kd)|
+|<img src='https://i.scdn.co/image/ab67616d00004851082ebf9fd902d2642d4eb6f8' height=32>|Lets Be Friends|[open](https://open.spotify.com/artist/0E2SH86glIiPi5IQ0fx8kd)|
 |<img src='https://i.scdn.co/image/ab6761610000f1782b5b18d266cfbb9c97c5589c' height=32>|Lookas|[open](https://open.spotify.com/artist/27fy6rHPC58Eo2VUu0iJSG)|
 |<img src='https://i.scdn.co/image/ab6761610000f1787ab307667002758cdc810d2c' height=32>|LŪN|[open](https://open.spotify.com/artist/44RV4NtG7667JQNtX6iDZc)|
 |<img src='https://i.scdn.co/image/ab6761610000f1784c49dba58421b29648964acd' height=32>|MEDUZA|[open](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu)|
 |<img src='https://i.scdn.co/image/ab6761610000f178db8a8b49c421cd9a02e59e98' height=32>|MUZZ|[open](https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg)|
 |<img src='https://i.scdn.co/image/ab6761610000f178b94e4f19a20ded9f6070d446' height=32>|Maison Ware|[open](https://open.spotify.com/artist/0A85Mz9YHumTq1HgNtt6aA)|
 |<img src='https://i.scdn.co/image/ab6761610000f17818d42ab3b54950d202fe26a9' height=32>|Malaa|[open](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS)|
-|<img src='https://i.scdn.co/image/ab6761610000f178db8d04a30249a6d312599638' height=32>|Marilyn Manson|[open](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj)|
+|<img src='https://i.scdn.co/image/ab6761610000f1789420fc7bac8669f61a9f45c3' height=32>|Marilyn Manson|[open](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj)|
 |<img src='https://i.scdn.co/image/ab6761610000f17845c3688488f871aace7a4a57' height=32>|Martin Garrix|[open](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ)|
 |<img src='https://i.scdn.co/image/ab6761610000f17867496827f683bf6ded6c8f1e' height=32>|Matroda|[open](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz)|
 |<img src='https://i.scdn.co/image/ab6761610000f1780ac924c59aa6cec24890ffcc' height=32>|Matt Lange|[open](https://open.spotify.com/artist/2AmHV6vxRxvHdlxSHxnHE9)|
