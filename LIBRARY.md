@@ -161,7 +161,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f17845c3688488f871aace7a4a57' height=32>|Martin Garrix|[open](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ)|
 |<img src='https://i.scdn.co/image/ab6761610000f17867496827f683bf6ded6c8f1e' height=32>|Matroda|[open](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz)|
 |<img src='https://i.scdn.co/image/ab6761610000f1780ac924c59aa6cec24890ffcc' height=32>|Matt Lange|[open](https://open.spotify.com/artist/2AmHV6vxRxvHdlxSHxnHE9)|
-|<img src='https://i.scdn.co/image/ab6761610000f1781f32496a2ac49b66adfc5252' height=32>|Matteo Tura|[open](https://open.spotify.com/artist/4MDRNxNtr5Zwyhgk6TC0ur)|
+|<img src='https://i.scdn.co/image/ab6761610000f1786271cd6971e5c45cc832485a' height=32>|Matteo Tura|[open](https://open.spotify.com/artist/4MDRNxNtr5Zwyhgk6TC0ur)|
 |<img src='https://i.scdn.co/image/ab6761610000f1789f08ba9be9de04270ec7f9c8' height=32>|Max Brhon|[open](https://open.spotify.com/artist/5DxE39K4wk15NUk2c5zpeI)|
 |<img src='https://i.scdn.co/image/ab6761610000f17892e127fb17994d9a3883abe0' height=32>|Mega Drive|[open](https://open.spotify.com/artist/1WxMvNsfdsGftDZ4oO21L8)|
 |<img src='https://i.scdn.co/image/ab6761610000f17815666fc9df1e11aa6d76dc31' height=32>|Metrik|[open](https://open.spotify.com/artist/2NCEtX40i9lLNpTg2X5583)|
@@ -216,7 +216,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f1788d9135b5c58bd5549b73a78e' height=32>|The Bloody Beetroots|[open](https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5)|
 |<img src='https://i.scdn.co/image/ab6761610000f178d12e8c61240cbd023dee7743' height=32>|The Crystal Method|[open](https://open.spotify.com/artist/5eKLa1xyHLq8ERWmT1CRHj)|
 |<img src='https://i.scdn.co/image/ab6761610000f1788e8a2d86b3c12e139500af8b' height=32>|The Encounter|[open](https://open.spotify.com/artist/4BoYO8cPeKT28GGAYjDW3g)|
-|<img src='https://i.scdn.co/image/ab6761610000f17840e38d97250b9c4fde250ed6' height=32>|The Glitch Mob|[open](https://open.spotify.com/artist/3a9qv6NLHnsVxJUtKOMHvD)|
+|<img src='https://i.scdn.co/image/ab6761610000f1789b7ecb09bae3c89fde4cfbc7' height=32>|The Glitch Mob|[open](https://open.spotify.com/artist/3a9qv6NLHnsVxJUtKOMHvD)|
 |<img src='https://i.scdn.co/image/ab6761610000f178147841812056c247407811f3' height=32>|The Prodigy|[open](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB)|
 |<img src='https://i.scdn.co/image/ab6761610000f1781cea1c207a06778c8342ef0d' height=32>|The Thrillseekers|[open](https://open.spotify.com/artist/1RYDKWzJnJtbTPYNsDswD5)|
 |<img src='https://i.scdn.co/image/ab6761610000f178b44e5d61a4fd3ccc65045fc7' height=32>|Tritonal|[open](https://open.spotify.com/artist/521qvhdobR0GzhvU6TFw76)|
