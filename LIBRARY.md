@@ -141,7 +141,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f1789d71ce1b4190744a1123c3f6' height=32>|KLOUD|[open](https://open.spotify.com/artist/24Hb4GKFYquK73R8mTyInu)|
 |<img src='https://i.scdn.co/image/ab6761610000f17842edcf0d55fe7787c09fdc3e' height=32>|KUURO|[open](https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q)|
 |<img src='https://i.scdn.co/image/ab6761610000f178d9c16a471c26b0c05752bc9b' height=32>|Karma Fields|[open](https://open.spotify.com/artist/1tRsdSvjwp34PDvcmix6SJ)|
-|<img src='https://i.scdn.co/image/ab6761610000f1781d8b8cbb8bcd2064bb098e59' height=32>|Kasablanca|[open](https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI)|
+|<img src='https://i.scdn.co/image/ab6761610000f178cac720e04b7d6d466b65dc91' height=32>|Kasablanca|[open](https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI)|
 |<img src='https://i.scdn.co/image/ab6761610000f178c96f32c30b4c236b5b9c40fa' height=32>|Kaskade|[open](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1)|
 |<img src='https://i.scdn.co/image/46af99524f0595493ce43577008a5fbf2e808057' height=32>|Klaypex|[open](https://open.spotify.com/artist/4HBMToZ4yMR07eiK9IxtjK)|
 |<img src='https://i.scdn.co/image/ab6761610000f178134cf89df8136ae2ec50d1a1' height=32>|Knife Party|[open](https://open.spotify.com/artist/2DuJi13MWHjRHrqRUwk8vH)|
