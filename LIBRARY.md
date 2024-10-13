@@ -89,7 +89,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f17805160aec0fc3da915f1230ab' height=32>|Bob Moses|[open](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5)|
 |<img src='https://i.scdn.co/image/ab6761610000f178c432de6e4a9438c3bd91f40a' height=32>|C.H.A.Y.|[open](https://open.spotify.com/artist/5tMMTJbvSM8jApcukwqO9V)|
 |<img src='https://i.scdn.co/image/ab6761610000f178128e45031667bbb5e361df4d' height=32>|CamelPhat|[open](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W)|
-|<img src='https://i.scdn.co/image/ab6761610000f178052b4df97f7b6734485ecdb1' height=32>|Chaos Chaos|[open](https://open.spotify.com/artist/6D6rjLdxyE5vwhMlkuQq0E)|
+|<img src='https://i.scdn.co/image/ab6761610000f1783ac8fa26e37b27b8f9208489' height=32>|Chaos Chaos|[open](https://open.spotify.com/artist/6D6rjLdxyE5vwhMlkuQq0E)|
 |<img src='https://i.scdn.co/image/ab6761610000f178a98a9afad640218eaa1932bc' height=32>|Charlotte de Witte|[open](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso)|
 |<img src='https://i.scdn.co/image/ab6761610000f1783c4c752f83e79a2f4f84341b' height=32>|Chris Lake|[open](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE)|
 |<img src='https://i.scdn.co/image/ab6761610000f17859ed6a0d67b9f5017e67f426' height=32>|Cosmic Gate|[open](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS)|
@@ -101,7 +101,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f178d859ae8971a7be88250c4fe8' height=32>|Devault|[open](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL)|
 |<img src='https://i.scdn.co/image/ab6761610000f1787a10c0a271f96529bf28f97f' height=32>|Dillon Francis|[open](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf)|
 |<img src='https://i.scdn.co/image/ab6761610000f1784532f608bbe919a7f8b26186' height=32>|Dimension|[open](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S)|
-|<img src='https://i.scdn.co/image/ab6761610000f17868884b9a199f760bf912f0a3' height=32>|Dom Dolla|[open](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m)|
+|<img src='https://i.scdn.co/image/ab6761610000f1787462be97899a774c65777086' height=32>|Dom Dolla|[open](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m)|
 |<img src='https://i.scdn.co/image/ab6761610000f1788e65e9a90943edec29353597' height=32>|Dominus|[open](https://open.spotify.com/artist/0uDJS3oEIxgZeqAPi7REq6)|
 |<img src='https://i.scdn.co/image/ab6761610000f178259a9b27a3225024093d6063' height=32>|DotEXE|[open](https://open.spotify.com/artist/2S2RMiHABGxAQqdqwUN5qF)|
 |<img src='https://i.scdn.co/image/ab6761610000f178ce038fbe25d421c7033e36a2' height=32>|EDDIE|[open](https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd)|
