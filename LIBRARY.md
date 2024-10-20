@@ -162,7 +162,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f17867496827f683bf6ded6c8f1e' height=32>|Matroda|[open](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz)|
 |<img src='https://i.scdn.co/image/ab6761610000f1780ac924c59aa6cec24890ffcc' height=32>|Matt Lange|[open](https://open.spotify.com/artist/2AmHV6vxRxvHdlxSHxnHE9)|
 |<img src='https://i.scdn.co/image/ab6761610000f1786271cd6971e5c45cc832485a' height=32>|Matteo Tura|[open](https://open.spotify.com/artist/4MDRNxNtr5Zwyhgk6TC0ur)|
-|<img src='https://i.scdn.co/image/ab6761610000f1789f08ba9be9de04270ec7f9c8' height=32>|Max Brhon|[open](https://open.spotify.com/artist/5DxE39K4wk15NUk2c5zpeI)|
+|<img src='https://i.scdn.co/image/ab6761610000f178bd92d270dc67d81ce17cecfc' height=32>|Max Brhon|[open](https://open.spotify.com/artist/5DxE39K4wk15NUk2c5zpeI)|
 |<img src='https://i.scdn.co/image/ab6761610000f17892e127fb17994d9a3883abe0' height=32>|Mega Drive|[open](https://open.spotify.com/artist/1WxMvNsfdsGftDZ4oO21L8)|
 |<img src='https://i.scdn.co/image/ab6761610000f17815666fc9df1e11aa6d76dc31' height=32>|Metrik|[open](https://open.spotify.com/artist/2NCEtX40i9lLNpTg2X5583)|
 |<img src='https://i.scdn.co/image/ab6761610000f178c16477abb9aa926a7b2b00d9' height=32>|Michael McCann|[open](https://open.spotify.com/artist/2WqOMwQLdZ5txM8U9lvZGR)|
