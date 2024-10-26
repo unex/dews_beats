@@ -20,7 +20,7 @@
 |Proximity|Proximity|The best of EDM/Electronic Dance Music from Proximity. Your favorite music you haven't heard yet.|[open](https://open.spotify.com/playlist/3VEFRGe3APwGRl4eTpMS4x)|
 |R|dunce||[open](https://open.spotify.com/playlist/0Yg4Y8u5RffkQfLl5PBQE0)|
 |Release Radar|Spotify|Catch all the latest music from artists you follow, plus new singles picked for you. Updates every Friday.|[open](https://open.spotify.com/playlist/37i9dQZEVXbnh1QaRGLArX)|
-|Tech House Operator|Spotify|Tech house technicians, featuring Sebastian Ingrosso 👽👽  50% techno, 50% house|[open](https://open.spotify.com/playlist/37i9dQZF1DWVY4eLfA3XFQ)|
+|Tech House Operator|Spotify|Tech house technicians, featuring Shermanology 👽👽  50% techno, 50% house|[open](https://open.spotify.com/playlist/37i9dQZF1DWVY4eLfA3XFQ)|
 |Top Songs 2022|dunce||[open](https://open.spotify.com/playlist/0xfanbYvfOCJSQMSvWZPyP)|
 |Walker Radio by Alan Walker|Alan Walker|Walkers, this is my personalized playlist with songs that inspire me, including my new single Thick Of it All feat. Joe Jonas &amp; Julia Michaels.|[open](https://open.spotify.com/playlist/4CMmmIRrtAcDc8LuCUlmg6)|
 |Your Top Songs 2020|Spotify|The songs you loved most this year, all wrapped up.|[open](https://open.spotify.com/playlist/37i9dQZF1EM5ISebhB9z7B)|
