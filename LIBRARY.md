@@ -90,7 +90,7 @@
 |<img src='https://i.scdn.co/image/ab6761610000f178c432de6e4a9438c3bd91f40a' height=32>|C.H.A.Y.|[open](https://open.spotify.com/artist/5tMMTJbvSM8jApcukwqO9V)|
 |<img src='https://i.scdn.co/image/ab6761610000f178128e45031667bbb5e361df4d' height=32>|CamelPhat|[open](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W)|
 |<img src='https://i.scdn.co/image/ab6761610000f1783ac8fa26e37b27b8f9208489' height=32>|Chaos Chaos|[open](https://open.spotify.com/artist/6D6rjLdxyE5vwhMlkuQq0E)|
-|<img src='https://i.scdn.co/image/ab6761610000f178a98a9afad640218eaa1932bc' height=32>|Charlotte de Witte|[open](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso)|
+|<img src='https://i.scdn.co/image/ab6761610000f17865d29423ea2e01a900a98fb6' height=32>|Charlotte de Witte|[open](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso)|
 |<img src='https://i.scdn.co/image/ab6761610000f1783c4c752f83e79a2f4f84341b' height=32>|Chris Lake|[open](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE)|
 |<img src='https://i.scdn.co/image/ab6761610000f17859ed6a0d67b9f5017e67f426' height=32>|Cosmic Gate|[open](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS)|
 |<img src='https://i.scdn.co/image/ab6761610000f178d2d31ec2406b6ae6c1961fe7' height=32>|Cryptex|[open](https://open.spotify.com/artist/7kDgsWBfjKo9Qed9ZiZQxo)|
