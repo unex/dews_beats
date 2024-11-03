@@ -231,14 +231,14 @@
 |<img src='https://i.scdn.co/image/ab6761610000f1786f38a8a8f9d51919157611b9' height=32>|Virtual Riot|[open](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1)|
 |<img src='https://i.scdn.co/image/ab6761610000f178f4f156ad059348f5f02b1fae' height=32>|Vogel|[open](https://open.spotify.com/artist/0IPgmXKtAVL8x0Gwqc2SuM)|
 |<img src='https://i.scdn.co/image/ab6761610000f17864be1790ebf10babca164ee5' height=32>|WHIPPED CREAM|[open](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi)|
-|<img src='https://i.scdn.co/image/ab6761610000f178ea95c8214f10d6e66f3152df' height=32>|Will Sparks|[open](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U)|
+|<img src='https://i.scdn.co/image/ab6761610000f178d9884589edf001e173fa17aa' height=32>|Will Sparks|[open](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U)|
 |<img src='https://i.scdn.co/image/ab6761610000f1786bb7b4c18abdbbe45de23f8d' height=32>|Wolfgang Gartner|[open](https://open.spotify.com/artist/3534yWWzmxx8NbKVoNolsK)|
 |<img src='https://i.scdn.co/image/ab6761610000f17856817b9fe50005bf553d3b85' height=32>|Xilent|[open](https://open.spotify.com/artist/1k78cRCnTM3T7EhvhVeaKX)|
 |<img src='https://i.scdn.co/image/ab67616d00004851b479b15b77c5bb6741c67b0c' height=32>|Yurie|[open](https://open.spotify.com/artist/61lAbhmTP9kmSCUDGRnUdt)|
 |<img src='https://i.scdn.co/image/ab6761610000f178144c5c6647dca82f5967c94c' height=32>|ZABO|[open](https://open.spotify.com/artist/19zQevA415Jm6ThEtIwVIb)|
 |<img src='https://i.scdn.co/image/ab6761610000f1788e9b406b9a5a120bf6fb4d21' height=32>|ZHU|[open](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2)|
 |<img src='https://i.scdn.co/image/ab6761610000f1789a4225e6542fa298e7206a4d' height=32>|Zac Waters|[open](https://open.spotify.com/artist/3KF7anPKoBvMZSJEFvZDN9)|
-|<img src='https://i.scdn.co/image/ab6761610000f178187ae34b4a0a55270f3f2bcc' height=32>|Zweihänder|[open](https://open.spotify.com/artist/5TAKKdC7OQSTfKkKlcs6Q4)|
+|<img src='https://i.scdn.co/image/ab6761610000f178e1aa990b37b06fb9dc871a9b' height=32>|Zweihänder|[open](https://open.spotify.com/artist/5TAKKdC7OQSTfKkKlcs6Q4)|
 |<img src='https://i.scdn.co/image/ab6761610000f17889ffabe57a25cedeca3309e7' height=32>|deadmau5|[open](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx)|
 |<img src='https://i.scdn.co/image/ab6761610000f178f4cccd0e15432ea921207171' height=32>|despite others|[open](https://open.spotify.com/artist/5kAKMQiwM8GCQtgNI76ziT)|
 |<img src='https://i.scdn.co/image/ab6761610000f178c7ccd9db1885211ebc3a0239' height=32>|i_o|[open](https://open.spotify.com/artist/0y42IQBDFigO5mmEd1bGQG)|
